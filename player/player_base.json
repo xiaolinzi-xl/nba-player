@@ -1,0 +1,4547 @@
+[
+  {
+    "team_id": "1610612738",
+    "player_id": 1628369,
+    "name": "Jayson Tatum",
+    "cloth_num": "0",
+    "pos": "F",
+    "height": "6-8",
+    "weight": "205"
+  },
+  {
+    "team_id": "1610612738",
+    "player_id": 1627759,
+    "name": "Jaylen Brown",
+    "cloth_num": "7",
+    "pos": "G-F",
+    "height": "6-7",
+    "weight": "225"
+  },
+  {
+    "team_id": "1610612738",
+    "player_id": 203499,
+    "name": "Shane Larkin",
+    "cloth_num": "8",
+    "pos": "G",
+    "height": "5-11",
+    "weight": "175"
+  },
+  {
+    "team_id": "1610612738",
+    "player_id": 202918,
+    "name": "Xavier Silas",
+    "cloth_num": "9",
+    "pos": "G",
+    "height": "6-5",
+    "weight": "205"
+  },
+  {
+    "team_id": "1610612738",
+    "player_id": 202681,
+    "name": "Kyrie Irving",
+    "cloth_num": "11",
+    "pos": "G",
+    "height": "6-3",
+    "weight": "193"
+  },
+  {
+    "team_id": "1610612738",
+    "player_id": 1626179,
+    "name": "Terry Rozier",
+    "cloth_num": "12",
+    "pos": "G",
+    "height": "6-2",
+    "weight": "190"
+  },
+  {
+    "team_id": "1610612738",
+    "player_id": 202694,
+    "name": "Marcus Morris",
+    "cloth_num": "13",
+    "pos": "F",
+    "height": "6-9",
+    "weight": "235"
+  },
+  {
+    "team_id": "1610612738",
+    "player_id": 202330,
+    "name": "Gordon Hayward",
+    "cloth_num": "20",
+    "pos": "F",
+    "height": "6-8",
+    "weight": "226"
+  },
+  {
+    "team_id": "1610612738",
+    "player_id": 1628444,
+    "name": "Jabari Bird",
+    "cloth_num": "26",
+    "pos": "G",
+    "height": "6-6",
+    "weight": "198"
+  },
+  {
+    "team_id": "1610612738",
+    "player_id": 1628464,
+    "name": "Daniel Theis",
+    "cloth_num": "27",
+    "pos": "F-C",
+    "height": "6-9",
+    "weight": "243"
+  },
+  {
+    "team_id": "1610612738",
+    "player_id": 1627846,
+    "name": "Abdel Nader",
+    "cloth_num": "28",
+    "pos": "F",
+    "height": "6-6",
+    "weight": "230"
+  },
+  {
+    "team_id": "1610612738",
+    "player_id": 1627824,
+    "name": "Guerschon Yabusele",
+    "cloth_num": "30",
+    "pos": "F",
+    "height": "6-8",
+    "weight": "260"
+  },
+  {
+    "team_id": "1610612738",
+    "player_id": 203935,
+    "name": "Marcus Smart",
+    "cloth_num": "36",
+    "pos": "G",
+    "height": "6-4",
+    "weight": "220"
+  },
+  {
+    "team_id": "1610612738",
+    "player_id": 1628400,
+    "name": "Semi Ojeleye",
+    "cloth_num": "37",
+    "pos": "F",
+    "height": "6-7",
+    "weight": "235"
+  },
+  {
+    "team_id": "1610612738",
+    "player_id": 201143,
+    "name": "Al Horford",
+    "cloth_num": "42",
+    "pos": "F-C",
+    "height": "6-10",
+    "weight": "245"
+  },
+  {
+    "team_id": "1610612738",
+    "player_id": 1628443,
+    "name": "Kadeem Allen",
+    "cloth_num": "45",
+    "pos": "G",
+    "height": "6-3",
+    "weight": "200"
+  },
+  {
+    "team_id": "1610612738",
+    "player_id": 203382,
+    "name": "Aron Baynes",
+    "cloth_num": "46",
+    "pos": "C",
+    "height": "6-10",
+    "weight": "260"
+  },
+  {
+    "team_id": "1610612738",
+    "player_id": 202328,
+    "name": "Greg Monroe",
+    "cloth_num": "55",
+    "pos": "C-F",
+    "height": "6-11",
+    "weight": "265"
+  },
+  {
+    "team_id": "1610612738",
+    "player_id": 1626780,
+    "name": "Jonathan Gibson",
+    "cloth_num": "60",
+    "pos": "G",
+    "height": "6-2",
+    "weight": "185"
+  },
+  {
+    "team_id": "1610612751",
+    "player_id": 1627821,
+    "name": "James Webb III",
+    "cloth_num": "0",
+    "pos": "F",
+    "height": "6-9",
+    "weight": "202"
+  },
+  {
+    "team_id": "1610612751",
+    "player_id": 1626156,
+    "name": "D'Angelo Russell",
+    "cloth_num": "1",
+    "pos": "G",
+    "height": "6-5",
+    "weight": "195"
+  },
+  {
+    "team_id": "1610612751",
+    "player_id": 203917,
+    "name": "Nik Stauskas",
+    "cloth_num": "2",
+    "pos": "G",
+    "height": "6-6",
+    "weight": "205"
+  },
+  {
+    "team_id": "1610612751",
+    "player_id": 1626143,
+    "name": "Jahlil Okafor",
+    "cloth_num": "4",
+    "pos": "C",
+    "height": "6-11",
+    "weight": "260"
+  },
+  {
+    "team_id": "1610612751",
+    "player_id": 202391,
+    "name": "Jeremy Lin",
+    "cloth_num": "7",
+    "pos": "G",
+    "height": "6-3",
+    "weight": "200"
+  },
+  {
+    "team_id": "1610612751",
+    "player_id": 203915,
+    "name": "Spencer Dinwiddie",
+    "cloth_num": "8",
+    "pos": "G",
+    "height": "6-6",
+    "weight": "200"
+  },
+  {
+    "team_id": "1610612751",
+    "player_id": 201960,
+    "name": "DeMarre Carroll",
+    "cloth_num": "9",
+    "pos": "F",
+    "height": "6-8",
+    "weight": "215"
+  },
+  {
+    "team_id": "1610612751",
+    "player_id": 203925,
+    "name": "Joe Harris",
+    "cloth_num": "12",
+    "pos": "F-G",
+    "height": "6-6",
+    "weight": "219"
+  },
+  {
+    "team_id": "1610612751",
+    "player_id": 203112,
+    "name": "Quincy Acy",
+    "cloth_num": "13",
+    "pos": "F",
+    "height": "6-7",
+    "weight": "240"
+  },
+  {
+    "team_id": "1610612751",
+    "player_id": 1628495,
+    "name": "Milton Doyle",
+    "cloth_num": "14",
+    "pos": "G",
+    "height": "6-4",
+    "weight": "180"
+  },
+  {
+    "team_id": "1610612751",
+    "player_id": 1627785,
+    "name": "Isaiah Whitehead",
+    "cloth_num": "15",
+    "pos": "G",
+    "height": "6-4",
+    "weight": "213"
+  },
+  {
+    "team_id": "1610612751",
+    "player_id": 202389,
+    "name": "Timofey Mozgov",
+    "cloth_num": "20",
+    "pos": "C",
+    "height": "7-1",
+    "weight": "275"
+  },
+  {
+    "team_id": "1610612751",
+    "player_id": 1627747,
+    "name": "Caris LeVert",
+    "cloth_num": "22",
+    "pos": "G-F",
+    "height": "6-7",
+    "weight": "203"
+  },
+  {
+    "team_id": "1610612751",
+    "player_id": 1626178,
+    "name": "Rondae Hollis-Jefferson",
+    "cloth_num": "24",
+    "pos": "F",
+    "height": "6-7",
+    "weight": "214"
+  },
+  {
+    "team_id": "1610612751",
+    "player_id": 1628386,
+    "name": "Jarrett Allen",
+    "cloth_num": "31",
+    "pos": "C",
+    "height": "6-11",
+    "weight": "234"
+  },
+  {
+    "team_id": "1610612751",
+    "player_id": 203459,
+    "name": "Allen Crabbe",
+    "cloth_num": "33",
+    "pos": "G-F",
+    "height": "6-6",
+    "weight": "215"
+  },
+  {
+    "team_id": "1610612751",
+    "player_id": 201967,
+    "name": "Dante Cunningham",
+    "cloth_num": "44",
+    "pos": "F",
+    "height": "6-8",
+    "weight": "230"
+  },
+  {
+    "team_id": "1610612752",
+    "player_id": 202683,
+    "name": "Enes Kanter",
+    "cloth_num": "00",
+    "pos": "C",
+    "height": "6-11",
+    "weight": "245"
+  },
+  {
+    "team_id": "1610612752",
+    "player_id": 1627786,
+    "name": "Troy Williams",
+    "cloth_num": "0",
+    "pos": "F",
+    "height": "6-7",
+    "weight": "218"
+  },
+  {
+    "team_id": "1610612752",
+    "player_id": 1626144,
+    "name": "Emmanuel Mudiay",
+    "cloth_num": "1",
+    "pos": "G",
+    "height": "6-5",
+    "weight": "200"
+  },
+  {
+    "team_id": "1610612752",
+    "player_id": 1628436,
+    "name": "Luke Kornet",
+    "cloth_num": "2",
+    "pos": "F-C",
+    "height": "7-1",
+    "weight": "250"
+  },
+  {
+    "team_id": "1610612752",
+    "player_id": 203501,
+    "name": "Tim Hardaway Jr.",
+    "cloth_num": "3",
+    "pos": "F-G",
+    "height": "6-6",
+    "weight": "205"
+  },
+  {
+    "team_id": "1610612752",
+    "player_id": 1628439,
+    "name": "Isaiah Hicks",
+    "cloth_num": "4",
+    "pos": "F",
+    "height": "6-9",
+    "weight": "242"
+  },
+  {
+    "team_id": "1610612752",
+    "player_id": 201584,
+    "name": "Courtney Lee",
+    "cloth_num": "5",
+    "pos": "G",
+    "height": "6-5",
+    "weight": "200"
+  },
+  {
+    "team_id": "1610612752",
+    "player_id": 204001,
+    "name": "Kristaps Porzingis",
+    "cloth_num": "6",
+    "pos": "F-C",
+    "height": "7-3",
+    "weight": "240"
+  },
+  {
+    "team_id": "1610612752",
+    "player_id": 201563,
+    "name": "Michael Beasley",
+    "cloth_num": "8",
+    "pos": "F",
+    "height": "6-9",
+    "weight": "235"
+  },
+  {
+    "team_id": "1610612752",
+    "player_id": 203124,
+    "name": "Kyle O'Quinn",
+    "cloth_num": "9",
+    "pos": "C-F",
+    "height": "6-10",
+    "weight": "250"
+  },
+  {
+    "team_id": "1610612752",
+    "player_id": 1628373,
+    "name": "Frank Ntilikina",
+    "cloth_num": "11",
+    "pos": "G",
+    "height": "6-5",
+    "weight": "190"
+  },
+  {
+    "team_id": "1610612752",
+    "player_id": 201149,
+    "name": "Joakim Noah",
+    "cloth_num": "13",
+    "pos": "C",
+    "height": "6-11",
+    "weight": "230"
+  },
+  {
+    "team_id": "1610612752",
+    "player_id": 1628422,
+    "name": "Damyean Dotson",
+    "cloth_num": "21",
+    "pos": "G",
+    "height": "6-5",
+    "weight": "210"
+  },
+  {
+    "team_id": "1610612752",
+    "player_id": 203504,
+    "name": "Trey Burke",
+    "cloth_num": "23",
+    "pos": "G",
+    "height": "6-1",
+    "weight": "191"
+  },
+  {
+    "team_id": "1610612752",
+    "player_id": 1627758,
+    "name": "Ron Baker",
+    "cloth_num": "31",
+    "pos": "G",
+    "height": "6-4",
+    "weight": "220"
+  },
+  {
+    "team_id": "1610612752",
+    "player_id": 202498,
+    "name": "Lance Thomas",
+    "cloth_num": "42",
+    "pos": "F",
+    "height": "6-8",
+    "weight": "235"
+  },
+  {
+    "team_id": "1610612752",
+    "player_id": 101127,
+    "name": "Jarrett Jack",
+    "cloth_num": "55",
+    "pos": "G",
+    "height": "6-3",
+    "weight": "200"
+  },
+  {
+    "team_id": "1610612755",
+    "player_id": 201573,
+    "name": "Jerryd Bayless",
+    "cloth_num": "0",
+    "pos": "G",
+    "height": "6-3",
+    "weight": "200"
+  },
+  {
+    "team_id": "1610612755",
+    "player_id": 1626147,
+    "name": "Justin Anderson",
+    "cloth_num": "1",
+    "pos": "G-F",
+    "height": "6-6",
+    "weight": "230"
+  },
+  {
+    "team_id": "1610612755",
+    "player_id": 101161,
+    "name": "Amir Johnson",
+    "cloth_num": "5",
+    "pos": "C-F",
+    "height": "6-9",
+    "weight": "240"
+  },
+  {
+    "team_id": "1610612755",
+    "player_id": 1627789,
+    "name": "Timothe Luwawu-Cabarrot",
+    "cloth_num": "7",
+    "pos": "G-F",
+    "height": "6-6",
+    "weight": "200"
+  },
+  {
+    "team_id": "1610612755",
+    "player_id": 203967,
+    "name": "Dario Saric",
+    "cloth_num": "9",
+    "pos": "F",
+    "height": "6-10",
+    "weight": "223"
+  },
+  {
+    "team_id": "1610612755",
+    "player_id": 1627743,
+    "name": "Demetrius Jackson",
+    "cloth_num": "11",
+    "pos": "G",
+    "height": "6-1",
+    "weight": "201"
+  },
+  {
+    "team_id": "1610612755",
+    "player_id": 204456,
+    "name": "T.J. McConnell",
+    "cloth_num": "12",
+    "pos": "G",
+    "height": "6-2",
+    "weight": "190"
+  },
+  {
+    "team_id": "1610612755",
+    "player_id": 200755,
+    "name": "JJ Redick",
+    "cloth_num": "17",
+    "pos": "G-F",
+    "height": "6-4",
+    "weight": "200"
+  },
+  {
+    "team_id": "1610612755",
+    "player_id": 201158,
+    "name": "Marco Belinelli",
+    "cloth_num": "18",
+    "pos": "G-F",
+    "height": "6-5",
+    "weight": "210"
+  },
+  {
+    "team_id": "1610612755",
+    "player_id": 1628365,
+    "name": "Markelle Fultz",
+    "cloth_num": "20",
+    "pos": "G",
+    "height": "6-4",
+    "weight": "200"
+  },
+  {
+    "team_id": "1610612755",
+    "player_id": 203954,
+    "name": "Joel Embiid",
+    "cloth_num": "21",
+    "pos": "C",
+    "height": "7-0",
+    "weight": "250"
+  },
+  {
+    "team_id": "1610612755",
+    "player_id": 1626158,
+    "name": "Richaun Holmes",
+    "cloth_num": "22",
+    "pos": "F-C",
+    "height": "6-10",
+    "weight": "235"
+  },
+  {
+    "team_id": "1610612755",
+    "player_id": 101141,
+    "name": "Ersan Ilyasova",
+    "cloth_num": "23",
+    "pos": "F",
+    "height": "6-10",
+    "weight": "235"
+  },
+  {
+    "team_id": "1610612755",
+    "player_id": 1627732,
+    "name": "Ben Simmons",
+    "cloth_num": "25",
+    "pos": "G-F",
+    "height": "6-10",
+    "weight": "230"
+  },
+  {
+    "team_id": "1610612755",
+    "player_id": 1627788,
+    "name": "Furkan Korkmaz",
+    "cloth_num": "30",
+    "pos": "G-F",
+    "height": "6-7",
+    "weight": "190"
+  },
+  {
+    "team_id": "1610612755",
+    "player_id": 203496,
+    "name": "Robert Covington",
+    "cloth_num": "33",
+    "pos": "F",
+    "height": "6-9",
+    "weight": "225"
+  },
+  {
+    "team_id": "1610612761",
+    "player_id": 101139,
+    "name": "CJ Miles",
+    "cloth_num": "0",
+    "pos": "F-G",
+    "height": "6-6",
+    "weight": "225"
+  },
+  {
+    "team_id": "1610612761",
+    "player_id": 1628384,
+    "name": "OG Anunoby",
+    "cloth_num": "3",
+    "pos": "F",
+    "height": "6-8",
+    "weight": "235"
+  },
+  {
+    "team_id": "1610612761",
+    "player_id": 203485,
+    "name": "Lorenzo Brown",
+    "cloth_num": "4",
+    "pos": "G",
+    "height": "6-5",
+    "weight": "189"
+  },
+  {
+    "team_id": "1610612761",
+    "player_id": 200768,
+    "name": "Kyle Lowry",
+    "cloth_num": "7",
+    "pos": "G",
+    "height": "6-0",
+    "weight": "205"
+  },
+  {
+    "team_id": "1610612761",
+    "player_id": 201586,
+    "name": "Serge Ibaka",
+    "cloth_num": "9",
+    "pos": "F",
+    "height": "6-10",
+    "weight": "235"
+  },
+  {
+    "team_id": "1610612761",
+    "player_id": 201942,
+    "name": "DeMar DeRozan",
+    "cloth_num": "10",
+    "pos": "G",
+    "height": "6-7",
+    "weight": "220"
+  },
+  {
+    "team_id": "1610612761",
+    "player_id": 1626259,
+    "name": "Malcolm Miller",
+    "cloth_num": "13",
+    "pos": "F",
+    "height": "6-7",
+    "weight": "210"
+  },
+  {
+    "team_id": "1610612761",
+    "player_id": 202685,
+    "name": "Jonas Valanciunas",
+    "cloth_num": "17",
+    "pos": "C",
+    "height": "7-0",
+    "weight": "255"
+  },
+  {
+    "team_id": "1610612761",
+    "player_id": 1627781,
+    "name": "Malachi Richardson",
+    "cloth_num": "22",
+    "pos": "G",
+    "height": "6-6",
+    "weight": "205"
+  },
+  {
+    "team_id": "1610612761",
+    "player_id": 1627832,
+    "name": "Fred VanVleet",
+    "cloth_num": "23",
+    "pos": "G",
+    "height": "6-0",
+    "weight": "195"
+  },
+  {
+    "team_id": "1610612761",
+    "player_id": 1626181,
+    "name": "Norman Powell",
+    "cloth_num": "24",
+    "pos": "F-G",
+    "height": "6-4",
+    "weight": "215"
+  },
+  {
+    "team_id": "1610612761",
+    "player_id": 1628035,
+    "name": "Alfonzo McKinnie",
+    "cloth_num": "34",
+    "pos": "F",
+    "height": "6-8",
+    "weight": "215"
+  },
+  {
+    "team_id": "1610612761",
+    "player_id": 1627751,
+    "name": "Jakob Poeltl",
+    "cloth_num": "42",
+    "pos": "C",
+    "height": "7-0",
+    "weight": "230"
+  },
+  {
+    "team_id": "1610612761",
+    "player_id": 1627783,
+    "name": "Pascal Siakam",
+    "cloth_num": "43",
+    "pos": "F",
+    "height": "6-9",
+    "weight": "230"
+  },
+  {
+    "team_id": "1610612761",
+    "player_id": 1626153,
+    "name": "Delon Wright",
+    "cloth_num": "55",
+    "pos": "G",
+    "height": "6-5",
+    "weight": "190"
+  },
+  {
+    "team_id": "1610612761",
+    "player_id": 203512,
+    "name": "Lucas Nogueira",
+    "cloth_num": "92",
+    "pos": "C",
+    "height": "7-0",
+    "weight": "220"
+  },
+  {
+    "team_id": "1610612741",
+    "player_id": 203930,
+    "name": "Sean Kilpatrick",
+    "cloth_num": "0",
+    "pos": "G",
+    "height": "6-4",
+    "weight": "212"
+  },
+  {
+    "team_id": "1610612741",
+    "player_id": 1626170,
+    "name": "Jerian Grant",
+    "cloth_num": "2",
+    "pos": "G",
+    "height": "6-4",
+    "weight": "198"
+  },
+  {
+    "team_id": "1610612741",
+    "player_id": 201600,
+    "name": "Omer Asik",
+    "cloth_num": "3",
+    "pos": "C",
+    "height": "7-0",
+    "weight": "255"
+  },
+  {
+    "team_id": "1610612741",
+    "player_id": 1626171,
+    "name": "Bobby Portis",
+    "cloth_num": "5",
+    "pos": "F",
+    "height": "6-11",
+    "weight": "248"
+  },
+  {
+    "team_id": "1610612741",
+    "player_id": 1626245,
+    "name": "Cristiano Felicio",
+    "cloth_num": "6",
+    "pos": "C-F",
+    "height": "6-9",
+    "weight": "280"
+  },
+  {
+    "team_id": "1610612741",
+    "player_id": 203200,
+    "name": "Justin Holiday",
+    "cloth_num": "7",
+    "pos": "G",
+    "height": "6-6",
+    "weight": "185"
+  },
+  {
+    "team_id": "1610612741",
+    "player_id": 203897,
+    "name": "Zach LaVine",
+    "cloth_num": "8",
+    "pos": "G",
+    "height": "6-5",
+    "weight": "185"
+  },
+  {
+    "team_id": "1610612741",
+    "player_id": 1628469,
+    "name": "Antonio Blakeney",
+    "cloth_num": "9",
+    "pos": "G",
+    "height": "6-4",
+    "weight": "197"
+  },
+  {
+    "team_id": "1610612741",
+    "player_id": 1628021,
+    "name": "David Nwaba",
+    "cloth_num": "11",
+    "pos": "F",
+    "height": "6-4",
+    "weight": "209"
+  },
+  {
+    "team_id": "1610612741",
+    "player_id": 1627853,
+    "name": "Ryan Arcidiacono",
+    "cloth_num": "15",
+    "pos": "G",
+    "height": "6-3",
+    "weight": "195"
+  },
+  {
+    "team_id": "1610612741",
+    "player_id": 1627835,
+    "name": "Paul Zipser",
+    "cloth_num": "16",
+    "pos": "F",
+    "height": "6-8",
+    "weight": "226"
+  },
+  {
+    "team_id": "1610612741",
+    "player_id": 1626166,
+    "name": "Cameron Payne",
+    "cloth_num": "22",
+    "pos": "G",
+    "height": "6-3",
+    "weight": "185"
+  },
+  {
+    "team_id": "1610612741",
+    "player_id": 1628374,
+    "name": "Lauri Markkanen",
+    "cloth_num": "24",
+    "pos": "F",
+    "height": "7-0",
+    "weight": "230"
+  },
+  {
+    "team_id": "1610612741",
+    "player_id": 203943,
+    "name": "Noah Vonleh",
+    "cloth_num": "30",
+    "pos": "F",
+    "height": "6-9",
+    "weight": "245"
+  },
+  {
+    "team_id": "1610612741",
+    "player_id": 204067,
+    "name": "Jarell Eddie",
+    "cloth_num": "31",
+    "pos": "G-F",
+    "height": "6-7",
+    "weight": "218"
+  },
+  {
+    "team_id": "1610612741",
+    "player_id": 1627739,
+    "name": "Kris Dunn",
+    "cloth_num": "32",
+    "pos": "G",
+    "height": "6-4",
+    "weight": "210"
+  },
+  {
+    "team_id": "1610612741",
+    "player_id": 201577,
+    "name": "Robin Lopez",
+    "cloth_num": "42",
+    "pos": "C",
+    "height": "7-0",
+    "weight": "277"
+  },
+  {
+    "team_id": "1610612741",
+    "player_id": 1627756,
+    "name": "Denzel Valentine",
+    "cloth_num": "45",
+    "pos": "F",
+    "height": "6-6",
+    "weight": "214"
+  },
+  {
+    "team_id": "1610612739",
+    "player_id": 201567,
+    "name": "Kevin Love",
+    "cloth_num": "0",
+    "pos": "C-F",
+    "height": "6-10",
+    "weight": "251"
+  },
+  {
+    "team_id": "1610612739",
+    "player_id": 203918,
+    "name": "Rodney Hood",
+    "cloth_num": "1",
+    "pos": "G",
+    "height": "6-8",
+    "weight": "206"
+  },
+  {
+    "team_id": "1610612739",
+    "player_id": 201588,
+    "name": "George Hill",
+    "cloth_num": "3",
+    "pos": "G",
+    "height": "6-3",
+    "weight": "188"
+  },
+  {
+    "team_id": "1610612739",
+    "player_id": 2747,
+    "name": "JR Smith",
+    "cloth_num": "5",
+    "pos": "G-F",
+    "height": "6-6",
+    "weight": "225"
+  },
+  {
+    "team_id": "1610612739",
+    "player_id": 203903,
+    "name": "Jordan Clarkson",
+    "cloth_num": "8",
+    "pos": "G",
+    "height": "6-5",
+    "weight": "194"
+  },
+  {
+    "team_id": "1610612739",
+    "player_id": 1627855,
+    "name": "Okaro White",
+    "cloth_num": "9",
+    "pos": "F",
+    "height": "6-8",
+    "weight": "215"
+  },
+  {
+    "team_id": "1610612739",
+    "player_id": 202684,
+    "name": "Tristan Thompson",
+    "cloth_num": "13",
+    "pos": "C-F",
+    "height": "6-9",
+    "weight": "238"
+  },
+  {
+    "team_id": "1610612739",
+    "player_id": 1626224,
+    "name": "Cedi Osman",
+    "cloth_num": "16",
+    "pos": "F",
+    "height": "6-8",
+    "weight": "215"
+  },
+  {
+    "team_id": "1610612739",
+    "player_id": 2570,
+    "name": "Kendrick Perkins",
+    "cloth_num": "21",
+    "pos": "C",
+    "height": "6-10",
+    "weight": "270"
+  },
+  {
+    "team_id": "1610612739",
+    "player_id": 1626204,
+    "name": "Larry Nance Jr.",
+    "cloth_num": "22",
+    "pos": "F",
+    "height": "6-9",
+    "weight": "230"
+  },
+  {
+    "team_id": "1610612739",
+    "player_id": 2544,
+    "name": "LeBron James",
+    "cloth_num": "23",
+    "pos": "F-G",
+    "height": "6-8",
+    "weight": "250"
+  },
+  {
+    "team_id": "1610612739",
+    "player_id": 2594,
+    "name": "Kyle Korver",
+    "cloth_num": "26",
+    "pos": "G",
+    "height": "6-7",
+    "weight": "212"
+  },
+  {
+    "team_id": "1610612739",
+    "player_id": 201145,
+    "name": "Jeff Green",
+    "cloth_num": "32",
+    "pos": "F",
+    "height": "6-9",
+    "weight": "235"
+  },
+  {
+    "team_id": "1610612739",
+    "player_id": 1627790,
+    "name": "Ante Zizic",
+    "cloth_num": "41",
+    "pos": "F-C",
+    "height": "6-11",
+    "weight": "250"
+  },
+  {
+    "team_id": "1610612739",
+    "player_id": 101181,
+    "name": "Jose Calderon",
+    "cloth_num": "81",
+    "pos": "G",
+    "height": "6-3",
+    "weight": "200"
+  },
+  {
+    "team_id": "1610612765",
+    "player_id": 203083,
+    "name": "Andre Drummond",
+    "cloth_num": "0",
+    "pos": "C",
+    "height": "6-11",
+    "weight": "279"
+  },
+  {
+    "team_id": "1610612765",
+    "player_id": 202704,
+    "name": "Reggie Jackson",
+    "cloth_num": "1",
+    "pos": "G",
+    "height": "6-3",
+    "weight": "208"
+  },
+  {
+    "team_id": "1610612765",
+    "player_id": 1628379,
+    "name": "Luke Kennard",
+    "cloth_num": "5",
+    "pos": "G",
+    "height": "6-5",
+    "weight": "200"
+  },
+  {
+    "team_id": "1610612765",
+    "player_id": 1626169,
+    "name": "Stanley Johnson",
+    "cloth_num": "7",
+    "pos": "F",
+    "height": "6-7",
+    "weight": "245"
+  },
+  {
+    "team_id": "1610612765",
+    "player_id": 1627740,
+    "name": "Henry Ellenson",
+    "cloth_num": "8",
+    "pos": "F",
+    "height": "6-11",
+    "weight": "245"
+  },
+  {
+    "team_id": "1610612765",
+    "player_id": 204038,
+    "name": "Langston Galloway",
+    "cloth_num": "9",
+    "pos": "G",
+    "height": "6-2",
+    "weight": "200"
+  },
+  {
+    "team_id": "1610612765",
+    "player_id": 202397,
+    "name": "Ish Smith",
+    "cloth_num": "14",
+    "pos": "G",
+    "height": "6-0",
+    "weight": "175"
+  },
+  {
+    "team_id": "1610612765",
+    "player_id": 202779,
+    "name": "Dwight Buycks",
+    "cloth_num": "20",
+    "pos": "G",
+    "height": "6-3",
+    "weight": "190"
+  },
+  {
+    "team_id": "1610612765",
+    "player_id": 1627770,
+    "name": "Kay Felder",
+    "cloth_num": "22",
+    "pos": "G",
+    "height": "5-9",
+    "weight": "176"
+  },
+  {
+    "team_id": "1610612765",
+    "player_id": 201933,
+    "name": "Blake Griffin",
+    "cloth_num": "23",
+    "pos": "F",
+    "height": "6-10",
+    "weight": "251"
+  },
+  {
+    "team_id": "1610612765",
+    "player_id": 203961,
+    "name": "Eric Moreland",
+    "cloth_num": "24",
+    "pos": "F-C",
+    "height": "6-10",
+    "weight": "238"
+  },
+  {
+    "team_id": "1610612765",
+    "player_id": 203493,
+    "name": "Reggie Bullock",
+    "cloth_num": "25",
+    "pos": "G-F",
+    "height": "6-7",
+    "weight": "205"
+  },
+  {
+    "team_id": "1610612765",
+    "player_id": 202720,
+    "name": "Jon Leuer",
+    "cloth_num": "30",
+    "pos": "F-C",
+    "height": "6-10",
+    "weight": "228"
+  },
+  {
+    "team_id": "1610612765",
+    "player_id": 203516,
+    "name": "James Ennis III",
+    "cloth_num": "33",
+    "pos": "F",
+    "height": "6-7",
+    "weight": "210"
+  },
+  {
+    "team_id": "1610612765",
+    "player_id": 203687,
+    "name": "Reggie Hearn",
+    "cloth_num": "38",
+    "pos": "G",
+    "height": "6-5",
+    "weight": "210"
+  },
+  {
+    "team_id": "1610612765",
+    "player_id": 2749,
+    "name": "Jameer Nelson",
+    "cloth_num": "41",
+    "pos": "G",
+    "height": "6-0",
+    "weight": "190"
+  },
+  {
+    "team_id": "1610612765",
+    "player_id": 201229,
+    "name": "Anthony Tolliver",
+    "cloth_num": "43",
+    "pos": "F",
+    "height": "6-8",
+    "weight": "240"
+  },
+  {
+    "team_id": "1610612754",
+    "player_id": 1627816,
+    "name": "Alex Poythress",
+    "cloth_num": "0",
+    "pos": "F",
+    "height": "6-9",
+    "weight": "235"
+  },
+  {
+    "team_id": "1610612754",
+    "player_id": 202362,
+    "name": "Lance Stephenson",
+    "cloth_num": "1",
+    "pos": "G",
+    "height": "6-6",
+    "weight": "230"
+  },
+  {
+    "team_id": "1610612754",
+    "player_id": 201954,
+    "name": "Darren Collison",
+    "cloth_num": "2",
+    "pos": "G",
+    "height": "6-2",
+    "weight": "185"
+  },
+  {
+    "team_id": "1610612754",
+    "player_id": 1626202,
+    "name": "Joe Young",
+    "cloth_num": "3",
+    "pos": "G",
+    "height": "6-2",
+    "weight": "185"
+  },
+  {
+    "team_id": "1610612754",
+    "player_id": 203506,
+    "name": "Victor Oladipo",
+    "cloth_num": "4",
+    "pos": "G",
+    "height": "6-4",
+    "weight": "210"
+  },
+  {
+    "team_id": "1610612754",
+    "player_id": 1628410,
+    "name": "Edmond Sumner",
+    "cloth_num": "5",
+    "pos": "G",
+    "height": "6-5",
+    "weight": "188"
+  },
+  {
+    "team_id": "1610612754",
+    "player_id": 202709,
+    "name": "Cory Joseph",
+    "cloth_num": "6",
+    "pos": "G",
+    "height": "6-3",
+    "weight": "190"
+  },
+  {
+    "team_id": "1610612754",
+    "player_id": 1627734,
+    "name": "Domantas Sabonis",
+    "cloth_num": "11",
+    "pos": "C-F",
+    "height": "6-10",
+    "weight": "252"
+  },
+  {
+    "team_id": "1610612754",
+    "player_id": 1628387,
+    "name": "Ike Anigbogu",
+    "cloth_num": "13",
+    "pos": "C",
+    "height": "6-10",
+    "weight": "262"
+  },
+  {
+    "team_id": "1610612754",
+    "player_id": 202344,
+    "name": "Trevor Booker",
+    "cloth_num": "20",
+    "pos": "F",
+    "height": "6-8",
+    "weight": "228"
+  },
+  {
+    "team_id": "1610612754",
+    "player_id": 201152,
+    "name": "Thaddeus Young",
+    "cloth_num": "21",
+    "pos": "F",
+    "height": "6-8",
+    "weight": "230"
+  },
+  {
+    "team_id": "1610612754",
+    "player_id": 1628388,
+    "name": "TJ Leaf",
+    "cloth_num": "22",
+    "pos": "F",
+    "height": "6-10",
+    "weight": "230"
+  },
+  {
+    "team_id": "1610612754",
+    "player_id": 2744,
+    "name": "Al Jefferson",
+    "cloth_num": "25",
+    "pos": "C",
+    "height": "6-10",
+    "weight": "280"
+  },
+  {
+    "team_id": "1610612754",
+    "player_id": 1628500,
+    "name": "Ben Moore",
+    "cloth_num": "26",
+    "pos": "F",
+    "height": "6-8",
+    "weight": "220"
+  },
+  {
+    "team_id": "1610612754",
+    "player_id": 1626167,
+    "name": "Myles Turner",
+    "cloth_num": "33",
+    "pos": "C",
+    "height": "6-11",
+    "weight": "255"
+  },
+  {
+    "team_id": "1610612754",
+    "player_id": 203922,
+    "name": "Glenn Robinson III",
+    "cloth_num": "40",
+    "pos": "G-F",
+    "height": "6-7",
+    "weight": "215"
+  },
+  {
+    "team_id": "1610612754",
+    "player_id": 202711,
+    "name": "Bojan Bogdanovic",
+    "cloth_num": "44",
+    "pos": "F",
+    "height": "6-8",
+    "weight": "230"
+  },
+  {
+    "team_id": "1610612749",
+    "player_id": 204098,
+    "name": "Xavier Munford",
+    "cloth_num": "0",
+    "pos": "G",
+    "height": "6-4",
+    "weight": "173"
+  },
+  {
+    "team_id": "1610612749",
+    "player_id": 1891,
+    "name": "Jason Terry",
+    "cloth_num": "3",
+    "pos": "G",
+    "height": "6-2",
+    "weight": "185"
+  },
+  {
+    "team_id": "1610612749",
+    "player_id": 1628391,
+    "name": "D.J. Wilson",
+    "cloth_num": "5",
+    "pos": "F",
+    "height": "6-10",
+    "weight": "236"
+  },
+  {
+    "team_id": "1610612749",
+    "player_id": 202339,
+    "name": "Eric Bledsoe",
+    "cloth_num": "6",
+    "pos": "G",
+    "height": "6-1",
+    "weight": "205"
+  },
+  {
+    "team_id": "1610612749",
+    "player_id": 1627748,
+    "name": "Thon Maker",
+    "cloth_num": "7",
+    "pos": "C-F",
+    "height": "7-1",
+    "weight": "223"
+  },
+  {
+    "team_id": "1610612749",
+    "player_id": 203521,
+    "name": "Matthew Dellavedova",
+    "cloth_num": "8",
+    "pos": "G",
+    "height": "6-4",
+    "weight": "198"
+  },
+  {
+    "team_id": "1610612749",
+    "player_id": 201943,
+    "name": "Brandon Jennings",
+    "cloth_num": "11",
+    "pos": "G",
+    "height": "6-1",
+    "weight": "170"
+  },
+  {
+    "team_id": "1610612749",
+    "player_id": 203953,
+    "name": "Jabari Parker",
+    "cloth_num": "12",
+    "pos": "F",
+    "height": "6-8",
+    "weight": "250"
+  },
+  {
+    "team_id": "1610612749",
+    "player_id": 1627763,
+    "name": "Malcolm Brogdon",
+    "cloth_num": "13",
+    "pos": "G",
+    "height": "6-5",
+    "weight": "215"
+  },
+  {
+    "team_id": "1610612749",
+    "player_id": 203498,
+    "name": "Shabazz Muhammad",
+    "cloth_num": "15",
+    "pos": "G-F",
+    "height": "6-6",
+    "weight": "221"
+  },
+  {
+    "team_id": "1610612749",
+    "player_id": 203503,
+    "name": "Tony Snell",
+    "cloth_num": "21",
+    "pos": "G",
+    "height": "6-7",
+    "weight": "221"
+  },
+  {
+    "team_id": "1610612749",
+    "player_id": 203114,
+    "name": "Khris Middleton",
+    "cloth_num": "22",
+    "pos": "F",
+    "height": "6-8",
+    "weight": "234"
+  },
+  {
+    "team_id": "1610612749",
+    "player_id": 1628425,
+    "name": "Sterling Brown",
+    "cloth_num": "23",
+    "pos": "G",
+    "height": "6-6",
+    "weight": "230"
+  },
+  {
+    "team_id": "1610612749",
+    "player_id": 203089,
+    "name": "John Henson",
+    "cloth_num": "31",
+    "pos": "C",
+    "height": "6-11",
+    "weight": "229"
+  },
+  {
+    "team_id": "1610612749",
+    "player_id": 203507,
+    "name": "Giannis Antetokounmpo",
+    "cloth_num": "34",
+    "pos": "F",
+    "height": "6-11",
+    "weight": "222"
+  },
+  {
+    "team_id": "1610612749",
+    "player_id": 1627850,
+    "name": "Marshall Plumlee",
+    "cloth_num": "40",
+    "pos": "C",
+    "height": "7-0",
+    "weight": "250"
+  },
+  {
+    "team_id": "1610612749",
+    "player_id": 203092,
+    "name": "Tyler Zeller",
+    "cloth_num": "44",
+    "pos": "C",
+    "height": "7-0",
+    "weight": "250"
+  },
+  {
+    "team_id": "1610612737",
+    "player_id": 1628499,
+    "name": "Antonius Cleveland",
+    "cloth_num": "0",
+    "pos": "G",
+    "height": "6-6",
+    "weight": "195"
+  },
+  {
+    "team_id": "1610612737",
+    "player_id": 1628416,
+    "name": "Tyler Dorsey",
+    "cloth_num": "2",
+    "pos": "G",
+    "height": "6-5",
+    "weight": "183"
+  },
+  {
+    "team_id": "1610612737",
+    "player_id": 1628537,
+    "name": "Jaylen Morris",
+    "cloth_num": "3",
+    "pos": "G",
+    "height": "6-5",
+    "weight": "185"
+  },
+  {
+    "team_id": "1610612737",
+    "player_id": 1628510,
+    "name": "Andrew White III",
+    "cloth_num": "4",
+    "pos": "F",
+    "height": "6-7",
+    "weight": "210"
+  },
+  {
+    "team_id": "1610612737",
+    "player_id": 1627098,
+    "name": "Malcolm Delaney",
+    "cloth_num": "5",
+    "pos": "G",
+    "height": "6-3",
+    "weight": "190"
+  },
+  {
+    "team_id": "1610612737",
+    "player_id": 202379,
+    "name": "Jeremy Evans",
+    "cloth_num": "6",
+    "pos": "F",
+    "height": "6-9",
+    "weight": "200"
+  },
+  {
+    "team_id": "1610612737",
+    "player_id": 1627814,
+    "name": "Damion Lee",
+    "cloth_num": "8",
+    "pos": "G",
+    "height": "6-6",
+    "weight": "210"
+  },
+  {
+    "team_id": "1610612737",
+    "player_id": 203705,
+    "name": "Josh Magette",
+    "cloth_num": "11",
+    "pos": "G",
+    "height": "6-1",
+    "weight": "160"
+  },
+  {
+    "team_id": "1610612737",
+    "player_id": 1627752,
+    "name": "Taurean Prince",
+    "cloth_num": "12",
+    "pos": "F",
+    "height": "6-8",
+    "weight": "220"
+  },
+  {
+    "team_id": "1610612737",
+    "player_id": 203473,
+    "name": "Dewayne Dedmon",
+    "cloth_num": "14",
+    "pos": "C",
+    "height": "7-0",
+    "weight": "245"
+  },
+  {
+    "team_id": "1610612737",
+    "player_id": 203471,
+    "name": "Dennis Schroder",
+    "cloth_num": "17",
+    "pos": "G",
+    "height": "6-1",
+    "weight": "172"
+  },
+  {
+    "team_id": "1610612737",
+    "player_id": 203101,
+    "name": "Miles Plumlee",
+    "cloth_num": "18",
+    "pos": "C",
+    "height": "6-11",
+    "weight": "249"
+  },
+  {
+    "team_id": "1610612737",
+    "player_id": 1628381,
+    "name": "John Collins",
+    "cloth_num": "20",
+    "pos": "F-C",
+    "height": "6-10",
+    "weight": "235"
+  },
+  {
+    "team_id": "1610612737",
+    "player_id": 1627819,
+    "name": "Isaiah Taylor",
+    "cloth_num": "22",
+    "pos": "G",
+    "height": "6-3",
+    "weight": "170"
+  },
+  {
+    "team_id": "1610612737",
+    "player_id": 203145,
+    "name": "Kent Bazemore",
+    "cloth_num": "24",
+    "pos": "G",
+    "height": "6-5",
+    "weight": "201"
+  },
+  {
+    "team_id": "1610612737",
+    "player_id": 203488,
+    "name": "Mike Muscala",
+    "cloth_num": "31",
+    "pos": "F-C",
+    "height": "6-11",
+    "weight": "240"
+  },
+  {
+    "team_id": "1610612737",
+    "player_id": 1628463,
+    "name": "Tyler Cavanaugh",
+    "cloth_num": "34",
+    "pos": "F",
+    "height": "6-9",
+    "weight": "238"
+  },
+  {
+    "team_id": "1610612737",
+    "player_id": 1627761,
+    "name": "DeAndre' Bembry",
+    "cloth_num": "95",
+    "pos": "F-G",
+    "height": "6-6",
+    "weight": "210"
+  },
+  {
+    "team_id": "1610612766",
+    "player_id": 1628370,
+    "name": "Malik Monk",
+    "cloth_num": "1",
+    "pos": "G",
+    "height": "6-3",
+    "weight": "200"
+  },
+  {
+    "team_id": "1610612766",
+    "player_id": 101107,
+    "name": "Marvin Williams",
+    "cloth_num": "2",
+    "pos": "F",
+    "height": "6-9",
+    "weight": "237"
+  },
+  {
+    "team_id": "1610612766",
+    "player_id": 203087,
+    "name": "Jeremy Lamb",
+    "cloth_num": "3",
+    "pos": "G",
+    "height": "6-5",
+    "weight": "185"
+  },
+  {
+    "team_id": "1610612766",
+    "player_id": 1627779,
+    "name": "Marcus Paige",
+    "cloth_num": "4",
+    "pos": "G",
+    "height": "6-0",
+    "weight": "164"
+  },
+  {
+    "team_id": "1610612766",
+    "player_id": 201587,
+    "name": "Nicolas Batum",
+    "cloth_num": "5",
+    "pos": "G-F",
+    "height": "6-8",
+    "weight": "200"
+  },
+  {
+    "team_id": "1610612766",
+    "player_id": 1628407,
+    "name": "Dwayne Bacon",
+    "cloth_num": "7",
+    "pos": "F",
+    "height": "6-7",
+    "weight": "221"
+  },
+  {
+    "team_id": "1610612766",
+    "player_id": 1628493,
+    "name": "Mangok Mathiang",
+    "cloth_num": "9",
+    "pos": "F-C",
+    "height": "6-10",
+    "weight": "230"
+  },
+  {
+    "team_id": "1610612766",
+    "player_id": 203487,
+    "name": "Michael Carter-Williams",
+    "cloth_num": "10",
+    "pos": "G",
+    "height": "6-6",
+    "weight": "190"
+  },
+  {
+    "team_id": "1610612766",
+    "player_id": 2730,
+    "name": "Dwight Howard",
+    "cloth_num": "12",
+    "pos": "C",
+    "height": "6-11",
+    "weight": "265"
+  },
+  {
+    "team_id": "1610612766",
+    "player_id": 203077,
+    "name": "Michael Kidd-Gilchrist",
+    "cloth_num": "14",
+    "pos": "F",
+    "height": "6-7",
+    "weight": "232"
+  },
+  {
+    "team_id": "1610612766",
+    "player_id": 202689,
+    "name": "Kemba Walker",
+    "cloth_num": "15",
+    "pos": "G",
+    "height": "6-1",
+    "weight": "184"
+  },
+  {
+    "team_id": "1610612766",
+    "player_id": 1626203,
+    "name": "Treveon Graham",
+    "cloth_num": "21",
+    "pos": "G-F",
+    "height": "6-5",
+    "weight": "219"
+  },
+  {
+    "team_id": "1610612766",
+    "player_id": 202933,
+    "name": "Julyan Stone",
+    "cloth_num": "32",
+    "pos": "G",
+    "height": "6-6",
+    "weight": "200"
+  },
+  {
+    "team_id": "1610612766",
+    "player_id": 203469,
+    "name": "Cody Zeller",
+    "cloth_num": "40",
+    "pos": "C-F",
+    "height": "7-0",
+    "weight": "240"
+  },
+  {
+    "team_id": "1610612766",
+    "player_id": 1626195,
+    "name": "Willy Hernangomez",
+    "cloth_num": "41",
+    "pos": "C",
+    "height": "6-11",
+    "weight": "240"
+  },
+  {
+    "team_id": "1610612766",
+    "player_id": 1626163,
+    "name": "Frank Kaminsky",
+    "cloth_num": "44",
+    "pos": "F-C",
+    "height": "7-0",
+    "weight": "242"
+  },
+  {
+    "team_id": "1610612748",
+    "player_id": 1626196,
+    "name": "Josh Richardson",
+    "cloth_num": "0",
+    "pos": "F",
+    "height": "6-6",
+    "weight": "200"
+  },
+  {
+    "team_id": "1610612748",
+    "player_id": 201961,
+    "name": "Wayne Ellington",
+    "cloth_num": "2",
+    "pos": "G",
+    "height": "6-5",
+    "weight": "200"
+  },
+  {
+    "team_id": "1610612748",
+    "player_id": 2548,
+    "name": "Dwyane Wade",
+    "cloth_num": "3",
+    "pos": "G",
+    "height": "6-4",
+    "weight": "220"
+  },
+  {
+    "team_id": "1610612748",
+    "player_id": 1627884,
+    "name": "Derrick Jones Jr.",
+    "cloth_num": "5",
+    "pos": "F-G",
+    "height": "6-7",
+    "weight": "200"
+  },
+  {
+    "team_id": "1610612748",
+    "player_id": 201609,
+    "name": "Goran Dragic",
+    "cloth_num": "7",
+    "pos": "G",
+    "height": "6-3",
+    "weight": "190"
+  },
+  {
+    "team_id": "1610612748",
+    "player_id": 204020,
+    "name": "Tyler Johnson",
+    "cloth_num": "8",
+    "pos": "G",
+    "height": "6-4",
+    "weight": "190"
+  },
+  {
+    "team_id": "1610612748",
+    "player_id": 203482,
+    "name": "Kelly Olynyk",
+    "cloth_num": "9",
+    "pos": "F-C",
+    "height": "7-0",
+    "weight": "245"
+  },
+  {
+    "team_id": "1610612748",
+    "player_id": 203079,
+    "name": "Dion Waiters",
+    "cloth_num": "11",
+    "pos": "G",
+    "height": "6-4",
+    "weight": "215"
+  },
+  {
+    "team_id": "1610612748",
+    "player_id": 1628389,
+    "name": "Bam Adebayo",
+    "cloth_num": "13",
+    "pos": "C-F",
+    "height": "6-10",
+    "weight": "255"
+  },
+  {
+    "team_id": "1610612748",
+    "player_id": 1628476,
+    "name": "Derrick Walton Jr.",
+    "cloth_num": "14",
+    "pos": "G",
+    "height": "6-1",
+    "weight": "185"
+  },
+  {
+    "team_id": "1610612748",
+    "player_id": 201949,
+    "name": "James Johnson",
+    "cloth_num": "16",
+    "pos": "F",
+    "height": "6-8",
+    "weight": "240"
+  },
+  {
+    "team_id": "1610612748",
+    "player_id": 203585,
+    "name": "Rodney McGruder",
+    "cloth_num": "17",
+    "pos": "G-F",
+    "height": "6-4",
+    "weight": "200"
+  },
+  {
+    "team_id": "1610612748",
+    "player_id": 1626159,
+    "name": "Justise Winslow",
+    "cloth_num": "20",
+    "pos": "F",
+    "height": "6-7",
+    "weight": "225"
+  },
+  {
+    "team_id": "1610612748",
+    "player_id": 202355,
+    "name": "Hassan Whiteside",
+    "cloth_num": "21",
+    "pos": "C",
+    "height": "7-0",
+    "weight": "265"
+  },
+  {
+    "team_id": "1610612748",
+    "player_id": 202337,
+    "name": "Luke Babbitt",
+    "cloth_num": "22",
+    "pos": "F",
+    "height": "6-9",
+    "weight": "225"
+  },
+  {
+    "team_id": "1610612748",
+    "player_id": 1626175,
+    "name": "Jordan Mickey",
+    "cloth_num": "25",
+    "pos": "C-F",
+    "height": "6-8",
+    "weight": "235"
+  },
+  {
+    "team_id": "1610612748",
+    "player_id": 2617,
+    "name": "Udonis Haslem",
+    "cloth_num": "40",
+    "pos": "F",
+    "height": "6-8",
+    "weight": "235"
+  },
+  {
+    "team_id": "1610612753",
+    "player_id": 203932,
+    "name": "Aaron Gordon",
+    "cloth_num": "00",
+    "pos": "F",
+    "height": "6-9",
+    "weight": "220"
+  },
+  {
+    "team_id": "1610612753",
+    "player_id": 1628503,
+    "name": "Jamel Artis",
+    "cloth_num": "0",
+    "pos": "G",
+    "height": "6-7",
+    "weight": "213"
+  },
+  {
+    "team_id": "1610612753",
+    "player_id": 1628371,
+    "name": "Jonathan Isaac",
+    "cloth_num": "1",
+    "pos": "F",
+    "height": "6-10",
+    "weight": "210"
+  },
+  {
+    "team_id": "1610612753",
+    "player_id": 201167,
+    "name": "Arron Afflalo",
+    "cloth_num": "4",
+    "pos": "G",
+    "height": "6-5",
+    "weight": "210"
+  },
+  {
+    "team_id": "1610612753",
+    "player_id": 201578,
+    "name": "Marreese Speights",
+    "cloth_num": "5",
+    "pos": "F-C",
+    "height": "6-10",
+    "weight": "255"
+  },
+  {
+    "team_id": "1610612753",
+    "player_id": 202714,
+    "name": "Shelvin Mack",
+    "cloth_num": "7",
+    "pos": "G",
+    "height": "6-3",
+    "weight": "203"
+  },
+  {
+    "team_id": "1610612753",
+    "player_id": 1626209,
+    "name": "Mario Hezonja",
+    "cloth_num": "8",
+    "pos": "F-G",
+    "height": "6-8",
+    "weight": "218"
+  },
+  {
+    "team_id": "1610612753",
+    "player_id": 202696,
+    "name": "Nikola Vucevic",
+    "cloth_num": "9",
+    "pos": "C",
+    "height": "7-0",
+    "weight": "260"
+  },
+  {
+    "team_id": "1610612753",
+    "player_id": 203095,
+    "name": "Evan Fournier",
+    "cloth_num": "10",
+    "pos": "G-F",
+    "height": "6-7",
+    "weight": "205"
+  },
+  {
+    "team_id": "1610612753",
+    "player_id": 202687,
+    "name": "Bismack Biyombo",
+    "cloth_num": "11",
+    "pos": "C",
+    "height": "6-9",
+    "weight": "255"
+  },
+  {
+    "team_id": "1610612753",
+    "player_id": 201571,
+    "name": "D.J. Augustin",
+    "cloth_num": "14",
+    "pos": "G",
+    "height": "6-0",
+    "weight": "183"
+  },
+  {
+    "team_id": "1610612753",
+    "player_id": 1628681,
+    "name": "Rodney Purvis",
+    "cloth_num": "15",
+    "pos": "G",
+    "height": "6-4",
+    "weight": "205"
+  },
+  {
+    "team_id": "1610612753",
+    "player_id": 203613,
+    "name": "Jonathon Simmons",
+    "cloth_num": "17",
+    "pos": "F",
+    "height": "6-6",
+    "weight": "195"
+  },
+  {
+    "team_id": "1610612753",
+    "player_id": 203920,
+    "name": "Khem Birch",
+    "cloth_num": "24",
+    "pos": "C",
+    "height": "6-9",
+    "weight": "220"
+  },
+  {
+    "team_id": "1610612753",
+    "player_id": 1628411,
+    "name": "Wes Iwundu",
+    "cloth_num": "25",
+    "pos": "F",
+    "height": "6-7",
+    "weight": "195"
+  },
+  {
+    "team_id": "1610612753",
+    "player_id": 203082,
+    "name": "Terrence Ross",
+    "cloth_num": "31",
+    "pos": "G-F",
+    "height": "6-7",
+    "weight": "206"
+  },
+  {
+    "team_id": "1610612764",
+    "player_id": 1626191,
+    "name": "Chris McCullough",
+    "cloth_num": "1",
+    "pos": "F",
+    "height": "6-9",
+    "weight": "215"
+  },
+  {
+    "team_id": "1610612764",
+    "player_id": 202322,
+    "name": "John Wall",
+    "cloth_num": "2",
+    "pos": "G",
+    "height": "6-4",
+    "weight": "210"
+  },
+  {
+    "team_id": "1610612764",
+    "player_id": 203078,
+    "name": "Bradley Beal",
+    "cloth_num": "3",
+    "pos": "G",
+    "height": "6-5",
+    "weight": "207"
+  },
+  {
+    "team_id": "1610612764",
+    "player_id": 201951,
+    "name": "Ty Lawson",
+    "cloth_num": "4",
+    "pos": "G",
+    "height": "5-11",
+    "weight": "195"
+  },
+  {
+    "team_id": "1610612764",
+    "player_id": 202693,
+    "name": "Markieff Morris",
+    "cloth_num": "5",
+    "pos": "F",
+    "height": "6-10",
+    "weight": "245"
+  },
+  {
+    "team_id": "1610612764",
+    "player_id": 1628421,
+    "name": "Devin Robinson",
+    "cloth_num": "7",
+    "pos": "F",
+    "height": "6-8",
+    "weight": "200"
+  },
+  {
+    "team_id": "1610612764",
+    "player_id": 204025,
+    "name": "Tim Frazier",
+    "cloth_num": "8",
+    "pos": "G",
+    "height": "6-1",
+    "weight": "170"
+  },
+  {
+    "team_id": "1610612764",
+    "player_id": 201196,
+    "name": "Ramon Sessions",
+    "cloth_num": "9",
+    "pos": "G",
+    "height": "6-3",
+    "weight": "190"
+  },
+  {
+    "team_id": "1610612764",
+    "player_id": 1626162,
+    "name": "Kelly Oubre Jr.",
+    "cloth_num": "12",
+    "pos": "F",
+    "height": "6-7",
+    "weight": "205"
+  },
+  {
+    "team_id": "1610612764",
+    "player_id": 101162,
+    "name": "Marcin Gortat",
+    "cloth_num": "13",
+    "pos": "C",
+    "height": "6-11",
+    "weight": "240"
+  },
+  {
+    "team_id": "1610612764",
+    "player_id": 201160,
+    "name": "Jason Smith",
+    "cloth_num": "14",
+    "pos": "F-C",
+    "height": "7-0",
+    "weight": "240"
+  },
+  {
+    "team_id": "1610612764",
+    "player_id": 201975,
+    "name": "Jodie Meeks",
+    "cloth_num": "20",
+    "pos": "G",
+    "height": "6-4",
+    "weight": "210"
+  },
+  {
+    "team_id": "1610612764",
+    "player_id": 203490,
+    "name": "Otto Porter Jr.",
+    "cloth_num": "22",
+    "pos": "F",
+    "height": "6-8",
+    "weight": "198"
+  },
+  {
+    "team_id": "1610612764",
+    "player_id": 101133,
+    "name": "Ian Mahinmi",
+    "cloth_num": "28",
+    "pos": "C",
+    "height": "6-11",
+    "weight": "262"
+  },
+  {
+    "team_id": "1610612764",
+    "player_id": 203118,
+    "name": "Mike Scott",
+    "cloth_num": "30",
+    "pos": "F",
+    "height": "6-8",
+    "weight": "237"
+  },
+  {
+    "team_id": "1610612764",
+    "player_id": 203107,
+    "name": "Tomas Satoransky",
+    "cloth_num": "31",
+    "pos": "G-F",
+    "height": "6-7",
+    "weight": "210"
+  },
+  {
+    "team_id": "1610612743",
+    "player_id": 201589,
+    "name": "Darrell Arthur",
+    "cloth_num": "00",
+    "pos": "F",
+    "height": "6-9",
+    "weight": "235"
+  },
+  {
+    "team_id": "1610612743",
+    "player_id": 1628470,
+    "name": "Torrey Craig",
+    "cloth_num": "3",
+    "pos": "G-F",
+    "height": "6-6",
+    "weight": "215"
+  },
+  {
+    "team_id": "1610612743",
+    "player_id": 200794,
+    "name": "Paul Millsap",
+    "cloth_num": "4",
+    "pos": "F",
+    "height": "6-8",
+    "weight": "246"
+  },
+  {
+    "team_id": "1610612743",
+    "player_id": 203115,
+    "name": "Will Barton",
+    "cloth_num": "5",
+    "pos": "F-G",
+    "height": "6-6",
+    "weight": "190"
+  },
+  {
+    "team_id": "1610612743",
+    "player_id": 1626168,
+    "name": "Trey Lyles",
+    "cloth_num": "7",
+    "pos": "F",
+    "height": "6-10",
+    "weight": "234"
+  },
+  {
+    "team_id": "1610612743",
+    "player_id": 1628420,
+    "name": "Monte Morris",
+    "cloth_num": "11",
+    "pos": "G",
+    "height": "6-3",
+    "weight": "175"
+  },
+  {
+    "team_id": "1610612743",
+    "player_id": 203914,
+    "name": "Gary Harris",
+    "cloth_num": "14",
+    "pos": "G",
+    "height": "6-4",
+    "weight": "210"
+  },
+  {
+    "team_id": "1610612743",
+    "player_id": 203999,
+    "name": "Nikola Jokic",
+    "cloth_num": "15",
+    "pos": "C",
+    "height": "6-10",
+    "weight": "250"
+  },
+  {
+    "team_id": "1610612743",
+    "player_id": 1628399,
+    "name": "Tyler Lydon",
+    "cloth_num": "20",
+    "pos": "F",
+    "height": "6-9",
+    "weight": "220"
+  },
+  {
+    "team_id": "1610612743",
+    "player_id": 201163,
+    "name": "Wilson Chandler",
+    "cloth_num": "21",
+    "pos": "F",
+    "height": "6-9",
+    "weight": "225"
+  },
+  {
+    "team_id": "1610612743",
+    "player_id": 2210,
+    "name": "Richard Jefferson",
+    "cloth_num": "22",
+    "pos": "F",
+    "height": "6-7",
+    "weight": "233"
+  },
+  {
+    "team_id": "1610612743",
+    "player_id": 203486,
+    "name": "Mason Plumlee",
+    "cloth_num": "24",
+    "pos": "C-F",
+    "height": "6-11",
+    "weight": "255"
+  },
+  {
+    "team_id": "1610612743",
+    "player_id": 1627736,
+    "name": "Malik Beasley",
+    "cloth_num": "25",
+    "pos": "G",
+    "height": "6-5",
+    "weight": "196"
+  },
+  {
+    "team_id": "1610612743",
+    "player_id": 1627750,
+    "name": "Jamal Murray",
+    "cloth_num": "27",
+    "pos": "G",
+    "height": "6-4",
+    "weight": "207"
+  },
+  {
+    "team_id": "1610612743",
+    "player_id": 2734,
+    "name": "Devin Harris",
+    "cloth_num": "34",
+    "pos": "G",
+    "height": "6-3",
+    "weight": "185"
+  },
+  {
+    "team_id": "1610612743",
+    "player_id": 202702,
+    "name": "Kenneth Faried",
+    "cloth_num": "35",
+    "pos": "F",
+    "height": "6-8",
+    "weight": "228"
+  },
+  {
+    "team_id": "1610612743",
+    "player_id": 1627823,
+    "name": "Juancho Hernangomez",
+    "cloth_num": "41",
+    "pos": "F",
+    "height": "6-9",
+    "weight": "230"
+  },
+  {
+    "team_id": "1610612750",
+    "player_id": 201952,
+    "name": "Jeff Teague",
+    "cloth_num": "0",
+    "pos": "G",
+    "height": "6-2",
+    "weight": "189"
+  },
+  {
+    "team_id": "1610612750",
+    "player_id": 1626145,
+    "name": "Tyus Jones",
+    "cloth_num": "1",
+    "pos": "G",
+    "height": "6-2",
+    "weight": "184"
+  },
+  {
+    "team_id": "1610612750",
+    "player_id": 1626148,
+    "name": "Anthony Brown",
+    "cloth_num": "3",
+    "pos": "F",
+    "height": "6-7",
+    "weight": "224"
+  },
+  {
+    "team_id": "1610612750",
+    "player_id": 203476,
+    "name": "Gorgui Dieng",
+    "cloth_num": "5",
+    "pos": "C",
+    "height": "6-11",
+    "weight": "251"
+  },
+  {
+    "team_id": "1610612750",
+    "player_id": 202357,
+    "name": "Nemanja Bjelica",
+    "cloth_num": "8",
+    "pos": "F",
+    "height": "6-10",
+    "weight": "230"
+  },
+  {
+    "team_id": "1610612750",
+    "player_id": 1628518,
+    "name": "Amile Jefferson",
+    "cloth_num": "10",
+    "pos": "F",
+    "height": "6-9",
+    "weight": "224"
+  },
+  {
+    "team_id": "1610612750",
+    "player_id": 2037,
+    "name": "Jamal Crawford",
+    "cloth_num": "11",
+    "pos": "G",
+    "height": "6-5",
+    "weight": "185"
+  },
+  {
+    "team_id": "1610612750",
+    "player_id": 1627875,
+    "name": "Marcus Georges-Hunt",
+    "cloth_num": "13",
+    "pos": "G",
+    "height": "6-5",
+    "weight": "226"
+  },
+  {
+    "team_id": "1610612750",
+    "player_id": 203952,
+    "name": "Andrew Wiggins",
+    "cloth_num": "22",
+    "pos": "F",
+    "height": "6-8",
+    "weight": "202"
+  },
+  {
+    "team_id": "1610612750",
+    "player_id": 202710,
+    "name": "Jimmy Butler",
+    "cloth_num": "23",
+    "pos": "G",
+    "height": "6-8",
+    "weight": "236"
+  },
+  {
+    "team_id": "1610612750",
+    "player_id": 1628383,
+    "name": "Justin Patton",
+    "cloth_num": "24",
+    "pos": "C",
+    "height": "7-0",
+    "weight": "236"
+  },
+  {
+    "team_id": "1610612750",
+    "player_id": 201565,
+    "name": "Derrick Rose",
+    "cloth_num": "25",
+    "pos": "G",
+    "height": "6-3",
+    "weight": "190"
+  },
+  {
+    "team_id": "1610612750",
+    "player_id": 201166,
+    "name": "Aaron Brooks",
+    "cloth_num": "30",
+    "pos": "G",
+    "height": "6-0",
+    "weight": "161"
+  },
+  {
+    "team_id": "1610612750",
+    "player_id": 1626157,
+    "name": "Karl-Anthony Towns",
+    "cloth_num": "32",
+    "pos": "C",
+    "height": "7-0",
+    "weight": "248"
+  },
+  {
+    "team_id": "1610612750",
+    "player_id": 202332,
+    "name": "Cole Aldrich",
+    "cloth_num": "45",
+    "pos": "C",
+    "height": "6-11",
+    "weight": "253"
+  },
+  {
+    "team_id": "1610612750",
+    "player_id": 201959,
+    "name": "Taj Gibson",
+    "cloth_num": "67",
+    "pos": "F",
+    "height": "6-9",
+    "weight": "235"
+  },
+  {
+    "team_id": "1610612760",
+    "player_id": 201566,
+    "name": "Russell Westbrook",
+    "cloth_num": "0",
+    "pos": "G",
+    "height": "6-3",
+    "weight": "200"
+  },
+  {
+    "team_id": "1610612760",
+    "player_id": 101109,
+    "name": "Raymond Felton",
+    "cloth_num": "2",
+    "pos": "G",
+    "height": "6-1",
+    "weight": "205"
+  },
+  {
+    "team_id": "1610612760",
+    "player_id": 201147,
+    "name": "Corey Brewer",
+    "cloth_num": "3",
+    "pos": "G-F",
+    "height": "6-9",
+    "weight": "186"
+  },
+  {
+    "team_id": "1610612760",
+    "player_id": 2555,
+    "name": "Nick Collison",
+    "cloth_num": "4",
+    "pos": "F",
+    "height": "6-10",
+    "weight": "255"
+  },
+  {
+    "team_id": "1610612760",
+    "player_id": 2546,
+    "name": "Carmelo Anthony",
+    "cloth_num": "7",
+    "pos": "F",
+    "height": "6-8",
+    "weight": "240"
+  },
+  {
+    "team_id": "1610612760",
+    "player_id": 203518,
+    "name": "Alex Abrines",
+    "cloth_num": "8",
+    "pos": "G",
+    "height": "6-6",
+    "weight": "190"
+  },
+  {
+    "team_id": "1610612760",
+    "player_id": 203924,
+    "name": "Jerami Grant",
+    "cloth_num": "9",
+    "pos": "F",
+    "height": "6-9",
+    "weight": "220"
+  },
+  {
+    "team_id": "1610612760",
+    "player_id": 203500,
+    "name": "Steven Adams",
+    "cloth_num": "12",
+    "pos": "C",
+    "height": "7-0",
+    "weight": "255"
+  },
+  {
+    "team_id": "1610612760",
+    "player_id": 202331,
+    "name": "Paul George",
+    "cloth_num": "13",
+    "pos": "F",
+    "height": "6-9",
+    "weight": "220"
+  },
+  {
+    "team_id": "1610612760",
+    "player_id": 202713,
+    "name": "Kyle Singler",
+    "cloth_num": "15",
+    "pos": "F",
+    "height": "6-8",
+    "weight": "228"
+  },
+  {
+    "team_id": "1610612760",
+    "player_id": 203460,
+    "name": "Andre Roberson",
+    "cloth_num": "21",
+    "pos": "G",
+    "height": "6-7",
+    "weight": "210"
+  },
+  {
+    "team_id": "1610612760",
+    "player_id": 1628390,
+    "name": "Terrance Ferguson",
+    "cloth_num": "23",
+    "pos": "G",
+    "height": "6-7",
+    "weight": "184"
+  },
+  {
+    "team_id": "1610612760",
+    "player_id": 1627772,
+    "name": "Daniel Hamilton",
+    "cloth_num": "25",
+    "pos": "G",
+    "height": "6-7",
+    "weight": "195"
+  },
+  {
+    "team_id": "1610612760",
+    "player_id": 203962,
+    "name": "Josh Huestis",
+    "cloth_num": "34",
+    "pos": "G",
+    "height": "6-7",
+    "weight": "230"
+  },
+  {
+    "team_id": "1610612760",
+    "player_id": 1628408,
+    "name": "PJ Dozier",
+    "cloth_num": "35",
+    "pos": "G",
+    "height": "6-6",
+    "weight": "205"
+  },
+  {
+    "team_id": "1610612760",
+    "player_id": 1626177,
+    "name": "Dakari Johnson",
+    "cloth_num": "44",
+    "pos": "C",
+    "height": "7-0",
+    "weight": "255"
+  },
+  {
+    "team_id": "1610612760",
+    "player_id": 202335,
+    "name": "Patrick Patterson",
+    "cloth_num": "54",
+    "pos": "F",
+    "height": "6-9",
+    "weight": "230"
+  },
+  {
+    "team_id": "1610612757",
+    "player_id": 203081,
+    "name": "Damian Lillard",
+    "cloth_num": "0",
+    "pos": "G",
+    "height": "6-3",
+    "weight": "195"
+  },
+  {
+    "team_id": "1610612757",
+    "player_id": 202323,
+    "name": "Evan Turner",
+    "cloth_num": "1",
+    "pos": "F-G",
+    "height": "6-7",
+    "weight": "220"
+  },
+  {
+    "team_id": "1610612757",
+    "player_id": 1627735,
+    "name": "Wade Baldwin IV",
+    "cloth_num": "2",
+    "pos": "G",
+    "height": "6-4",
+    "weight": "202"
+  },
+  {
+    "team_id": "1610612757",
+    "player_id": 203468,
+    "name": "CJ McCollum",
+    "cloth_num": "3",
+    "pos": "G",
+    "height": "6-3",
+    "weight": "190"
+  },
+  {
+    "team_id": "1610612757",
+    "player_id": 203090,
+    "name": "Maurice Harkless",
+    "cloth_num": "4",
+    "pos": "F",
+    "height": "6-9",
+    "weight": "220"
+  },
+  {
+    "team_id": "1610612757",
+    "player_id": 1626192,
+    "name": "Pat Connaughton",
+    "cloth_num": "5",
+    "pos": "G-F",
+    "height": "6-5",
+    "weight": "210"
+  },
+  {
+    "team_id": "1610612757",
+    "player_id": 203894,
+    "name": "Shabazz Napier",
+    "cloth_num": "6",
+    "pos": "G",
+    "height": "6-1",
+    "weight": "175"
+  },
+  {
+    "team_id": "1610612757",
+    "player_id": 202329,
+    "name": "Al-Farouq Aminu",
+    "cloth_num": "8",
+    "pos": "F",
+    "height": "6-9",
+    "weight": "220"
+  },
+  {
+    "team_id": "1610612757",
+    "player_id": 1627774,
+    "name": "Jake Layman",
+    "cloth_num": "10",
+    "pos": "F",
+    "height": "6-9",
+    "weight": "210"
+  },
+  {
+    "team_id": "1610612757",
+    "player_id": 203086,
+    "name": "Meyers Leonard",
+    "cloth_num": "11",
+    "pos": "C",
+    "height": "7-1",
+    "weight": "255"
+  },
+  {
+    "team_id": "1610612757",
+    "player_id": 202334,
+    "name": "Ed Davis",
+    "cloth_num": "17",
+    "pos": "F-C",
+    "height": "6-10",
+    "weight": "245"
+  },
+  {
+    "team_id": "1610612757",
+    "player_id": 1627834,
+    "name": "Georgios Papagiannis",
+    "cloth_num": "19",
+    "pos": "C",
+    "height": "7-1",
+    "weight": "240"
+  },
+  {
+    "team_id": "1610612757",
+    "player_id": 203912,
+    "name": "CJ Wilcox",
+    "cloth_num": "23",
+    "pos": "G",
+    "height": "6-5",
+    "weight": "195"
+  },
+  {
+    "team_id": "1610612757",
+    "player_id": 203994,
+    "name": "Jusuf Nurkic",
+    "cloth_num": "27",
+    "pos": "C",
+    "height": "7-0",
+    "weight": "280"
+  },
+  {
+    "team_id": "1610612757",
+    "player_id": 1628380,
+    "name": "Zach Collins",
+    "cloth_num": "33",
+    "pos": "C-F",
+    "height": "7-0",
+    "weight": "230"
+  },
+  {
+    "team_id": "1610612757",
+    "player_id": 1628403,
+    "name": "Caleb Swanigan",
+    "cloth_num": "50",
+    "pos": "F-C",
+    "height": "6-8",
+    "weight": "250"
+  },
+  {
+    "team_id": "1610612762",
+    "player_id": 204060,
+    "name": "Joe Ingles",
+    "cloth_num": "2",
+    "pos": "F",
+    "height": "6-8",
+    "weight": "226"
+  },
+  {
+    "team_id": "1610612762",
+    "player_id": 201937,
+    "name": "Ricky Rubio",
+    "cloth_num": "3",
+    "pos": "G",
+    "height": "6-4",
+    "weight": "190"
+  },
+  {
+    "team_id": "1610612762",
+    "player_id": 204065,
+    "name": "David Stockton",
+    "cloth_num": "5",
+    "pos": "G",
+    "height": "5-11",
+    "weight": "165"
+  },
+  {
+    "team_id": "1610612762",
+    "player_id": 201973,
+    "name": "Jonas Jerebko",
+    "cloth_num": "8",
+    "pos": "F",
+    "height": "6-10",
+    "weight": "231"
+  },
+  {
+    "team_id": "1610612762",
+    "player_id": 202692,
+    "name": "Alec Burks",
+    "cloth_num": "10",
+    "pos": "G",
+    "height": "6-6",
+    "weight": "214"
+  },
+  {
+    "team_id": "1610612762",
+    "player_id": 203957,
+    "name": "Dante Exum",
+    "cloth_num": "11",
+    "pos": "G",
+    "height": "6-6",
+    "weight": "190"
+  },
+  {
+    "team_id": "1610612762",
+    "player_id": 1628396,
+    "name": "Tony Bradley",
+    "cloth_num": "13",
+    "pos": "C",
+    "height": "6-10",
+    "weight": "248"
+  },
+  {
+    "team_id": "1610612762",
+    "player_id": 202324,
+    "name": "Derrick Favors",
+    "cloth_num": "15",
+    "pos": "F-C",
+    "height": "6-10",
+    "weight": "265"
+  },
+  {
+    "team_id": "1610612762",
+    "player_id": 1628571,
+    "name": "Erik McCree",
+    "cloth_num": "21",
+    "pos": "F",
+    "height": "6-8",
+    "weight": "225"
+  },
+  {
+    "team_id": "1610612762",
+    "player_id": 200757,
+    "name": "Thabo Sefolosha",
+    "cloth_num": "22",
+    "pos": "F",
+    "height": "6-7",
+    "weight": "220"
+  },
+  {
+    "team_id": "1610612762",
+    "player_id": 1626220,
+    "name": "Royce O'Neale",
+    "cloth_num": "23",
+    "pos": "F",
+    "height": "6-6",
+    "weight": "226"
+  },
+  {
+    "team_id": "1610612762",
+    "player_id": 203526,
+    "name": "Raul Neto",
+    "cloth_num": "25",
+    "pos": "G",
+    "height": "6-1",
+    "weight": "179"
+  },
+  {
+    "team_id": "1610612762",
+    "player_id": 203497,
+    "name": "Rudy Gobert",
+    "cloth_num": "27",
+    "pos": "C",
+    "height": "7-1",
+    "weight": "245"
+  },
+  {
+    "team_id": "1610612762",
+    "player_id": 1627777,
+    "name": "Georges Niang",
+    "cloth_num": "31",
+    "pos": "F",
+    "height": "6-6",
+    "weight": "231"
+  },
+  {
+    "team_id": "1610612762",
+    "player_id": 202327,
+    "name": "Ekpe Udoh",
+    "cloth_num": "33",
+    "pos": "C-F",
+    "height": "6-10",
+    "weight": "245"
+  },
+  {
+    "team_id": "1610612762",
+    "player_id": 1628378,
+    "name": "Donovan Mitchell",
+    "cloth_num": "45",
+    "pos": "G",
+    "height": "6-3",
+    "weight": "215"
+  },
+  {
+    "team_id": "1610612762",
+    "player_id": 203109,
+    "name": "Jae Crowder",
+    "cloth_num": "99",
+    "pos": "F",
+    "height": "6-6",
+    "weight": "235"
+  },
+  {
+    "team_id": "1610612744",
+    "player_id": 1627775,
+    "name": "Patrick McCaw",
+    "cloth_num": "0",
+    "pos": "G",
+    "height": "6-7",
+    "weight": "185"
+  },
+  {
+    "team_id": "1610612744",
+    "player_id": 201580,
+    "name": "JaVale McGee",
+    "cloth_num": "1",
+    "pos": "C",
+    "height": "7-0",
+    "weight": "270"
+  },
+  {
+    "team_id": "1610612744",
+    "player_id": 1628395,
+    "name": "Jordan Bell",
+    "cloth_num": "2",
+    "pos": "C-F",
+    "height": "6-9",
+    "weight": "224"
+  },
+  {
+    "team_id": "1610612744",
+    "player_id": 2561,
+    "name": "David West",
+    "cloth_num": "3",
+    "pos": "F",
+    "height": "6-9",
+    "weight": "250"
+  },
+  {
+    "team_id": "1610612744",
+    "player_id": 1626188,
+    "name": "Quinn Cook",
+    "cloth_num": "4",
+    "pos": "G",
+    "height": "6-2",
+    "weight": "179"
+  },
+  {
+    "team_id": "1610612744",
+    "player_id": 1626172,
+    "name": "Kevon Looney",
+    "cloth_num": "5",
+    "pos": "F",
+    "height": "6-9",
+    "weight": "220"
+  },
+  {
+    "team_id": "1610612744",
+    "player_id": 201156,
+    "name": "Nick Young",
+    "cloth_num": "6",
+    "pos": "G-F",
+    "height": "6-7",
+    "weight": "210"
+  },
+  {
+    "team_id": "1610612744",
+    "player_id": 2738,
+    "name": "Andre Iguodala",
+    "cloth_num": "9",
+    "pos": "F-G",
+    "height": "6-6",
+    "weight": "215"
+  },
+  {
+    "team_id": "1610612744",
+    "player_id": 202691,
+    "name": "Klay Thompson",
+    "cloth_num": "11",
+    "pos": "G",
+    "height": "6-7",
+    "weight": "215"
+  },
+  {
+    "team_id": "1610612744",
+    "player_id": 1627745,
+    "name": "Damian Jones",
+    "cloth_num": "15",
+    "pos": "C",
+    "height": "7-0",
+    "weight": "245"
+  },
+  {
+    "team_id": "1610612744",
+    "player_id": 203110,
+    "name": "Draymond Green",
+    "cloth_num": "23",
+    "pos": "F",
+    "height": "6-7",
+    "weight": "230"
+  },
+  {
+    "team_id": "1610612744",
+    "player_id": 1628449,
+    "name": "Chris Boucher",
+    "cloth_num": "25",
+    "pos": "F",
+    "height": "6-10",
+    "weight": "200"
+  },
+  {
+    "team_id": "1610612744",
+    "player_id": 2585,
+    "name": "Zaza Pachulia",
+    "cloth_num": "27",
+    "pos": "C",
+    "height": "6-11",
+    "weight": "270"
+  },
+  {
+    "team_id": "1610612744",
+    "player_id": 201939,
+    "name": "Stephen Curry",
+    "cloth_num": "30",
+    "pos": "G",
+    "height": "6-3",
+    "weight": "190"
+  },
+  {
+    "team_id": "1610612744",
+    "player_id": 2733,
+    "name": "Shaun Livingston",
+    "cloth_num": "34",
+    "pos": "G",
+    "height": "6-7",
+    "weight": "192"
+  },
+  {
+    "team_id": "1610612744",
+    "player_id": 201142,
+    "name": "Kevin Durant",
+    "cloth_num": "35",
+    "pos": "F",
+    "height": "6-9",
+    "weight": "240"
+  },
+  {
+    "team_id": "1610612746",
+    "player_id": 1628414,
+    "name": "Sindarius Thornwell",
+    "cloth_num": "0",
+    "pos": "G",
+    "height": "6-5",
+    "weight": "215"
+  },
+  {
+    "team_id": "1610612746",
+    "player_id": 1628393,
+    "name": "Jawun Evans",
+    "cloth_num": "1",
+    "pos": "G",
+    "height": "6-0",
+    "weight": "190"
+  },
+  {
+    "team_id": "1610612746",
+    "player_id": 1628462,
+    "name": "Milos Teodosic",
+    "cloth_num": "4",
+    "pos": "G",
+    "height": "6-5",
+    "weight": "196"
+  },
+  {
+    "team_id": "1610612746",
+    "player_id": 1626149,
+    "name": "Montrezl Harrell",
+    "cloth_num": "5",
+    "pos": "F-C",
+    "height": "6-8",
+    "weight": "240"
+  },
+  {
+    "team_id": "1610612746",
+    "player_id": 201599,
+    "name": "DeAndre Jordan",
+    "cloth_num": "6",
+    "pos": "C",
+    "height": "6-11",
+    "weight": "265"
+  },
+  {
+    "team_id": "1610612746",
+    "player_id": 1626155,
+    "name": "Sam Dekker",
+    "cloth_num": "7",
+    "pos": "F",
+    "height": "6-9",
+    "weight": "230"
+  },
+  {
+    "team_id": "1610612746",
+    "player_id": 201568,
+    "name": "Danilo Gallinari",
+    "cloth_num": "8",
+    "pos": "F",
+    "height": "6-10",
+    "weight": "225"
+  },
+  {
+    "team_id": "1610612746",
+    "player_id": 203710,
+    "name": "C.J. Williams",
+    "cloth_num": "9",
+    "pos": "F-G",
+    "height": "6-5",
+    "weight": "230"
+  },
+  {
+    "team_id": "1610612746",
+    "player_id": 202340,
+    "name": "Avery Bradley",
+    "cloth_num": "11",
+    "pos": "G",
+    "height": "6-2",
+    "weight": "180"
+  },
+  {
+    "team_id": "1610612746",
+    "player_id": 1627820,
+    "name": "Tyrone Wallace",
+    "cloth_num": "12",
+    "pos": "G",
+    "height": "6-5",
+    "weight": "198"
+  },
+  {
+    "team_id": "1610612746",
+    "player_id": 201976,
+    "name": "Patrick Beverley",
+    "cloth_num": "21",
+    "pos": "G",
+    "height": "6-1",
+    "weight": "185"
+  },
+  {
+    "team_id": "1610612746",
+    "player_id": 101150,
+    "name": "Lou Williams",
+    "cloth_num": "23",
+    "pos": "G",
+    "height": "6-1",
+    "weight": "175"
+  },
+  {
+    "team_id": "1610612746",
+    "player_id": 203085,
+    "name": "Austin Rivers",
+    "cloth_num": "25",
+    "pos": "G",
+    "height": "6-4",
+    "weight": "200"
+  },
+  {
+    "team_id": "1610612746",
+    "player_id": 202325,
+    "name": "Wesley Johnson",
+    "cloth_num": "33",
+    "pos": "F",
+    "height": "6-7",
+    "weight": "215"
+  },
+  {
+    "team_id": "1610612746",
+    "player_id": 202699,
+    "name": "Tobias Harris",
+    "cloth_num": "34",
+    "pos": "F",
+    "height": "6-9",
+    "weight": "235"
+  },
+  {
+    "team_id": "1610612746",
+    "player_id": 1626246,
+    "name": "Boban Marjanovic",
+    "cloth_num": "51",
+    "pos": "C",
+    "height": "7-3",
+    "weight": "290"
+  },
+  {
+    "team_id": "1610612747",
+    "player_id": 1628398,
+    "name": "Kyle Kuzma",
+    "cloth_num": "0",
+    "pos": "F",
+    "height": "6-9",
+    "weight": "220"
+  },
+  {
+    "team_id": "1610612747",
+    "player_id": 203484,
+    "name": "Kentavious Caldwell-Pope",
+    "cloth_num": "1",
+    "pos": "G",
+    "height": "6-5",
+    "weight": "205"
+  },
+  {
+    "team_id": "1610612747",
+    "player_id": 1628366,
+    "name": "Lonzo Ball",
+    "cloth_num": "2",
+    "pos": "G",
+    "height": "6-6",
+    "weight": "190"
+  },
+  {
+    "team_id": "1610612747",
+    "player_id": 202738,
+    "name": "Isaiah Thomas",
+    "cloth_num": "3",
+    "pos": "G",
+    "height": "5-9",
+    "weight": "185"
+  },
+  {
+    "team_id": "1610612747",
+    "player_id": 1627936,
+    "name": "Alex Caruso",
+    "cloth_num": "4",
+    "pos": "G",
+    "height": "6-5",
+    "weight": "186"
+  },
+  {
+    "team_id": "1610612747",
+    "player_id": 1628404,
+    "name": "Josh Hart",
+    "cloth_num": "5",
+    "pos": "G",
+    "height": "6-5",
+    "weight": "215"
+  },
+  {
+    "team_id": "1610612747",
+    "player_id": 2736,
+    "name": "Luol Deng",
+    "cloth_num": "9",
+    "pos": "F",
+    "height": "6-9",
+    "weight": "220"
+  },
+  {
+    "team_id": "1610612747",
+    "player_id": 203898,
+    "name": "Tyler Ennis",
+    "cloth_num": "10",
+    "pos": "G",
+    "height": "6-3",
+    "weight": "194"
+  },
+  {
+    "team_id": "1610612747",
+    "player_id": 201572,
+    "name": "Brook Lopez",
+    "cloth_num": "11",
+    "pos": "C",
+    "height": "7-0",
+    "weight": "268"
+  },
+  {
+    "team_id": "1610612747",
+    "player_id": 101112,
+    "name": "Channing Frye",
+    "cloth_num": "12",
+    "pos": "F",
+    "height": "6-11",
+    "weight": "255"
+  },
+  {
+    "team_id": "1610612747",
+    "player_id": 1627742,
+    "name": "Brandon Ingram",
+    "cloth_num": "14",
+    "pos": "F-G",
+    "height": "6-9",
+    "weight": "190"
+  },
+  {
+    "team_id": "1610612747",
+    "player_id": 201281,
+    "name": "Andre Ingram",
+    "cloth_num": "20",
+    "pos": "G",
+    "height": "6-3",
+    "weight": "190"
+  },
+  {
+    "team_id": "1610612747",
+    "player_id": 204037,
+    "name": "Travis Wear",
+    "cloth_num": "21",
+    "pos": "F",
+    "height": "6-10",
+    "weight": "225"
+  },
+  {
+    "team_id": "1610612747",
+    "player_id": 1627780,
+    "name": "Gary Payton II",
+    "cloth_num": "23",
+    "pos": "G",
+    "height": "6-3",
+    "weight": "190"
+  },
+  {
+    "team_id": "1610612747",
+    "player_id": 203944,
+    "name": "Julius Randle",
+    "cloth_num": "30",
+    "pos": "F-C",
+    "height": "6-9",
+    "weight": "250"
+  },
+  {
+    "team_id": "1610612747",
+    "player_id": 1628418,
+    "name": "Thomas Bryant",
+    "cloth_num": "31",
+    "pos": "C",
+    "height": "6-10",
+    "weight": "248"
+  },
+  {
+    "team_id": "1610612747",
+    "player_id": 1627826,
+    "name": "Ivica Zubac",
+    "cloth_num": "40",
+    "pos": "C",
+    "height": "7-1",
+    "weight": "240"
+  },
+  {
+    "team_id": "1610612756",
+    "player_id": 1627737,
+    "name": "Marquese Chriss",
+    "cloth_num": "0",
+    "pos": "F",
+    "height": "6-10",
+    "weight": "240"
+  },
+  {
+    "team_id": "1610612756",
+    "player_id": 1626164,
+    "name": "Devin Booker",
+    "cloth_num": "1",
+    "pos": "G",
+    "height": "6-6",
+    "weight": "210"
+  },
+  {
+    "team_id": "1610612756",
+    "player_id": 203901,
+    "name": "Elfrid Payton",
+    "cloth_num": "2",
+    "pos": "G",
+    "height": "6-4",
+    "weight": "185"
+  },
+  {
+    "team_id": "1610612756",
+    "player_id": 201162,
+    "name": "Jared Dudley",
+    "cloth_num": "3",
+    "pos": "F",
+    "height": "6-7",
+    "weight": "240"
+  },
+  {
+    "team_id": "1610612756",
+    "player_id": 2199,
+    "name": "Tyson Chandler",
+    "cloth_num": "4",
+    "pos": "C",
+    "height": "7-1",
+    "weight": "240"
+  },
+  {
+    "team_id": "1610612756",
+    "player_id": 1627755,
+    "name": "Tyler Ulis",
+    "cloth_num": "8",
+    "pos": "G",
+    "height": "5-10",
+    "weight": "160"
+  },
+  {
+    "team_id": "1610612756",
+    "player_id": 1627885,
+    "name": "Shaquille Harrison",
+    "cloth_num": "10",
+    "pos": "G",
+    "height": "6-4",
+    "weight": "190"
+  },
+  {
+    "team_id": "1610612756",
+    "player_id": 202688,
+    "name": "Brandon Knight",
+    "cloth_num": "11",
+    "pos": "G",
+    "height": "6-3",
+    "weight": "195"
+  },
+  {
+    "team_id": "1610612756",
+    "player_id": 203933,
+    "name": "TJ Warren",
+    "cloth_num": "12",
+    "pos": "F",
+    "height": "6-8",
+    "weight": "215"
+  },
+  {
+    "team_id": "1610612756",
+    "player_id": 1626210,
+    "name": "Alan Williams",
+    "cloth_num": "15",
+    "pos": "F-C",
+    "height": "6-8",
+    "weight": "265"
+  },
+  {
+    "team_id": "1610612756",
+    "player_id": 1628367,
+    "name": "Josh Jackson",
+    "cloth_num": "20",
+    "pos": "G-F",
+    "height": "6-8",
+    "weight": "200"
+  },
+  {
+    "team_id": "1610612756",
+    "player_id": 203458,
+    "name": "Alex Len",
+    "cloth_num": "21",
+    "pos": "C",
+    "height": "7-1",
+    "weight": "250"
+  },
+  {
+    "team_id": "1610612756",
+    "player_id": 1627863,
+    "name": "Danuel House",
+    "cloth_num": "23",
+    "pos": "F-G",
+    "height": "6-7",
+    "weight": "220"
+  },
+  {
+    "team_id": "1610612756",
+    "player_id": 1628409,
+    "name": "Alec Peters",
+    "cloth_num": "25",
+    "pos": "F",
+    "height": "6-9",
+    "weight": "235"
+  },
+  {
+    "team_id": "1610612756",
+    "player_id": 203584,
+    "name": "Troy Daniels",
+    "cloth_num": "30",
+    "pos": "G",
+    "height": "6-4",
+    "weight": "205"
+  },
+  {
+    "team_id": "1610612756",
+    "player_id": 1628432,
+    "name": "Davon Reed",
+    "cloth_num": "32",
+    "pos": "G",
+    "height": "6-6",
+    "weight": "210"
+  },
+  {
+    "team_id": "1610612756",
+    "player_id": 1627733,
+    "name": "Dragan Bender",
+    "cloth_num": "35",
+    "pos": "F",
+    "height": "7-1",
+    "weight": "225"
+  },
+  {
+    "team_id": "1610612758",
+    "player_id": 1626161,
+    "name": "Willie Cauley-Stein",
+    "cloth_num": "00",
+    "pos": "C",
+    "height": "7-0",
+    "weight": "240"
+  },
+  {
+    "team_id": "1610612758",
+    "player_id": 1628368,
+    "name": "De'Aaron Fox",
+    "cloth_num": "5",
+    "pos": "G",
+    "height": "6-3",
+    "weight": "175"
+  },
+  {
+    "team_id": "1610612758",
+    "player_id": 1627746,
+    "name": "Skal Labissiere",
+    "cloth_num": "7",
+    "pos": "F-C",
+    "height": "6-11",
+    "weight": "225"
+  },
+  {
+    "team_id": "1610612758",
+    "player_id": 203992,
+    "name": "Bogdan Bogdanovic",
+    "cloth_num": "8",
+    "pos": "G",
+    "height": "6-6",
+    "weight": "205"
+  },
+  {
+    "team_id": "1610612758",
+    "player_id": 202697,
+    "name": "Iman Shumpert",
+    "cloth_num": "9",
+    "pos": "G",
+    "height": "6-5",
+    "weight": "220"
+  },
+  {
+    "team_id": "1610612758",
+    "player_id": 1628412,
+    "name": "Frank Mason",
+    "cloth_num": "10",
+    "pos": "G",
+    "height": "5-11",
+    "weight": "190"
+  },
+  {
+    "team_id": "1610612758",
+    "player_id": 1713,
+    "name": "Vince Carter",
+    "cloth_num": "15",
+    "pos": "G-F",
+    "height": "6-6",
+    "weight": "220"
+  },
+  {
+    "team_id": "1610612758",
+    "player_id": 202066,
+    "name": "Garrett Temple",
+    "cloth_num": "17",
+    "pos": "F-G",
+    "height": "6-6",
+    "weight": "195"
+  },
+  {
+    "team_id": "1610612758",
+    "player_id": 1628385,
+    "name": "Harry Giles III",
+    "cloth_num": "20",
+    "pos": "F-C",
+    "height": "6-10",
+    "weight": "240"
+  },
+  {
+    "team_id": "1610612758",
+    "player_id": 203998,
+    "name": "Bruno Caboclo",
+    "cloth_num": "22",
+    "pos": "F",
+    "height": "6-9",
+    "weight": "205"
+  },
+  {
+    "team_id": "1610612758",
+    "player_id": 1627741,
+    "name": "Buddy Hield",
+    "cloth_num": "24",
+    "pos": "G",
+    "height": "6-4",
+    "weight": "214"
+  },
+  {
+    "team_id": "1610612758",
+    "player_id": 1628382,
+    "name": "Justin Jackson",
+    "cloth_num": "25",
+    "pos": "F",
+    "height": "6-8",
+    "weight": "210"
+  },
+  {
+    "team_id": "1610612758",
+    "player_id": 203960,
+    "name": "JaKarr Sampson",
+    "cloth_num": "29",
+    "pos": "F",
+    "height": "6-9",
+    "weight": "207"
+  },
+  {
+    "team_id": "1610612758",
+    "player_id": 1628502,
+    "name": "Nigel Hayes",
+    "cloth_num": "40",
+    "pos": "F",
+    "height": "6-7",
+    "weight": "254"
+  },
+  {
+    "team_id": "1610612758",
+    "player_id": 201585,
+    "name": "Kosta Koufos",
+    "cloth_num": "41",
+    "pos": "C",
+    "height": "7-0",
+    "weight": "265"
+  },
+  {
+    "team_id": "1610612758",
+    "player_id": 204022,
+    "name": "Jack Cooley",
+    "cloth_num": "45",
+    "pos": "C",
+    "height": "6-10",
+    "weight": "274"
+  },
+  {
+    "team_id": "1610612758",
+    "player_id": 2216,
+    "name": "Zach Randolph",
+    "cloth_num": "50",
+    "pos": "F",
+    "height": "6-9",
+    "weight": "250"
+  },
+  {
+    "team_id": "1610612742",
+    "player_id": 1628372,
+    "name": "Dennis Smith Jr.",
+    "cloth_num": "1",
+    "pos": "G",
+    "height": "6-3",
+    "weight": "195"
+  },
+  {
+    "team_id": "1610612742",
+    "player_id": 203457,
+    "name": "Nerlens Noel",
+    "cloth_num": "3",
+    "pos": "C",
+    "height": "6-11",
+    "weight": "220"
+  },
+  {
+    "team_id": "1610612742",
+    "player_id": 200826,
+    "name": "J.J. Barea",
+    "cloth_num": "5",
+    "pos": "G",
+    "height": "6-0",
+    "weight": "185"
+  },
+  {
+    "team_id": "1610612742",
+    "player_id": 1628405,
+    "name": "Johnathan Motley",
+    "cloth_num": "6",
+    "pos": "F",
+    "height": "6-10",
+    "weight": "230"
+  },
+  {
+    "team_id": "1610612742",
+    "player_id": 203939,
+    "name": "Dwight Powell",
+    "cloth_num": "7",
+    "pos": "C-F",
+    "height": "6-11",
+    "weight": "240"
+  },
+  {
+    "team_id": "1610612742",
+    "player_id": 1627858,
+    "name": "Kyle Collinsworth",
+    "cloth_num": "8",
+    "pos": "G",
+    "height": "6-6",
+    "weight": "210"
+  },
+  {
+    "team_id": "1610612742",
+    "player_id": 1626151,
+    "name": "Aaron Harrison",
+    "cloth_num": "9",
+    "pos": "G",
+    "height": "6-6",
+    "weight": "210"
+  },
+  {
+    "team_id": "1610612742",
+    "player_id": 1627827,
+    "name": "Dorian Finney-Smith",
+    "cloth_num": "10",
+    "pos": "F",
+    "height": "6-8",
+    "weight": "220"
+  },
+  {
+    "team_id": "1610612742",
+    "player_id": 1627812,
+    "name": "Yogi Ferrell",
+    "cloth_num": "11",
+    "pos": "G",
+    "height": "6-0",
+    "weight": "180"
+  },
+  {
+    "team_id": "1610612742",
+    "player_id": 203926,
+    "name": "Doug McDermott",
+    "cloth_num": "20",
+    "pos": "F",
+    "height": "6-8",
+    "weight": "219"
+  },
+  {
+    "team_id": "1610612742",
+    "player_id": 1627883,
+    "name": "Jalen Jones",
+    "cloth_num": "21",
+    "pos": "F",
+    "height": "6-7",
+    "weight": "220"
+  },
+  {
+    "team_id": "1610612742",
+    "player_id": 202083,
+    "name": "Wesley Matthews",
+    "cloth_num": "23",
+    "pos": "G-F",
+    "height": "6-5",
+    "weight": "220"
+  },
+  {
+    "team_id": "1610612742",
+    "player_id": 203552,
+    "name": "Seth Curry",
+    "cloth_num": "30",
+    "pos": "G",
+    "height": "6-2",
+    "weight": "185"
+  },
+  {
+    "team_id": "1610612742",
+    "player_id": 203084,
+    "name": "Harrison Barnes",
+    "cloth_num": "40",
+    "pos": "F",
+    "height": "6-8",
+    "weight": "225"
+  },
+  {
+    "team_id": "1610612742",
+    "player_id": 1717,
+    "name": "Dirk Nowitzki",
+    "cloth_num": "41",
+    "pos": "C-F",
+    "height": "7-0",
+    "weight": "245"
+  },
+  {
+    "team_id": "1610612742",
+    "player_id": 1628467,
+    "name": "Maxi Kleber",
+    "cloth_num": "42",
+    "pos": "F",
+    "height": "6-11",
+    "weight": "220"
+  },
+  {
+    "team_id": "1610612742",
+    "player_id": 1626257,
+    "name": "Salah Mejri",
+    "cloth_num": "50",
+    "pos": "C",
+    "height": "7-2",
+    "weight": "235"
+  },
+  {
+    "team_id": "1610612745",
+    "player_id": 2772,
+    "name": "Trevor Ariza",
+    "cloth_num": "1",
+    "pos": "F-G",
+    "height": "6-8",
+    "weight": "215"
+  },
+  {
+    "team_id": "1610612745",
+    "player_id": 1626154,
+    "name": "RJ Hunter",
+    "cloth_num": "2",
+    "pos": "G",
+    "height": "6-5",
+    "weight": "185"
+  },
+  {
+    "team_id": "1610612745",
+    "player_id": 101108,
+    "name": "Chris Paul",
+    "cloth_num": "3",
+    "pos": "G",
+    "height": "6-0",
+    "weight": "175"
+  },
+  {
+    "team_id": "1610612745",
+    "player_id": 200782,
+    "name": "PJ Tucker",
+    "cloth_num": "4",
+    "pos": "F",
+    "height": "6-6",
+    "weight": "245"
+  },
+  {
+    "team_id": "1610612745",
+    "player_id": 1628935,
+    "name": "Aaron Jackson",
+    "cloth_num": "5",
+    "pos": "G",
+    "height": "6-3",
+    "weight": "183"
+  },
+  {
+    "team_id": "1610612745",
+    "player_id": 2207,
+    "name": "Joe Johnson",
+    "cloth_num": "7",
+    "pos": "G-F",
+    "height": "6-7",
+    "weight": "240"
+  },
+  {
+    "team_id": "1610612745",
+    "player_id": 1627753,
+    "name": "Zhou Qi",
+    "cloth_num": "9",
+    "pos": "F-C",
+    "height": "7-1",
+    "weight": "210"
+  },
+  {
+    "team_id": "1610612745",
+    "player_id": 201569,
+    "name": "Eric Gordon",
+    "cloth_num": "10",
+    "pos": "G",
+    "height": "6-4",
+    "weight": "215"
+  },
+  {
+    "team_id": "1610612745",
+    "player_id": 201601,
+    "name": "Luc Mbah a Moute",
+    "cloth_num": "12",
+    "pos": "F",
+    "height": "6-8",
+    "weight": "230"
+  },
+  {
+    "team_id": "1610612745",
+    "player_id": 201935,
+    "name": "James Harden",
+    "cloth_num": "13",
+    "pos": "G",
+    "height": "6-5",
+    "weight": "220"
+  },
+  {
+    "team_id": "1610612745",
+    "player_id": 101123,
+    "name": "Gerald Green",
+    "cloth_num": "14",
+    "pos": "G-F",
+    "height": "6-7",
+    "weight": "205"
+  },
+  {
+    "team_id": "1610612745",
+    "player_id": 203991,
+    "name": "Clint Capela",
+    "cloth_num": "15",
+    "pos": "C",
+    "height": "6-10",
+    "weight": "240"
+  },
+  {
+    "team_id": "1610612745",
+    "player_id": 1627778,
+    "name": "Chinanu Onuaku",
+    "cloth_num": "21",
+    "pos": "C",
+    "height": "6-10",
+    "weight": "245"
+  },
+  {
+    "team_id": "1610612745",
+    "player_id": 203900,
+    "name": "Markel Brown",
+    "cloth_num": "26",
+    "pos": "G",
+    "height": "6-3",
+    "weight": "190"
+  },
+  {
+    "team_id": "1610612745",
+    "player_id": 204028,
+    "name": "Tarik Black",
+    "cloth_num": "28",
+    "pos": "F-C",
+    "height": "6-9",
+    "weight": "250"
+  },
+  {
+    "team_id": "1610612745",
+    "player_id": 201583,
+    "name": "Ryan Anderson",
+    "cloth_num": "33",
+    "pos": "F",
+    "height": "6-10",
+    "weight": "240"
+  },
+  {
+    "team_id": "1610612745",
+    "player_id": 2403,
+    "name": "Nene",
+    "cloth_num": "42",
+    "pos": "C-F",
+    "height": "6-11",
+    "weight": "250"
+  },
+  {
+    "team_id": "1610612763",
+    "player_id": 203210,
+    "name": "JaMychal Green",
+    "cloth_num": "0",
+    "pos": "F",
+    "height": "6-9",
+    "weight": "227"
+  },
+  {
+    "team_id": "1610612763",
+    "player_id": 1626185,
+    "name": "Jarell Martin",
+    "cloth_num": "1",
+    "pos": "F",
+    "height": "6-10",
+    "weight": "239"
+  },
+  {
+    "team_id": "1610612763",
+    "player_id": 1628424,
+    "name": "Kobi Simmons",
+    "cloth_num": "2",
+    "pos": "G",
+    "height": "6-4",
+    "weight": "170"
+  },
+  {
+    "team_id": "1610612763",
+    "player_id": 1627362,
+    "name": "Briante Weber",
+    "cloth_num": "3",
+    "pos": "G",
+    "height": "6-2",
+    "weight": "165"
+  },
+  {
+    "team_id": "1610612763",
+    "player_id": 1627988,
+    "name": "Myke Henry",
+    "cloth_num": "4",
+    "pos": "F",
+    "height": "6-6",
+    "weight": "210"
+  },
+  {
+    "team_id": "1610612763",
+    "player_id": 1626150,
+    "name": "Andrew Harrison",
+    "cloth_num": "5",
+    "pos": "G",
+    "height": "6-6",
+    "weight": "213"
+  },
+  {
+    "team_id": "1610612763",
+    "player_id": 201596,
+    "name": "Mario Chalmers",
+    "cloth_num": "6",
+    "pos": "G",
+    "height": "6-2",
+    "weight": "190"
+  },
+  {
+    "team_id": "1610612763",
+    "player_id": 1627782,
+    "name": "Wayne Selden",
+    "cloth_num": "7",
+    "pos": "G-F",
+    "height": "6-5",
+    "weight": "230"
+  },
+  {
+    "team_id": "1610612763",
+    "player_id": 202705,
+    "name": "MarShon Brooks",
+    "cloth_num": "8",
+    "pos": "G-F",
+    "height": "6-5",
+    "weight": "200"
+  },
+  {
+    "team_id": "1610612763",
+    "player_id": 1628397,
+    "name": "Ivan Rabb",
+    "cloth_num": "10",
+    "pos": "F",
+    "height": "6-10",
+    "weight": "220"
+  },
+  {
+    "team_id": "1610612763",
+    "player_id": 201144,
+    "name": "Mike Conley",
+    "cloth_num": "11",
+    "pos": "G",
+    "height": "6-1",
+    "weight": "175"
+  },
+  {
+    "team_id": "1610612763",
+    "player_id": 201936,
+    "name": "Tyreke Evans",
+    "cloth_num": "12",
+    "pos": "G-F",
+    "height": "6-6",
+    "weight": "220"
+  },
+  {
+    "team_id": "1610612763",
+    "player_id": 204179,
+    "name": "Omari Johnson",
+    "cloth_num": "14",
+    "pos": "F",
+    "height": "6-9",
+    "weight": "220"
+  },
+  {
+    "team_id": "1610612763",
+    "player_id": 203104,
+    "name": "Marquis Teague",
+    "cloth_num": "20",
+    "pos": "G",
+    "height": "6-2",
+    "weight": "189"
+  },
+  {
+    "team_id": "1610612763",
+    "player_id": 1627738,
+    "name": "Deyonta Davis",
+    "cloth_num": "21",
+    "pos": "C-F",
+    "height": "6-11",
+    "weight": "237"
+  },
+  {
+    "team_id": "1610612763",
+    "player_id": 203463,
+    "name": "Ben McLemore",
+    "cloth_num": "23",
+    "pos": "G",
+    "height": "6-5",
+    "weight": "195"
+  },
+  {
+    "team_id": "1610612763",
+    "player_id": 1628415,
+    "name": "Dillon Brooks",
+    "cloth_num": "24",
+    "pos": "F-G",
+    "height": "6-6",
+    "weight": "220"
+  },
+  {
+    "team_id": "1610612763",
+    "player_id": 202718,
+    "name": "Chandler Parsons",
+    "cloth_num": "25",
+    "pos": "F",
+    "height": "6-10",
+    "weight": "230"
+  },
+  {
+    "team_id": "1610612763",
+    "player_id": 201188,
+    "name": "Marc Gasol",
+    "cloth_num": "33",
+    "pos": "C",
+    "height": "7-1",
+    "weight": "255"
+  },
+  {
+    "team_id": "1610612740",
+    "player_id": 202326,
+    "name": "DeMarcus Cousins",
+    "cloth_num": "0",
+    "pos": "C",
+    "height": "6-11",
+    "weight": "270"
+  },
+  {
+    "team_id": "1610612740",
+    "player_id": 203580,
+    "name": "Larry Drew II",
+    "cloth_num": "1",
+    "pos": "G",
+    "height": "6-2",
+    "weight": "180"
+  },
+  {
+    "team_id": "1610612740",
+    "player_id": 203546,
+    "name": "Ian Clark",
+    "cloth_num": "2",
+    "pos": "G",
+    "height": "6-3",
+    "weight": "175"
+  },
+  {
+    "team_id": "1610612740",
+    "player_id": 202703,
+    "name": "Nikola Mirotic",
+    "cloth_num": "3",
+    "pos": "F",
+    "height": "6-10",
+    "weight": "238"
+  },
+  {
+    "team_id": "1610612740",
+    "player_id": 1628429,
+    "name": "Charles Cooke",
+    "cloth_num": "4",
+    "pos": "G",
+    "height": "6-5",
+    "weight": "196"
+  },
+  {
+    "team_id": "1610612740",
+    "player_id": 200765,
+    "name": "Rajon Rondo",
+    "cloth_num": "9",
+    "pos": "G",
+    "height": "6-1",
+    "weight": "186"
+  },
+  {
+    "team_id": "1610612740",
+    "player_id": 201950,
+    "name": "Jrue Holiday",
+    "cloth_num": "11",
+    "pos": "G",
+    "height": "6-4",
+    "weight": "205"
+  },
+  {
+    "team_id": "1610612740",
+    "player_id": 1627767,
+    "name": "Cheick Diallo",
+    "cloth_num": "13",
+    "pos": "F",
+    "height": "6-9",
+    "weight": "220"
+  },
+  {
+    "team_id": "1610612740",
+    "player_id": 1628402,
+    "name": "Frank Jackson",
+    "cloth_num": "15",
+    "pos": "G",
+    "height": "6-3",
+    "weight": "205"
+  },
+  {
+    "team_id": "1610612740",
+    "player_id": 203121,
+    "name": "Darius Miller",
+    "cloth_num": "21",
+    "pos": "F",
+    "height": "6-8",
+    "weight": "225"
+  },
+  {
+    "team_id": "1610612740",
+    "player_id": 203076,
+    "name": "Anthony Davis",
+    "cloth_num": "23",
+    "pos": "F-C",
+    "height": "6-10",
+    "weight": "253"
+  },
+  {
+    "team_id": "1610612740",
+    "player_id": 202348,
+    "name": "Jordan Crawford",
+    "cloth_num": "27",
+    "pos": "G",
+    "height": "6-5",
+    "weight": "195"
+  },
+  {
+    "team_id": "1610612740",
+    "player_id": 202732,
+    "name": "DeAndre Liggins",
+    "cloth_num": "34",
+    "pos": "G",
+    "height": "6-6",
+    "weight": "209"
+  },
+  {
+    "team_id": "1610612740",
+    "player_id": 201582,
+    "name": "Alexis Ajinca",
+    "cloth_num": "42",
+    "pos": "C",
+    "height": "7-2",
+    "weight": "248"
+  },
+  {
+    "team_id": "1610612740",
+    "player_id": 203524,
+    "name": "Solomon Hill",
+    "cloth_num": "44",
+    "pos": "F",
+    "height": "6-7",
+    "weight": "225"
+  },
+  {
+    "team_id": "1610612740",
+    "player_id": 2731,
+    "name": "Emeka Okafor",
+    "cloth_num": "50",
+    "pos": "C",
+    "height": "6-10",
+    "weight": "255"
+  },
+  {
+    "team_id": "1610612740",
+    "player_id": 202734,
+    "name": "E'Twaun Moore",
+    "cloth_num": "55",
+    "pos": "F-G",
+    "height": "6-4",
+    "weight": "191"
+  },
+  {
+    "team_id": "1610612759",
+    "player_id": 203937,
+    "name": "Kyle Anderson",
+    "cloth_num": "1",
+    "pos": "F",
+    "height": "6-9",
+    "weight": "230"
+  },
+  {
+    "team_id": "1610612759",
+    "player_id": 202695,
+    "name": "Kawhi Leonard",
+    "cloth_num": "2",
+    "pos": "F",
+    "height": "6-7",
+    "weight": "230"
+  },
+  {
+    "team_id": "1610612759",
+    "player_id": 203464,
+    "name": "Brandon Paul",
+    "cloth_num": "3",
+    "pos": "G",
+    "height": "6-4",
+    "weight": "200"
+  },
+  {
+    "team_id": "1610612759",
+    "player_id": 1628401,
+    "name": "Derrick White",
+    "cloth_num": "4",
+    "pos": "G",
+    "height": "6-4",
+    "weight": "190"
+  },
+  {
+    "team_id": "1610612759",
+    "player_id": 1627749,
+    "name": "Dejounte Murray",
+    "cloth_num": "5",
+    "pos": "G",
+    "height": "6-5",
+    "weight": "170"
+  },
+  {
+    "team_id": "1610612759",
+    "player_id": 201988,
+    "name": "Patty Mills",
+    "cloth_num": "8",
+    "pos": "G",
+    "height": "6-0",
+    "weight": "185"
+  },
+  {
+    "team_id": "1610612759",
+    "player_id": 2225,
+    "name": "Tony Parker",
+    "cloth_num": "9",
+    "pos": "G",
+    "height": "6-2",
+    "weight": "185"
+  },
+  {
+    "team_id": "1610612759",
+    "player_id": 1627856,
+    "name": "Matt Costello",
+    "cloth_num": "10",
+    "pos": "F-C",
+    "height": "6-10",
+    "weight": "240"
+  },
+  {
+    "team_id": "1610612759",
+    "player_id": 1627854,
+    "name": "Bryn Forbes",
+    "cloth_num": "11",
+    "pos": "G",
+    "height": "6-3",
+    "weight": "190"
+  },
+  {
+    "team_id": "1610612759",
+    "player_id": 200746,
+    "name": "LaMarcus Aldridge",
+    "cloth_num": "12",
+    "pos": "F",
+    "height": "6-11",
+    "weight": "260"
+  },
+  {
+    "team_id": "1610612759",
+    "player_id": 201980,
+    "name": "Danny Green",
+    "cloth_num": "14",
+    "pos": "G-F",
+    "height": "6-6",
+    "weight": "215"
+  },
+  {
+    "team_id": "1610612759",
+    "player_id": 2200,
+    "name": "Pau Gasol",
+    "cloth_num": "16",
+    "pos": "C",
+    "height": "7-0",
+    "weight": "250"
+  },
+  {
+    "team_id": "1610612759",
+    "player_id": 1938,
+    "name": "Manu Ginobili",
+    "cloth_num": "20",
+    "pos": "G",
+    "height": "6-6",
+    "weight": "205"
+  },
+  {
+    "team_id": "1610612759",
+    "player_id": 200752,
+    "name": "Rudy Gay",
+    "cloth_num": "22",
+    "pos": "F",
+    "height": "6-8",
+    "weight": "230"
+  },
+  {
+    "team_id": "1610612759",
+    "player_id": 1626199,
+    "name": "Darrun Hilliard",
+    "cloth_num": "24",
+    "pos": "G",
+    "height": "6-6",
+    "weight": "220"
+  },
+  {
+    "team_id": "1610612759",
+    "player_id": 202722,
+    "name": "Davis Bertans",
+    "cloth_num": "42",
+    "pos": "C-F",
+    "height": "6-10",
+    "weight": "210"
+  },
+  {
+    "team_id": "1610612759",
+    "player_id": 203530,
+    "name": "Joffrey Lauvergne",
+    "cloth_num": "77",
+    "pos": "C",
+    "height": "6-11",
+    "weight": "260"
+  }
+]

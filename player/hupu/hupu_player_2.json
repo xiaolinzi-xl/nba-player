@@ -1,0 +1,2682 @@
+[
+  {
+    "name": "James Harden",
+    "salary": "2830",
+    "armspan": "2.10",
+    "reach_height": "2.63"
+  },
+  {
+    "name": "Chris Paul",
+    "salary": "2427",
+    "armspan": "1.94",
+    "reach_height": "2.36"
+  },
+  {
+    "name": "Ryan Anderson",
+    "salary": "1958"
+  },
+  {
+    "name": "Eric Gordon",
+    "salary": "1294",
+    "armspan": "2.06",
+    "reach_height": "2.51"
+  },
+  {
+    "name": "PJ Tucker",
+    "salary": "759"
+  },
+  {
+    "name": "Trevor Ariza",
+    "salary": "742",
+    "armspan": "2.18",
+    "reach_height": "2.73"
+  },
+  {
+    "name": "Nene",
+    "salary": "348"
+  },
+  {
+    "name": "Tarik Black",
+    "salary": "329",
+    "armspan": "2.20",
+    "reach_height": "2.72"
+  },
+  {
+    "name": "Clint Capela",
+    "salary": "233",
+    "armspan": "2.25",
+    "reach_height": "2.81"
+  },
+  {
+    "name": "Luc Mbah a Moute",
+    "salary": "212",
+    "armspan": "2.15",
+    "reach_height": "2.63"
+  },
+  {
+    "name": "Gerald Green",
+    "salary": "138",
+    "armspan": "2.08",
+    "reach_height": "2.64"
+  },
+  {
+    "name": "Chinanu Onuaku",
+    "salary": "131",
+    "armspan": "2.20",
+    "reach_height": "2.76"
+  },
+  {
+    "name": "Zhou Qi",
+    "salary": "82",
+    "armspan": "2.33",
+    "reach_height": "2.86"
+  },
+  {
+    "name": "Joe Johnson",
+    "salary": "75",
+    "armspan": "2.06",
+    "reach_height": "2.67"
+  },
+  {
+    "name": "Markel Brown",
+    "salary": "7",
+    "armspan": "2.05",
+    "reach_height": "2.54"
+  },
+  {
+    "name": "RJ Hunter",
+    "salary": "7",
+    "armspan": "2.10",
+    "reach_height": "2.64"
+  },
+  {
+    "name": "Jrue Holiday",
+    "salary": "2569",
+    "armspan": "2.01",
+    "reach_height": "2.55"
+  },
+  {
+    "name": "Anthony Davis",
+    "salary": "2378",
+    "armspan": "2.27",
+    "reach_height": "2.74"
+  },
+  {
+    "name": "DeMarcus Cousins",
+    "salary": "1806",
+    "armspan": "2.28",
+    "reach_height": "2.87"
+  },
+  {
+    "name": "Nikola Mirotic",
+    "salary": "1250"
+  },
+  {
+    "name": "Solomon Hill",
+    "salary": "1175",
+    "armspan": "2.06",
+    "reach_height": "2.62"
+  },
+  {
+    "name": "E'Twaun Moore",
+    "salary": "845",
+    "armspan": "2.07",
+    "reach_height": "2.53"
+  },
+  {
+    "name": "Alexis Ajinca",
+    "salary": "496",
+    "armspan": "2.36",
+    "reach_height": "2.84"
+  },
+  {
+    "name": "Rajon Rondo",
+    "salary": "330"
+  },
+  {
+    "name": "Darius Miller",
+    "salary": "210"
+  },
+  {
+    "name": "Ian Clark",
+    "salary": "158",
+    "armspan": "1.99",
+    "reach_height": "2.50"
+  },
+  {
+    "name": "Cheick Diallo",
+    "salary": "131",
+    "armspan": "2.25",
+    "reach_height": "2.73"
+  },
+  {
+    "name": "Frank Jackson",
+    "salary": "82",
+    "armspan": "2.02",
+    "reach_height": "2.49"
+  },
+  {
+    "name": "DeAndre Liggins",
+    "salary": "59"
+  },
+  {
+    "name": "Emeka Okafor",
+    "salary": "59"
+  },
+  {
+    "name": "Charles Cooke",
+    "salary": "7"
+  },
+  {
+    "name": "Jordan Crawford",
+    "salary": "2010"
+  },
+  {
+    "name": "LaMarcus Aldridge",
+    "salary": "2146",
+    "armspan": "2.25",
+    "reach_height": "2.79"
+  },
+  {
+    "name": "Kawhi Leonard",
+    "salary": "1887",
+    "armspan": "2.21",
+    "reach_height": "2.69"
+  },
+  {
+    "name": "Pau Gasol",
+    "salary": "1600"
+  },
+  {
+    "name": "Tony Parker",
+    "salary": "1545"
+  },
+  {
+    "name": "Patty Mills",
+    "salary": "1116",
+    "armspan": "1.88",
+    "reach_height": "2.41"
+  },
+  {
+    "name": "Danny Green",
+    "salary": "1000",
+    "armspan": "2.08",
+    "reach_height": "2.62"
+  },
+  {
+    "name": "Rudy Gay",
+    "salary": "841",
+    "armspan": "2.21",
+    "reach_height": "2.72"
+  },
+  {
+    "name": "Manu Ginobili",
+    "salary": "250"
+  },
+  {
+    "name": "Kyle Anderson",
+    "salary": "215",
+    "armspan": "2.20",
+    "reach_height": "2.73"
+  },
+  {
+    "name": "Joffrey Lauvergne",
+    "salary": "152",
+    "armspan": "2.07",
+    "reach_height": "2.63"
+  },
+  {
+    "name": "Derrick White",
+    "salary": "140",
+    "armspan": "2.02",
+    "reach_height": "2.58"
+  },
+  {
+    "name": "Bryn Forbes",
+    "salary": "131"
+  },
+  {
+    "name": "Dejounte Murray",
+    "salary": "123",
+    "armspan": "2.11",
+    "reach_height": "2.62"
+  },
+  {
+    "name": "Davis Bertans",
+    "salary": "91"
+  },
+  {
+    "name": "Brandon Paul",
+    "salary": "82",
+    "armspan": "2.09",
+    "reach_height": "2.49"
+  },
+  {
+    "name": "Darrun Hilliard",
+    "salary": "7",
+    "armspan": "2.06",
+    "reach_height": "2.63"
+  },
+  {
+    "name": "Matt Costello",
+    "salary": "7"
+  },
+  {
+    "name": "Harrison Barnes",
+    "salary": "2311",
+    "armspan": "2.11",
+    "reach_height": "2.58"
+  },
+  {
+    "name": "Wesley Matthews",
+    "salary": "1788"
+  },
+  {
+    "name": "Dirk Nowitzki",
+    "salary": "500"
+  },
+  {
+    "name": "Nerlens Noel",
+    "salary": "419",
+    "armspan": "2.22",
+    "reach_height": "2.79"
+  },
+  {
+    "name": "J.J. Barea",
+    "salary": "390"
+  },
+  {
+    "name": "Doug McDermott",
+    "salary": "329",
+    "armspan": "2.06",
+    "reach_height": "2.62"
+  },
+  {
+    "name": "Dennis Smith Jr.",
+    "salary": "322",
+    "armspan": "1.91",
+    "reach_height": "2.46"
+  },
+  {
+    "name": "Seth Curry",
+    "salary": "303",
+    "armspan": "1.93",
+    "reach_height": "2.48"
+  },
+  {
+    "name": "Salah Mejri",
+    "salary": "147"
+  },
+  {
+    "name": "Yogi Ferrell",
+    "salary": "131"
+  },
+  {
+    "name": "Dorian Finney-Smith",
+    "salary": "91",
+    "armspan": "2.13",
+    "reach_height": "2.53"
+  },
+  {
+    "name": "Maxi Kleber",
+    "salary": "82"
+  },
+  {
+    "name": "Kyle Collinsworth",
+    "salary": "29"
+  },
+  {
+    "name": "Aaron Harrison",
+    "salary": "8",
+    "armspan": "2.04",
+    "reach_height": "2.55"
+  },
+  {
+    "name": "Jalen Jones",
+    "salary": "7"
+  },
+  {
+    "name": "Johnathan Motley",
+    "salary": "7",
+    "armspan": "2.24",
+    "reach_height": "2.74"
+  },
+  {
+    "name": "Mike Conley",
+    "salary": "2853",
+    "armspan": "1.97",
+    "reach_height": "2.40"
+  },
+  {
+    "name": "Chandler Parsons",
+    "salary": "2311",
+    "armspan": "2.07",
+    "reach_height": "2.65"
+  },
+  {
+    "name": "Marc Gasol",
+    "salary": "2264"
+  },
+  {
+    "name": "JaMychal Green",
+    "salary": "853",
+    "armspan": "2.19",
+    "reach_height": "2.71"
+  },
+  {
+    "name": "Ben McLemore",
+    "salary": "520",
+    "armspan": "2.03",
+    "reach_height": "2.55"
+  },
+  {
+    "name": "Tyreke Evans",
+    "salary": "329",
+    "armspan": "2.11",
+    "reach_height": "2.64"
+  },
+  {
+    "name": "Mario Chalmers",
+    "salary": "211"
+  },
+  {
+    "name": "Jarell Martin",
+    "salary": "134",
+    "armspan": "2.08",
+    "reach_height": "2.71"
+  },
+  {
+    "name": "Andrew Harrison",
+    "salary": "131"
+  },
+  {
+    "name": "Wayne Selden",
+    "salary": "131"
+  },
+  {
+    "name": "Deyonta Davis",
+    "salary": "131",
+    "armspan": "2.20",
+    "reach_height": "2.76"
+  },
+  {
+    "name": "Ivan Rabb",
+    "salary": "95",
+    "armspan": "2.17",
+    "reach_height": "2.77"
+  },
+  {
+    "name": "Dillon Brooks",
+    "salary": "82",
+    "armspan": "1.98",
+    "reach_height": "2.55"
+  },
+  {
+    "name": "MarShon Brooks",
+    "salary": "8"
+  },
+  {
+    "name": "Myke Henry",
+    "salary": "7"
+  },
+  {
+    "name": "Kobi Simmons",
+    "salary": "7",
+    "armspan": "1.98",
+    "reach_height": "2.54"
+  },
+  {
+    "name": "Stephen Curry",
+    "salary": "3468",
+    "armspan": "1.92",
+    "reach_height": "2.46"
+  },
+  {
+    "name": "Kevin Durant",
+    "salary": "2500",
+    "armspan": "2.25",
+    "reach_height": "2.79"
+  },
+  {
+    "name": "Klay Thompson",
+    "salary": "1783",
+    "armspan": "2.06",
+    "reach_height": "2.63"
+  },
+  {
+    "name": "Draymond Green",
+    "salary": "1640",
+    "armspan": "2.17",
+    "reach_height": "2.67"
+  },
+  {
+    "name": "Andre Iguodala",
+    "salary": "1481",
+    "armspan": "2.11",
+    "reach_height": "2.68"
+  },
+  {
+    "name": "Shaun Livingston",
+    "salary": "769",
+    "armspan": "2.11",
+    "reach_height": "2.68"
+  },
+  {
+    "name": "Nick Young",
+    "salary": "519",
+    "armspan": "2.13",
+    "reach_height": "2.55"
+  },
+  {
+    "name": "Zaza Pachulia",
+    "salary": "478"
+  },
+  {
+    "name": "David West",
+    "salary": "233",
+    "armspan": "2.24",
+    "reach_height": "2.76"
+  },
+  {
+    "name": "JaVale McGee",
+    "salary": "212",
+    "armspan": "2.29",
+    "reach_height": "2.91"
+  },
+  {
+    "name": "Kevon Looney",
+    "salary": "123",
+    "armspan": "2.22",
+    "reach_height": "2.79"
+  },
+  {
+    "name": "Damian Jones",
+    "salary": "122",
+    "armspan": "2.23",
+    "reach_height": "2.72"
+  },
+  {
+    "name": "Patrick McCaw",
+    "salary": "91",
+    "armspan": "2.08",
+    "reach_height": "2.55"
+  },
+  {
+    "name": "Jordan Bell",
+    "salary": "82",
+    "armspan": "2.13",
+    "reach_height": "2.65"
+  },
+  {
+    "name": "Quinn Cook",
+    "salary": "7",
+    "armspan": "1.93",
+    "reach_height": "2.45"
+  },
+  {
+    "name": "Chris Boucher",
+    "salary": "7"
+  },
+  {
+    "name": "DeAndre Jordan",
+    "salary": "2264",
+    "armspan": "2.29",
+    "reach_height": "2.88"
+  },
+  {
+    "name": "Danilo Gallinari",
+    "salary": "2056"
+  },
+  {
+    "name": "Tobias Harris",
+    "salary": "1600",
+    "armspan": "2.11",
+    "reach_height": "2.63"
+  },
+  {
+    "name": "Austin Rivers",
+    "salary": "1167",
+    "armspan": "2.01",
+    "reach_height": "2.45"
+  },
+  {
+    "name": "Avery Bradley",
+    "salary": "881",
+    "armspan": "2.01",
+    "reach_height": "2.50"
+  },
+  {
+    "name": "Lou Williams",
+    "salary": "730"
+  },
+  {
+    "name": "Boban Marjanovic",
+    "salary": "700",
+    "armspan": "2.34",
+    "reach_height": "2.92"
+  },
+  {
+    "name": "Milos Teodosic",
+    "salary": "600"
+  },
+  {
+    "name": "Wesley Johnson",
+    "salary": "588",
+    "armspan": "2.16",
+    "reach_height": "2.69"
+  },
+  {
+    "name": "Patrick Beverley",
+    "salary": "551",
+    "armspan": "1.99",
+    "reach_height": "2.49"
+  },
+  {
+    "name": "Sam Dekker",
+    "salary": "179",
+    "armspan": "2.12",
+    "reach_height": "2.69"
+  },
+  {
+    "name": "Montrezl Harrell",
+    "salary": "109",
+    "armspan": "2.24",
+    "reach_height": "2.77"
+  },
+  {
+    "name": "Jawun Evans",
+    "salary": "82",
+    "armspan": "1.97",
+    "reach_height": "2.41"
+  },
+  {
+    "name": "Sindarius Thornwell",
+    "salary": "82",
+    "armspan": "2.08",
+    "reach_height": "2.62"
+  },
+  {
+    "name": "C.J. Williams",
+    "salary": "7"
+  },
+  {
+    "name": "Tyrone Wallace",
+    "salary": "7"
+  },
+  {
+    "name": "Brook Lopez",
+    "salary": "2265",
+    "armspan": "2.27",
+    "reach_height": "2.87"
+  },
+  {
+    "name": "Kentavious Caldwell-Pope",
+    "salary": "1775",
+    "armspan": "2.03",
+    "reach_height": "2.55"
+  },
+  {
+    "name": "Luol Deng",
+    "salary": "1719",
+    "armspan": "2.15",
+    "reach_height": "2.76"
+  },
+  {
+    "name": "Channing Frye",
+    "salary": "742",
+    "armspan": "2.20",
+    "reach_height": "2.81"
+  },
+  {
+    "name": "Lonzo Ball",
+    "salary": "629",
+    "armspan": "2.06",
+    "reach_height": "2.56"
+  },
+  {
+    "name": "Isaiah Thomas",
+    "salary": "626",
+    "armspan": "1.87",
+    "reach_height": "2.32"
+  },
+  {
+    "name": "Brandon Ingram",
+    "salary": "552",
+    "armspan": "2.21",
+    "reach_height": "2.78"
+  },
+  {
+    "name": "Julius Randle",
+    "salary": "415",
+    "armspan": "2.13",
+    "reach_height": "2.68"
+  },
+  {
+    "name": "Tyler Ennis",
+    "salary": "152",
+    "armspan": "2.01",
+    "reach_height": "2.49"
+  },
+  {
+    "name": "Kyle Kuzma",
+    "salary": "142",
+    "armspan": "2.14",
+    "reach_height": "2.73"
+  },
+  {
+    "name": "Josh Hart",
+    "salary": "139",
+    "armspan": "2.04",
+    "reach_height": "2.57"
+  },
+  {
+    "name": "Ivica Zubac",
+    "salary": "108"
+  },
+  {
+    "name": "Thomas Bryant",
+    "salary": "82",
+    "armspan": "2.29",
+    "reach_height": "2.86"
+  },
+  {
+    "name": "Gary Payton II",
+    "salary": "7"
+  },
+  {
+    "name": "Alex Caruso",
+    "salary": "7"
+  },
+  {
+    "name": "Travis Wear",
+    "salary": "4"
+  },
+  {
+    "name": "Andre Ingram",
+    "salary": "1"
+  },
+  {
+    "name": "Zach Randolph",
+    "salary": "1231"
+  },
+  {
+    "name": "Iman Shumpert",
+    "salary": "1034",
+    "armspan": "2.07",
+    "reach_height": "2.53"
+  },
+  {
+    "name": "Bogdan Bogdanovic",
+    "salary": "947"
+  },
+  {
+    "name": "Kosta Koufos",
+    "salary": "839"
+  },
+  {
+    "name": "Garrett Temple",
+    "salary": "800"
+  },
+  {
+    "name": "Vince Carter",
+    "salary": "800"
+  },
+  {
+    "name": "De'Aaron Fox",
+    "salary": "461",
+    "armspan": "1.99",
+    "reach_height": "2.54"
+  },
+  {
+    "name": "Willie Cauley-Stein",
+    "salary": "370",
+    "armspan": "2.21",
+    "reach_height": "2.82"
+  },
+  {
+    "name": "Buddy Hield",
+    "salary": "368",
+    "armspan": "2.06",
+    "reach_height": "2.57"
+  },
+  {
+    "name": "Bruno Caboclo",
+    "salary": "245"
+  },
+  {
+    "name": "Justin Jackson",
+    "salary": "237",
+    "armspan": "2.11",
+    "reach_height": "2.65"
+  },
+  {
+    "name": "Harry Giles III",
+    "salary": "186",
+    "armspan": "2.22",
+    "reach_height": "2.78"
+  },
+  {
+    "name": "Skal Labissiere",
+    "salary": "124",
+    "armspan": "2.20",
+    "reach_height": "2.68"
+  },
+  {
+    "name": "Frank Mason",
+    "salary": "118",
+    "armspan": "1.91",
+    "reach_height": "2.39"
+  },
+  {
+    "name": "Jack Cooley",
+    "salary": "7"
+  },
+  {
+    "name": "JaKarr Sampson",
+    "salary": "7",
+    "armspan": "2.13",
+    "reach_height": "2.63"
+  },
+  {
+    "name": "Brandon Knight",
+    "salary": "1362",
+    "armspan": "2.00",
+    "reach_height": "2.50"
+  },
+  {
+    "name": "Tyson Chandler",
+    "salary": "1300",
+    "armspan": "2.21",
+    "reach_height": "2.79"
+  },
+  {
+    "name": "Jared Dudley",
+    "salary": "1000",
+    "armspan": "2.01",
+    "reach_height": "2.59"
+  },
+  {
+    "name": "Alan Williams",
+    "salary": "600",
+    "armspan": "2.18",
+    "reach_height": "2.71"
+  },
+  {
+    "name": "Josh Jackson",
+    "salary": "509",
+    "armspan": "2.08",
+    "reach_height": "2.69"
+  },
+  {
+    "name": "Dragan Bender",
+    "salary": "447",
+    "armspan": "2.18",
+    "reach_height": "2.82"
+  },
+  {
+    "name": "Alex Len",
+    "salary": "419",
+    "armspan": "2.22",
+    "reach_height": "2.78"
+  },
+  {
+    "name": "Troy Daniels",
+    "salary": "333",
+    "armspan": "2.03",
+    "reach_height": "2.58"
+  },
+  {
+    "name": "Elfrid Payton",
+    "salary": "333",
+    "armspan": "2.03",
+    "reach_height": "2.50"
+  },
+  {
+    "name": "TJ Warren",
+    "salary": "315",
+    "armspan": "2.09",
+    "reach_height": "2.64"
+  },
+  {
+    "name": "Marquese Chriss",
+    "salary": "307",
+    "armspan": "2.14",
+    "reach_height": "2.67"
+  },
+  {
+    "name": "Devin Booker",
+    "salary": "232",
+    "armspan": "2.04",
+    "reach_height": "2.60"
+  },
+  {
+    "name": "Tyler Ulis",
+    "salary": "91",
+    "armspan": "1.88",
+    "reach_height": "2.25"
+  },
+  {
+    "name": "Davon Reed",
+    "salary": "82",
+    "armspan": "2.13",
+    "reach_height": "2.59"
+  },
+  {
+    "name": "Danuel House",
+    "salary": "7"
+  },
+  {
+    "name": "Alec Peters",
+    "salary": "7",
+    "armspan": "2.10",
+    "reach_height": "2.67"
+  },
+  {
+    "name": "Damian Lillard",
+    "salary": "2615",
+    "armspan": "2.03",
+    "reach_height": "2.43"
+  },
+  {
+    "name": "CJ McCollum",
+    "salary": "2396",
+    "armspan": "1.99",
+    "reach_height": "2.45"
+  },
+  {
+    "name": "Evan Turner",
+    "salary": "1713",
+    "armspan": "2.03",
+    "reach_height": "2.63"
+  },
+  {
+    "name": "Meyers Leonard",
+    "salary": "990",
+    "armspan": "2.21",
+    "reach_height": "2.74"
+  },
+  {
+    "name": "Maurice Harkless",
+    "salary": "966",
+    "armspan": "2.13",
+    "reach_height": "2.60"
+  },
+  {
+    "name": "Al-Farouq Aminu",
+    "salary": "732",
+    "armspan": "2.22",
+    "reach_height": "2.76"
+  },
+  {
+    "name": "Ed Davis",
+    "salary": "635",
+    "armspan": "2.13",
+    "reach_height": "2.74"
+  },
+  {
+    "name": "Zach Collins",
+    "salary": "306",
+    "armspan": "2.16",
+    "reach_height": "2.82"
+  },
+  {
+    "name": "Jusuf Nurkic",
+    "salary": "295",
+    "armspan": "2.18",
+    "reach_height": "2.78"
+  },
+  {
+    "name": "Shabazz Napier",
+    "salary": "236",
+    "armspan": "1.91",
+    "reach_height": "2.36"
+  },
+  {
+    "name": "Pat Connaughton",
+    "salary": "147",
+    "armspan": "2.05",
+    "reach_height": "2.44"
+  },
+  {
+    "name": "Caleb Swanigan",
+    "salary": "147",
+    "armspan": "2.21",
+    "reach_height": "2.74"
+  },
+  {
+    "name": "Jake Layman",
+    "salary": "91",
+    "armspan": "2.06",
+    "reach_height": "2.59"
+  },
+  {
+    "name": "CJ Wilcox",
+    "salary": "7",
+    "armspan": "2.08",
+    "reach_height": "2.55"
+  },
+  {
+    "name": "Wade Baldwin IV",
+    "salary": "7",
+    "armspan": "2.11",
+    "reach_height": "2.54"
+  },
+  {
+    "name": "Georgios Papagiannis",
+    "salary": "7"
+  },
+  {
+    "name": "Russell Westbrook",
+    "salary": "2853",
+    "armspan": "2.03",
+    "reach_height": "2.54"
+  },
+  {
+    "name": "Carmelo Anthony",
+    "salary": "2624",
+    "armspan": "2.13",
+    "reach_height": "2.68"
+  },
+  {
+    "name": "Steven Adams",
+    "salary": "2247",
+    "armspan": "2.25",
+    "reach_height": "2.78"
+  },
+  {
+    "name": "Paul George",
+    "salary": "1951",
+    "armspan": "2.11",
+    "reach_height": "2.72"
+  },
+  {
+    "name": "Andre Roberson",
+    "salary": "926",
+    "armspan": "2.11",
+    "reach_height": "2.65"
+  },
+  {
+    "name": "Alex Abrines",
+    "salary": "573"
+  },
+  {
+    "name": "Patrick Patterson",
+    "salary": "519",
+    "armspan": "2.17",
+    "reach_height": "2.72"
+  },
+  {
+    "name": "Kyle Singler",
+    "salary": "500",
+    "armspan": "2.09",
+    "reach_height": "2.69"
+  },
+  {
+    "name": "Raymond Felton",
+    "salary": "233",
+    "armspan": "1.94",
+    "reach_height": "2.49"
+  },
+  {
+    "name": "Nick Collison",
+    "salary": "233",
+    "armspan": "2.17",
+    "reach_height": "2.74"
+  },
+  {
+    "name": "Terrance Ferguson",
+    "salary": "179",
+    "armspan": "2.05",
+    "reach_height": "2.62"
+  },
+  {
+    "name": "Josh Huestis",
+    "salary": "124"
+  },
+  {
+    "name": "Jerami Grant",
+    "salary": "105",
+    "armspan": "2.20",
+    "reach_height": "2.72"
+  },
+  {
+    "name": "Dakari Johnson",
+    "salary": "82"
+  },
+  {
+    "name": "Corey Brewer",
+    "salary": "53",
+    "armspan": "2.04",
+    "reach_height": "2.62"
+  },
+  {
+    "name": "Daniel Hamilton",
+    "salary": "7"
+  },
+  {
+    "name": "PJ Dozier",
+    "salary": "7"
+  },
+  {
+    "name": "Rudy Gobert",
+    "salary": "2122",
+    "armspan": "2.35",
+    "reach_height": "2.92"
+  },
+  {
+    "name": "Joe Ingles",
+    "salary": "1414",
+    "armspan": "2.09",
+    "reach_height": "2.67"
+  },
+  {
+    "name": "Ricky Rubio",
+    "salary": "1410"
+  },
+  {
+    "name": "Derrick Favors",
+    "salary": "1175",
+    "armspan": "2.24",
+    "reach_height": "2.79"
+  },
+  {
+    "name": "Alec Burks",
+    "salary": "1085",
+    "armspan": "2.08",
+    "reach_height": "2.63"
+  },
+  {
+    "name": "Jae Crowder",
+    "salary": "680",
+    "armspan": "2.06",
+    "reach_height": "2.53"
+  },
+  {
+    "name": "Thabo Sefolosha",
+    "salary": "525"
+  },
+  {
+    "name": "Dante Exum",
+    "salary": "499",
+    "armspan": "2.07",
+    "reach_height": "2.62"
+  },
+  {
+    "name": "Jonas Jerebko",
+    "salary": "400"
+  },
+  {
+    "name": "Ekpe Udoh",
+    "salary": "320"
+  },
+  {
+    "name": "Donovan Mitchell",
+    "salary": "262",
+    "armspan": "2.08",
+    "reach_height": "2.46"
+  },
+  {
+    "name": "Tony Bradley",
+    "salary": "141",
+    "armspan": "2.26",
+    "reach_height": "2.86"
+  },
+  {
+    "name": "Raul Neto",
+    "salary": "101",
+    "armspan": "1.93",
+    "reach_height": "2.48"
+  },
+  {
+    "name": "Royce O'Neale",
+    "salary": "82"
+  },
+  {
+    "name": "Georges Niang",
+    "salary": "7",
+    "armspan": "2.08",
+    "reach_height": "2.62"
+  },
+  {
+    "name": "Erik McCree",
+    "salary": "7"
+  },
+  {
+    "name": "Jeff Teague",
+    "salary": "1900",
+    "armspan": "2.02",
+    "reach_height": "2.50"
+  },
+  {
+    "name": "Jimmy Butler",
+    "salary": "1755",
+    "armspan": "2.02",
+    "reach_height": "2.58"
+  },
+  {
+    "name": "Gorgui Dieng",
+    "salary": "1411",
+    "armspan": "2.22",
+    "reach_height": "2.83"
+  },
+  {
+    "name": "Taj Gibson",
+    "salary": "1400",
+    "armspan": "2.24",
+    "reach_height": "2.77"
+  },
+  {
+    "name": "Andrew Wiggins",
+    "salary": "757",
+    "armspan": "2.13",
+    "reach_height": "2.72"
+  },
+  {
+    "name": "Cole Aldrich",
+    "salary": "733",
+    "armspan": "2.25",
+    "reach_height": "2.83"
+  },
+  {
+    "name": "Karl-Anthony Towns",
+    "salary": "622",
+    "armspan": "2.22",
+    "reach_height": "2.77"
+  },
+  {
+    "name": "Jamal Crawford",
+    "salary": "433",
+    "armspan": "2.08",
+    "reach_height": "2.60"
+  },
+  {
+    "name": "Nemanja Bjelica",
+    "salary": "395"
+  },
+  {
+    "name": "Justin Patton",
+    "salary": "225",
+    "armspan": "2.21",
+    "reach_height": "2.83"
+  },
+  {
+    "name": "Aaron Brooks",
+    "salary": "212",
+    "armspan": "1.93",
+    "reach_height": "2.39"
+  },
+  {
+    "name": "Tyus Jones",
+    "salary": "140",
+    "armspan": "1.96",
+    "reach_height": "2.46"
+  },
+  {
+    "name": "Marcus Georges-Hunt",
+    "salary": "131"
+  },
+  {
+    "name": "Derrick Rose",
+    "salary": "42",
+    "armspan": "2.03",
+    "reach_height": "2.50"
+  },
+  {
+    "name": "Anthony Brown",
+    "salary": "7",
+    "armspan": "2.11",
+    "reach_height": "2.65"
+  },
+  {
+    "name": "Amile Jefferson",
+    "salary": "7"
+  },
+  {
+    "name": "Paul Millsap",
+    "salary": "3127",
+    "armspan": "2.17",
+    "reach_height": "2.68"
+  },
+  {
+    "name": "Mason Plumlee",
+    "salary": "1404",
+    "armspan": "2.11",
+    "reach_height": "2.74"
+  },
+  {
+    "name": "Kenneth Faried",
+    "salary": "1292",
+    "armspan": "2.13",
+    "reach_height": "2.74"
+  },
+  {
+    "name": "Wilson Chandler",
+    "salary": "1202"
+  },
+  {
+    "name": "Darrell Arthur",
+    "salary": "767",
+    "armspan": "2.10",
+    "reach_height": "2.72"
+  },
+  {
+    "name": "Devin Harris",
+    "salary": "440",
+    "armspan": "2.02",
+    "reach_height": "2.50"
+  },
+  {
+    "name": "Will Barton",
+    "salary": "353",
+    "armspan": "2.08",
+    "reach_height": "2.60"
+  },
+  {
+    "name": "Jamal Murray",
+    "salary": "336",
+    "armspan": "2.00",
+    "reach_height": "2.46"
+  },
+  {
+    "name": "Gary Harris",
+    "salary": "255",
+    "armspan": "2.00",
+    "reach_height": "2.44"
+  },
+  {
+    "name": "Trey Lyles",
+    "salary": "244",
+    "armspan": "2.17",
+    "reach_height": "2.74"
+  },
+  {
+    "name": "Richard Jefferson",
+    "salary": "230",
+    "armspan": "2.13",
+    "reach_height": "2.62"
+  },
+  {
+    "name": "Juan Hernangomez",
+    "salary": "208"
+  },
+  {
+    "name": "Malik Beasley",
+    "salary": "170",
+    "armspan": "2.01",
+    "reach_height": "2.55"
+  },
+  {
+    "name": "Tyler Lydon",
+    "salary": "158",
+    "armspan": "2.13",
+    "reach_height": "2.73"
+  },
+  {
+    "name": "Nikola Jokic",
+    "salary": "142",
+    "armspan": "2.21",
+    "reach_height": "2.82"
+  },
+  {
+    "name": "Torrey Craig",
+    "salary": "7"
+  },
+  {
+    "name": "Monte Morris",
+    "salary": "7"
+  },
+  {
+    "name": "Kyle Lowry",
+    "salary": "2870"
+  },
+  {
+    "name": "DeMar DeRozan",
+    "salary": "2774",
+    "armspan": "2.06",
+    "reach_height": "2.60"
+  },
+  {
+    "name": "Serge Ibaka",
+    "salary": "2006"
+  },
+  {
+    "name": "Jonas Valanciunas",
+    "salary": "1546",
+    "armspan": "2.29",
+    "reach_height": "2.82"
+  },
+  {
+    "name": "CJ Miles",
+    "salary": "794"
+  },
+  {
+    "name": "Lucas Nogueira",
+    "salary": "295",
+    "armspan": "2.29",
+    "reach_height": "2.90"
+  },
+  {
+    "name": "Jakob Poeltl",
+    "salary": "283",
+    "armspan": "2.20",
+    "reach_height": "2.68"
+  },
+  {
+    "name": "Delon Wright",
+    "salary": "165",
+    "armspan": "2.02",
+    "reach_height": "2.58"
+  },
+  {
+    "name": "OG Anunoby",
+    "salary": "165",
+    "armspan": "2.20",
+    "reach_height": "2.73"
+  },
+  {
+    "name": "Malachi Richardson",
+    "salary": "150",
+    "armspan": "2.13",
+    "reach_height": "2.58"
+  },
+  {
+    "name": "Norman Powell",
+    "salary": "147",
+    "armspan": "2.10",
+    "reach_height": "2.60"
+  },
+  {
+    "name": "Fred VanVleet",
+    "salary": "131"
+  },
+  {
+    "name": "Pascal Siakam",
+    "salary": "125",
+    "armspan": "2.22",
+    "reach_height": "2.73"
+  },
+  {
+    "name": "Alfonzo McKinnie",
+    "salary": "82"
+  },
+  {
+    "name": "Malcolm Miller",
+    "salary": "7"
+  },
+  {
+    "name": "Lorenzo Brown",
+    "salary": "7",
+    "armspan": "2.01",
+    "reach_height": "2.54"
+  },
+  {
+    "name": "Gordon Hayward",
+    "salary": "2973",
+    "armspan": "2.03",
+    "reach_height": "2.62"
+  },
+  {
+    "name": "Al Horford",
+    "salary": "2773",
+    "armspan": "2.15",
+    "reach_height": "2.72"
+  },
+  {
+    "name": "Kyrie Irving",
+    "salary": "1887",
+    "armspan": "1.93",
+    "reach_height": "2.51"
+  },
+  {
+    "name": "Jayson Tatum",
+    "salary": "565",
+    "armspan": "2.11",
+    "reach_height": "2.71"
+  },
+  {
+    "name": "Greg Monroe",
+    "salary": "500",
+    "armspan": "2.19",
+    "reach_height": "2.76"
+  },
+  {
+    "name": "Marcus Morris",
+    "salary": "500",
+    "armspan": "2.08",
+    "reach_height": "2.68"
+  },
+  {
+    "name": "Jaylen Brown",
+    "salary": "496",
+    "armspan": "2.13",
+    "reach_height": "2.60"
+  },
+  {
+    "name": "Marcus Smart",
+    "salary": "454",
+    "armspan": "2.06",
+    "reach_height": "2.51"
+  },
+  {
+    "name": "Aron Baynes",
+    "salary": "433"
+  },
+  {
+    "name": "Guerschon Yabusele",
+    "salary": "225"
+  },
+  {
+    "name": "Terry Rozier",
+    "salary": "198",
+    "armspan": "2.04",
+    "reach_height": "2.50"
+  },
+  {
+    "name": "Shane Larkin",
+    "salary": "152",
+    "armspan": "1.80",
+    "reach_height": "2.27"
+  },
+  {
+    "name": "Semi Ojeleye",
+    "salary": "129",
+    "armspan": "2.08",
+    "reach_height": "2.59"
+  },
+  {
+    "name": "Abdel Nader",
+    "salary": "117",
+    "armspan": "2.16",
+    "reach_height": "2.63"
+  },
+  {
+    "name": "Daniel Theis",
+    "salary": "82"
+  },
+  {
+    "name": "Kadeem Allen",
+    "salary": "7",
+    "armspan": "2.06",
+    "reach_height": "2.53"
+  },
+  {
+    "name": "Jabari Bird",
+    "salary": "7",
+    "armspan": "2.03",
+    "reach_height": "2.59"
+  },
+  {
+    "name": "Xavier Silas",
+    "salary": "7"
+  },
+  {
+    "name": "Jonathan Gibson",
+    "salary": "4"
+  },
+  {
+    "name": "JJ Redick",
+    "salary": "2300",
+    "armspan": "1.91",
+    "reach_height": "2.48"
+  },
+  {
+    "name": "Robert Covington",
+    "salary": "1670",
+    "armspan": "2.18",
+    "reach_height": "2.69"
+  },
+  {
+    "name": "Amir Johnson",
+    "salary": "1100"
+  },
+  {
+    "name": "Jerryd Bayless",
+    "salary": "900",
+    "armspan": "1.92",
+    "reach_height": "2.46"
+  },
+  {
+    "name": "Markelle Fultz",
+    "salary": "703",
+    "armspan": "2.08",
+    "reach_height": "2.58"
+  },
+  {
+    "name": "Ben Simmons",
+    "salary": "617",
+    "armspan": "2.14",
+    "reach_height": "2.76"
+  },
+  {
+    "name": "Joel Embiid",
+    "salary": "610",
+    "armspan": "2.28",
+    "reach_height": "2.88"
+  },
+  {
+    "name": "Dario Saric",
+    "salary": "242"
+  },
+  {
+    "name": "Justin Anderson",
+    "salary": "158",
+    "armspan": "2.13",
+    "reach_height": "2.57"
+  },
+  {
+    "name": "Richaun Holmes",
+    "salary": "147",
+    "armspan": "2.17",
+    "reach_height": "2.74"
+  },
+  {
+    "name": "T.J. McConnell",
+    "salary": "147",
+    "armspan": "1.88",
+    "reach_height": "2.44"
+  },
+  {
+    "name": "Furkan Korkmaz",
+    "salary": "147"
+  },
+  {
+    "name": "Timothe Luwawu-Cabarrot",
+    "salary": "139"
+  },
+  {
+    "name": "Marco Belinelli",
+    "salary": "82"
+  },
+  {
+    "name": "Ersan Ilyasova",
+    "salary": "57",
+    "armspan": "2.17",
+    "reach_height": "2.78"
+  },
+  {
+    "name": "Demetrius Jackson",
+    "salary": "7",
+    "armspan": "1.97",
+    "reach_height": "2.36"
+  },
+  {
+    "name": "Enes Kanter",
+    "salary": "1788",
+    "armspan": "2.17",
+    "reach_height": "2.78"
+  },
+  {
+    "name": "Joakim Noah",
+    "salary": "1777",
+    "armspan": "2.17",
+    "reach_height": "2.71"
+  },
+  {
+    "name": "Tim Hardaway Jr.",
+    "salary": "1650",
+    "armspan": "2.01",
+    "reach_height": "2.57"
+  },
+  {
+    "name": "Courtney Lee",
+    "salary": "1175"
+  },
+  {
+    "name": "Lance Thomas",
+    "salary": "666"
+  },
+  {
+    "name": "Kristaps Porzingis",
+    "salary": "450"
+  },
+  {
+    "name": "Ron Baker",
+    "salary": "433"
+  },
+  {
+    "name": "Kyle O'Quinn",
+    "salary": "409",
+    "armspan": "2.25",
+    "reach_height": "2.71"
+  },
+  {
+    "name": "Frank Ntilikina",
+    "salary": "350",
+    "armspan": "2.13",
+    "reach_height": "2.54"
+  },
+  {
+    "name": "Emmanuel Mudiay",
+    "salary": "338",
+    "armspan": "2.04",
+    "reach_height": "2.54"
+  },
+  {
+    "name": "Jarrett Jack",
+    "salary": "233",
+    "armspan": "2.02",
+    "reach_height": "2.54"
+  },
+  {
+    "name": "Michael Beasley",
+    "salary": "212",
+    "armspan": "2.14",
+    "reach_height": "2.72"
+  },
+  {
+    "name": "Damyean Dotson",
+    "salary": "82",
+    "armspan": "2.06",
+    "reach_height": "2.54"
+  },
+  {
+    "name": "Trey Burke",
+    "salary": "78",
+    "armspan": "1.97",
+    "reach_height": "2.48"
+  },
+  {
+    "name": "Luke Kornet",
+    "salary": "7"
+  },
+  {
+    "name": "Troy Williams",
+    "salary": "7"
+  },
+  {
+    "name": "Isaiah Hicks",
+    "salary": "7",
+    "armspan": "2.15",
+    "reach_height": "2.67"
+  },
+  {
+    "name": "Allen Crabbe",
+    "salary": "1933",
+    "armspan": "2.11",
+    "reach_height": "2.63"
+  },
+  {
+    "name": "Timofey Mozgov",
+    "salary": "1566"
+  },
+  {
+    "name": "DeMarre Carroll",
+    "salary": "1480",
+    "armspan": "2.08",
+    "reach_height": "2.67"
+  },
+  {
+    "name": "Jeremy Lin",
+    "salary": "1200",
+    "armspan": "1.96",
+    "reach_height": "2.49"
+  },
+  {
+    "name": "D'Angelo Russell",
+    "salary": "556",
+    "armspan": "2.08",
+    "reach_height": "2.59"
+  },
+  {
+    "name": "Jahlil Okafor",
+    "salary": "500",
+    "armspan": "2.26",
+    "reach_height": "2.81"
+  },
+  {
+    "name": "Nik Stauskas",
+    "salary": "380",
+    "armspan": "2.03",
+    "reach_height": "2.59"
+  },
+  {
+    "name": "Dante Cunningham",
+    "salary": "230",
+    "armspan": "2.11",
+    "reach_height": "2.71"
+  },
+  {
+    "name": "Quincy Acy",
+    "salary": "171",
+    "armspan": "2.20",
+    "reach_height": "2.71"
+  },
+  {
+    "name": "Jarrett Allen",
+    "salary": "171",
+    "armspan": "2.27",
+    "reach_height": "2.78"
+  },
+  {
+    "name": "Caris LeVert",
+    "salary": "163",
+    "armspan": "2.08",
+    "reach_height": "2.57"
+  },
+  {
+    "name": "Spencer Dinwiddie",
+    "salary": "152",
+    "armspan": "2.04",
+    "reach_height": "2.62"
+  },
+  {
+    "name": "Rondae Hollis-Jefferson",
+    "salary": "124",
+    "armspan": "2.18",
+    "reach_height": "2.64"
+  },
+  {
+    "name": "Isaiah Whitehead",
+    "salary": "112",
+    "armspan": "2.05",
+    "reach_height": "2.54"
+  },
+  {
+    "name": "Joe Harris",
+    "salary": "105",
+    "armspan": "1.98",
+    "reach_height": "2.54"
+  },
+  {
+    "name": "Milton Doyle",
+    "salary": "7"
+  },
+  {
+    "name": "James Webb III",
+    "salary": "7"
+  },
+  {
+    "name": "Hassan Whiteside",
+    "salary": "2378",
+    "armspan": "2.31",
+    "reach_height": "2.87"
+  },
+  {
+    "name": "Goran Dragic",
+    "salary": "1700"
+  },
+  {
+    "name": "James Johnson",
+    "salary": "1373",
+    "armspan": "2.15",
+    "reach_height": "2.68"
+  },
+  {
+    "name": "Dion Waiters",
+    "salary": "1100",
+    "armspan": "2.01",
+    "reach_height": "2.49"
+  },
+  {
+    "name": "Kelly Olynyk",
+    "salary": "1061",
+    "armspan": "2.08",
+    "reach_height": "2.74"
+  },
+  {
+    "name": "Wayne Ellington",
+    "salary": "627",
+    "armspan": "1.99",
+    "reach_height": "2.54"
+  },
+  {
+    "name": "Tyler Johnson",
+    "salary": "563",
+    "armspan": "1.98",
+    "reach_height": "2.49"
+  },
+  {
+    "name": "Justise Winslow",
+    "salary": "271",
+    "armspan": "2.09",
+    "reach_height": "2.65"
+  },
+  {
+    "name": "Bam Adebayo",
+    "salary": "249",
+    "armspan": "2.20",
+    "reach_height": "2.74"
+  },
+  {
+    "name": "Dwyane Wade",
+    "salary": "233",
+    "armspan": "2.10",
+    "reach_height": "2.59"
+  },
+  {
+    "name": "Udonis Haslem",
+    "salary": "233",
+    "armspan": "2.11",
+    "reach_height": "2.72"
+  },
+  {
+    "name": "Luke Babbitt",
+    "salary": "197",
+    "armspan": "2.11",
+    "reach_height": "2.65"
+  },
+  {
+    "name": "Josh Richardson",
+    "salary": "147"
+  },
+  {
+    "name": "Jordan Mickey",
+    "salary": "147",
+    "armspan": "2.22",
+    "reach_height": "2.69"
+  },
+  {
+    "name": "Rodney McGruder",
+    "salary": "54"
+  },
+  {
+    "name": "Derrick Jones Jr.",
+    "salary": "7"
+  },
+  {
+    "name": "Derrick Walton Jr.",
+    "salary": "7"
+  },
+  {
+    "name": "Otto Porter Jr.",
+    "salary": "2477",
+    "armspan": "2.17",
+    "reach_height": "2.68"
+  },
+  {
+    "name": "Bradley Beal",
+    "salary": "2378",
+    "armspan": "2.03",
+    "reach_height": "2.54"
+  },
+  {
+    "name": "John Wall",
+    "salary": "1806",
+    "armspan": "2.06",
+    "reach_height": "2.58"
+  },
+  {
+    "name": "Ian Mahinmi",
+    "salary": "1666"
+  },
+  {
+    "name": "Markieff Morris",
+    "salary": "800",
+    "armspan": "2.10",
+    "reach_height": "2.71"
+  },
+  {
+    "name": "Jason Smith",
+    "salary": "523",
+    "armspan": "2.10",
+    "reach_height": "2.69"
+  },
+  {
+    "name": "Jodie Meeks",
+    "salary": "329",
+    "armspan": "1.94",
+    "reach_height": "2.49"
+  },
+  {
+    "name": "Tomas Satoransky",
+    "salary": "300"
+  },
+  {
+    "name": "Kelly Oubre Jr.",
+    "salary": "209",
+    "armspan": "2.19",
+    "reach_height": "2.60"
+  },
+  {
+    "name": "Tim Frazier",
+    "salary": "209",
+    "armspan": "1.93",
+    "reach_height": "2.41"
+  },
+  {
+    "name": "Mike Scott",
+    "salary": "171",
+    "armspan": "2.10",
+    "reach_height": "2.64"
+  },
+  {
+    "name": "Chris McCullough",
+    "salary": "147",
+    "armspan": "2.22",
+    "reach_height": "2.77"
+  },
+  {
+    "name": "Ramon Sessions",
+    "salary": "13",
+    "armspan": "1.94",
+    "reach_height": "2.48"
+  },
+  {
+    "name": "Devin Robinson",
+    "salary": "7"
+  },
+  {
+    "name": "Ty Lawson",
+    "salary": "2009",
+    "armspan": "1.85",
+    "reach_height": "2.40"
+  },
+  {
+    "name": "Dwight Howard",
+    "salary": "2350",
+    "armspan": "2.25",
+    "reach_height": "2.83"
+  },
+  {
+    "name": "Nicolas Batum",
+    "salary": "2243",
+    "armspan": "2.15",
+    "reach_height": "2.66"
+  },
+  {
+    "name": "Marvin Williams",
+    "salary": "1317",
+    "armspan": "2.22",
+    "reach_height": "2.74"
+  },
+  {
+    "name": "Michael Kidd-Gilchrist",
+    "salary": "1300",
+    "armspan": "2.13",
+    "reach_height": "2.65"
+  },
+  {
+    "name": "Cody Zeller",
+    "salary": "1258",
+    "armspan": "2.10",
+    "reach_height": "2.69"
+  },
+  {
+    "name": "Kemba Walker",
+    "salary": "1200",
+    "armspan": "1.92",
+    "reach_height": "2.32"
+  },
+  {
+    "name": "Jeremy Lamb",
+    "salary": "700",
+    "armspan": "2.11",
+    "reach_height": "2.59"
+  },
+  {
+    "name": "Frank Kaminsky",
+    "salary": "285",
+    "armspan": "2.11",
+    "reach_height": "2.78"
+  },
+  {
+    "name": "Michael Carter-Williams",
+    "salary": "270",
+    "armspan": "2.01",
+    "reach_height": "2.57"
+  },
+  {
+    "name": "Willy Hernangomez",
+    "salary": "144"
+  },
+  {
+    "name": "Treveon Graham",
+    "salary": "91"
+  },
+  {
+    "name": "Dwayne Bacon",
+    "salary": "82",
+    "armspan": "2.08",
+    "reach_height": "2.63"
+  },
+  {
+    "name": "Mangok Mathiang",
+    "salary": "7"
+  },
+  {
+    "name": "Marcus Paige",
+    "salary": "7",
+    "armspan": "1.99",
+    "reach_height": "2.46"
+  },
+  {
+    "name": "Evan Fournier",
+    "salary": "1700",
+    "armspan": "2.04",
+    "reach_height": "2.60"
+  },
+  {
+    "name": "Bismack Biyombo",
+    "salary": "1700",
+    "armspan": "2.29",
+    "reach_height": "2.83"
+  },
+  {
+    "name": "Nikola Vucevic",
+    "salary": "1225",
+    "armspan": "2.25",
+    "reach_height": "2.86"
+  },
+  {
+    "name": "Terrence Ross",
+    "salary": "1050",
+    "armspan": "2.01",
+    "reach_height": "2.55"
+  },
+  {
+    "name": "D.J. Augustin",
+    "salary": "725",
+    "armspan": "1.92",
+    "reach_height": "2.40"
+  },
+  {
+    "name": "Jonathon Simmons",
+    "salary": "630",
+    "armspan": "2.02",
+    "reach_height": "2.58"
+  },
+  {
+    "name": "Shelvin Mack",
+    "salary": "600",
+    "armspan": "2.02",
+    "reach_height": "2.45"
+  },
+  {
+    "name": "Aaron Gordon",
+    "salary": "550",
+    "armspan": "2.13",
+    "reach_height": "2.67"
+  },
+  {
+    "name": "Jonathan Isaac",
+    "salary": "417",
+    "armspan": "2.17",
+    "reach_height": "2.76"
+  },
+  {
+    "name": "Mario Hezonja",
+    "salary": "408"
+  },
+  {
+    "name": "Arron Afflalo",
+    "salary": "233"
+  },
+  {
+    "name": "Marreese Speights",
+    "salary": "212"
+  },
+  {
+    "name": "Wes Iwundu",
+    "salary": "105",
+    "armspan": "2.16",
+    "reach_height": "2.68"
+  },
+  {
+    "name": "Khem Birch",
+    "salary": "82"
+  },
+  {
+    "name": "Jamel Artis",
+    "salary": "7"
+  },
+  {
+    "name": "Rodney Purvis",
+    "salary": "4"
+  },
+  {
+    "name": "Kent Bazemore",
+    "salary": "1691"
+  },
+  {
+    "name": "Dennis Schroder",
+    "salary": "1550",
+    "armspan": "2.03",
+    "reach_height": "2.49"
+  },
+  {
+    "name": "Miles Plumlee",
+    "salary": "1250",
+    "armspan": "2.15",
+    "reach_height": "2.68"
+  },
+  {
+    "name": "Dewayne Dedmon",
+    "salary": "600",
+    "armspan": "2.24",
+    "reach_height": "2.77"
+  },
+  {
+    "name": "Mike Muscala",
+    "salary": "500",
+    "armspan": "2.16",
+    "reach_height": "2.74"
+  },
+  {
+    "name": "Malcolm Delaney",
+    "salary": "250"
+  },
+  {
+    "name": "Taurean Prince",
+    "salary": "242",
+    "armspan": "2.12",
+    "reach_height": "2.59"
+  },
+  {
+    "name": "John Collins",
+    "salary": "193",
+    "armspan": "2.11",
+    "reach_height": "2.71"
+  },
+  {
+    "name": "DeAndre' Bembry",
+    "salary": "157",
+    "armspan": "2.06",
+    "reach_height": "2.57"
+  },
+  {
+    "name": "Isaiah Taylor",
+    "salary": "131"
+  },
+  {
+    "name": "Tyler Dorsey",
+    "salary": "82",
+    "armspan": "1.96",
+    "reach_height": "2.53"
+  },
+  {
+    "name": "Tyler Cavanaugh",
+    "salary": "7"
+  },
+  {
+    "name": "Andrew White III",
+    "salary": "7"
+  },
+  {
+    "name": "Josh Magette",
+    "salary": "7"
+  },
+  {
+    "name": "Jaylen Morris",
+    "salary": "4"
+  },
+  {
+    "name": "Jeremy Evans",
+    "salary": "2010",
+    "armspan": "2.18",
+    "reach_height": "2.77"
+  },
+  {
+    "name": "LeBron James",
+    "salary": "3329",
+    "armspan": "2.14",
+    "reach_height": "2.70"
+  },
+  {
+    "name": "Kevin Love",
+    "salary": "2264",
+    "armspan": "2.11",
+    "reach_height": "2.69"
+  },
+  {
+    "name": "George Hill",
+    "salary": "2000",
+    "armspan": "2.06",
+    "reach_height": "2.48"
+  },
+  {
+    "name": "Tristan Thompson",
+    "salary": "1640",
+    "armspan": "2.17",
+    "reach_height": "2.76"
+  },
+  {
+    "name": "JR Smith",
+    "salary": "1376",
+    "armspan": "2.08",
+    "reach_height": "2.64"
+  },
+  {
+    "name": "Jordan Clarkson",
+    "salary": "1156",
+    "armspan": "2.03",
+    "reach_height": "2.49"
+  },
+  {
+    "name": "Kyle Korver",
+    "salary": "700",
+    "armspan": "2.07",
+    "reach_height": "2.60"
+  },
+  {
+    "name": "Cedi Osman",
+    "salary": "263"
+  },
+  {
+    "name": "Rodney Hood",
+    "salary": "239",
+    "armspan": "2.04",
+    "reach_height": "2.62"
+  },
+  {
+    "name": "Jeff Green",
+    "salary": "233",
+    "armspan": "2.17",
+    "reach_height": "2.62"
+  },
+  {
+    "name": "Jose Calderon",
+    "salary": "230"
+  },
+  {
+    "name": "Ante Zizic",
+    "salary": "165"
+  },
+  {
+    "name": "Larry Nance Jr.",
+    "salary": "126",
+    "armspan": "2.17",
+    "reach_height": "2.74"
+  },
+  {
+    "name": "London Perrantes",
+    "salary": "7"
+  },
+  {
+    "name": "John Holland",
+    "salary": "7",
+    "armspan": "2.04",
+    "reach_height": "2.58"
+  },
+  {
+    "name": "Kendrick Perkins",
+    "salary": "2003"
+  },
+  {
+    "name": "Victor Oladipo",
+    "salary": "2100",
+    "armspan": "2.06",
+    "reach_height": "2.55"
+  },
+  {
+    "name": "Thaddeus Young",
+    "salary": "1292",
+    "armspan": "2.12",
+    "reach_height": "2.69"
+  },
+  {
+    "name": "Bojan Bogdanovic",
+    "salary": "1050",
+    "armspan": "2.11",
+    "reach_height": "2.65"
+  },
+  {
+    "name": "Darren Collison",
+    "salary": "1000",
+    "armspan": "1.91",
+    "reach_height": "2.45"
+  },
+  {
+    "name": "Al Jefferson",
+    "salary": "1000",
+    "armspan": "2.20",
+    "reach_height": "2.79"
+  },
+  {
+    "name": "Cory Joseph",
+    "salary": "763",
+    "armspan": "1.97",
+    "reach_height": "2.51"
+  },
+  {
+    "name": "Lance Stephenson",
+    "salary": "400",
+    "armspan": "2.10",
+    "reach_height": "2.62"
+  },
+  {
+    "name": "Myles Turner",
+    "salary": "267",
+    "armspan": "2.24",
+    "reach_height": "2.84"
+  },
+  {
+    "name": "Domantas Sabonis",
+    "salary": "255"
+  },
+  {
+    "name": "TJ Leaf",
+    "salary": "203",
+    "armspan": "2.11",
+    "reach_height": "2.72"
+  },
+  {
+    "name": "Glenn Robinson III",
+    "salary": "152",
+    "armspan": "2.08",
+    "reach_height": "2.55"
+  },
+  {
+    "name": "Joe Young",
+    "salary": "147"
+  },
+  {
+    "name": "Ike Anigbogu",
+    "salary": "95",
+    "armspan": "2.29",
+    "reach_height": "2.81"
+  },
+  {
+    "name": "Trevor Booker",
+    "salary": "45",
+    "armspan": "2.08",
+    "reach_height": "2.69"
+  },
+  {
+    "name": "Alex Poythress",
+    "salary": "7"
+  },
+  {
+    "name": "Ben Moore",
+    "salary": "7"
+  },
+  {
+    "name": "Edmond Sumner",
+    "salary": "7",
+    "armspan": "2.06",
+    "reach_height": "2.60"
+  },
+  {
+    "name": "Giannis Antetokounmpo",
+    "salary": "2247"
+  },
+  {
+    "name": "Eric Bledsoe",
+    "salary": "1450",
+    "armspan": "2.02",
+    "reach_height": "2.49"
+  },
+  {
+    "name": "Khris Middleton",
+    "salary": "1410",
+    "armspan": "2.10",
+    "reach_height": "2.62"
+  },
+  {
+    "name": "John Henson",
+    "salary": "1142",
+    "armspan": "2.26",
+    "reach_height": "2.84"
+  },
+  {
+    "name": "Tony Snell",
+    "salary": "982",
+    "armspan": "2.12",
+    "reach_height": "2.68"
+  },
+  {
+    "name": "Matthew Dellavedova",
+    "salary": "960",
+    "armspan": "1.93",
+    "reach_height": "2.46"
+  },
+  {
+    "name": "Jabari Parker",
+    "salary": "678",
+    "armspan": "2.13",
+    "reach_height": "2.73"
+  },
+  {
+    "name": "Thon Maker",
+    "salary": "268",
+    "armspan": "2.21",
+    "reach_height": "2.81"
+  },
+  {
+    "name": "Jason Terry",
+    "salary": "233"
+  },
+  {
+    "name": "D.J. Wilson",
+    "salary": "214",
+    "armspan": "2.21",
+    "reach_height": "2.78"
+  },
+  {
+    "name": "Sterling Brown",
+    "salary": "138",
+    "armspan": "2.07",
+    "reach_height": "2.63"
+  },
+  {
+    "name": "Malcolm Brogdon",
+    "salary": "131",
+    "armspan": "2.10",
+    "reach_height": "2.49"
+  },
+  {
+    "name": "Shabazz Muhammad",
+    "salary": "35",
+    "armspan": "2.11",
+    "reach_height": "2.65"
+  },
+  {
+    "name": "Brandon Jennings",
+    "salary": "12"
+  },
+  {
+    "name": "Marshall Plumlee",
+    "salary": "7"
+  },
+  {
+    "name": "Xavier Munford",
+    "salary": "7",
+    "armspan": "1.94",
+    "reach_height": "2.05"
+  },
+  {
+    "name": "Blake Griffin",
+    "salary": "2951",
+    "armspan": "2.11",
+    "reach_height": "2.67"
+  },
+  {
+    "name": "Andre Drummond",
+    "salary": "2378",
+    "armspan": "2.29",
+    "reach_height": "2.78"
+  },
+  {
+    "name": "Reggie Jackson",
+    "salary": "1600"
+  },
+  {
+    "name": "Jon Leuer",
+    "salary": "1050",
+    "armspan": "2.13",
+    "reach_height": "2.68"
+  },
+  {
+    "name": "Langston Galloway",
+    "salary": "667",
+    "armspan": "2.03",
+    "reach_height": "2.53"
+  },
+  {
+    "name": "Ish Smith",
+    "salary": "600",
+    "armspan": "1.94",
+    "reach_height": "2.41"
+  },
+  {
+    "name": "Anthony Tolliver",
+    "salary": "330",
+    "armspan": "2.20",
+    "reach_height": "2.73"
+  },
+  {
+    "name": "Stanley Johnson",
+    "salary": "310",
+    "armspan": "2.12",
+    "reach_height": "2.59"
+  },
+  {
+    "name": "James Ennis III",
+    "salary": "303",
+    "armspan": "2.12",
+    "reach_height": "2.65"
+  },
+  {
+    "name": "Luke Kennard",
+    "salary": "276",
+    "armspan": "1.96",
+    "reach_height": "2.50"
+  },
+  {
+    "name": "Reggie Bullock",
+    "salary": "250",
+    "armspan": "2.05",
+    "reach_height": "2.59"
+  },
+  {
+    "name": "Jameer Nelson",
+    "salary": "226",
+    "armspan": "1.89",
+    "reach_height": "2.41"
+  },
+  {
+    "name": "Henry Ellenson",
+    "salary": "178",
+    "armspan": "2.19",
+    "reach_height": "2.74"
+  },
+  {
+    "name": "Eric Moreland",
+    "salary": "174",
+    "armspan": "2.22",
+    "reach_height": "2.79"
+  },
+  {
+    "name": "Dwight Buycks",
+    "salary": "7"
+  },
+  {
+    "name": "Reggie Hearn",
+    "salary": "7"
+  },
+  {
+    "name": "Kay Felder",
+    "salary": "7",
+    "armspan": "1.89",
+    "reach_height": "2.25"
+  },
+  {
+    "name": "Robin Lopez",
+    "salary": "1379"
+  },
+  {
+    "name": "Omer Asik",
+    "salary": "1060",
+    "armspan": "2.18",
+    "reach_height": "2.84"
+  },
+  {
+    "name": "Cristiano Felicio",
+    "salary": "784",
+    "armspan": "2.14",
+    "reach_height": "2.68"
+  },
+  {
+    "name": "Justin Holiday",
+    "salary": "462",
+    "armspan": "2.15",
+    "reach_height": "2.68"
+  },
+  {
+    "name": "Kris Dunn",
+    "salary": "405",
+    "armspan": "2.07",
+    "reach_height": "2.54"
+  },
+  {
+    "name": "Lauri Markkanen",
+    "salary": "382"
+  },
+  {
+    "name": "Noah Vonleh",
+    "salary": "351",
+    "armspan": "2.24",
+    "reach_height": "2.74"
+  },
+  {
+    "name": "Zach LaVine",
+    "salary": "320",
+    "armspan": "2.04",
+    "reach_height": "2.54"
+  },
+  {
+    "name": "Cameron Payne",
+    "salary": "220",
+    "armspan": "2.01",
+    "reach_height": "2.48"
+  },
+  {
+    "name": "Denzel Valentine",
+    "salary": "219",
+    "armspan": "2.10",
+    "reach_height": "2.59"
+  },
+  {
+    "name": "Sean Kilpatrick",
+    "salary": "210",
+    "armspan": "2.01",
+    "reach_height": "2.51"
+  },
+  {
+    "name": "Jerian Grant",
+    "salary": "171",
+    "armspan": "2.02",
+    "reach_height": "2.54"
+  },
+  {
+    "name": "Bobby Portis",
+    "salary": "152",
+    "armspan": "2.18",
+    "reach_height": "2.76"
+  },
+  {
+    "name": "David Nwaba",
+    "salary": "131"
+  },
+  {
+    "name": "Paul Zipser",
+    "salary": "131"
+  },
+  {
+    "name": "Antonio Blakeney",
+    "salary": "7"
+  },
+  {
+    "name": "Ryan Arcidiacono",
+    "salary": "7",
+    "armspan": "1.90",
+    "reach_height": "2.44"
+  },
+  {
+    "name": "Dwight Powell",
+    "salary": "894",
+    "armspan": "2.15",
+    "reach_height": "2.67"
+  },
+  {
+    "name": "Marcin Gortat",
+    "salary": "1278",
+    "armspan": "2.22",
+    "reach_height": "2.84"
+  },
+  {
+    "name": "Tyler Zeller",
+    "salary": "171",
+    "armspan": "2.13",
+    "reach_height": "2.65"
+  }
+]

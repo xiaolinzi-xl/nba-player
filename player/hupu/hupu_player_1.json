@@ -1,0 +1,2960 @@
+[
+  {
+    "name": "James Harden",
+    "player_id": "3306",
+    "salary": "2830",
+    "url": "https://nba.hupu.com/players/jamesharden-3306.html"
+  },
+  {
+    "name": "Chris Paul",
+    "player_id": "1037",
+    "salary": "2427",
+    "url": "https://nba.hupu.com/players/chrispaul-1037.html"
+  },
+  {
+    "name": "Ryan Anderson",
+    "player_id": "3046",
+    "salary": "1958",
+    "url": "https://nba.hupu.com/players/ryananderson-3046.html"
+  },
+  {
+    "name": "Eric Gordon",
+    "player_id": "3015",
+    "salary": "1294",
+    "url": "https://nba.hupu.com/players/ericgordon-3015.html"
+  },
+  {
+    "name": "PJ Tucker",
+    "player_id": "1258",
+    "salary": "759",
+    "url": "https://nba.hupu.com/players/pjtucker-1258.html"
+  },
+  {
+    "name": "Trevor Ariza",
+    "player_id": "558",
+    "salary": "742",
+    "url": "https://nba.hupu.com/players/trevorariza-558.html"
+  },
+  {
+    "name": "Nene",
+    "player_id": "253",
+    "salary": "348",
+    "url": "https://nba.hupu.com/players/nene-253.html"
+  },
+  {
+    "name": "Tarik Black",
+    "player_id": "4985",
+    "salary": "329",
+    "url": "https://nba.hupu.com/players/tarikblack-4985.html"
+  },
+  {
+    "name": "Clint Capela",
+    "player_id": "4908",
+    "salary": "233",
+    "url": "https://nba.hupu.com/players/clintcapela-4908.html"
+  },
+  {
+    "name": "Luc Mbah a Moute",
+    "player_id": "3072",
+    "salary": "212",
+    "url": "https://nba.hupu.com/players/lucmbahamoute-3072.html"
+  },
+  {
+    "name": "Gerald Green",
+    "player_id": "1028",
+    "salary": "138",
+    "url": "https://nba.hupu.com/players/geraldgreen-1028.html"
+  },
+  {
+    "name": "Chinanu Onuaku",
+    "player_id": "150227",
+    "salary": "131",
+    "url": "https://nba.hupu.com/players/chinanuonuaku-150227.html"
+  },
+  {
+    "name": "Zhou Qi",
+    "player_id": "150196",
+    "salary": "82",
+    "url": "https://nba.hupu.com/players/zhouqi-150196.html"
+  },
+  {
+    "name": "Joe Johnson",
+    "player_id": "188",
+    "salary": "75",
+    "url": "https://nba.hupu.com/players/joejohnson-188.html"
+  },
+  {
+    "name": "Markel Brown",
+    "player_id": "4952",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/markelbrown-4952.html"
+  },
+  {
+    "name": "RJ Hunter",
+    "player_id": "150006",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/rjhunter-150006.html"
+  },
+  {
+    "name": "Jrue Holiday",
+    "player_id": "3346",
+    "salary": "2569",
+    "url": "https://nba.hupu.com/players/jrueholiday-3346.html"
+  },
+  {
+    "name": "Anthony Davis",
+    "player_id": "3638",
+    "salary": "2378",
+    "url": "https://nba.hupu.com/players/anthonydavis-3638.html"
+  },
+  {
+    "name": "DeMarcus Cousins",
+    "player_id": "3453",
+    "salary": "1806",
+    "url": "https://nba.hupu.com/players/demarcuscousins-3453.html"
+  },
+  {
+    "name": "Nikola Mirotic",
+    "player_id": "4970",
+    "salary": "1250",
+    "url": "https://nba.hupu.com/players/nikolamirotic-4970.html"
+  },
+  {
+    "name": "Solomon Hill",
+    "player_id": "4800",
+    "salary": "1175",
+    "url": "https://nba.hupu.com/players/solomonhill-4800.html"
+  },
+  {
+    "name": "E'Twaun Moore",
+    "player_id": "3608",
+    "salary": "845",
+    "url": "https://nba.hupu.com/players/etwaunmoore-3608.html"
+  },
+  {
+    "name": "Alexis Ajinca",
+    "player_id": "3060",
+    "salary": "496",
+    "url": "https://nba.hupu.com/players/alexisajinca-3060.html"
+  },
+  {
+    "name": "Rajon Rondo",
+    "player_id": "1219",
+    "salary": "330",
+    "url": "https://nba.hupu.com/players/rajonrondo-1219.html"
+  },
+  {
+    "name": "Darius Miller",
+    "player_id": "3683",
+    "salary": "210",
+    "url": "https://nba.hupu.com/players/dariusmiller-3683.html"
+  },
+  {
+    "name": "Ian Clark",
+    "player_id": "4837",
+    "salary": "158",
+    "url": "https://nba.hupu.com/players/ianclark-4837.html"
+  },
+  {
+    "name": "Cheick Diallo",
+    "player_id": "150191",
+    "salary": "131",
+    "url": "https://nba.hupu.com/players/cheickdiallo-150191.html"
+  },
+  {
+    "name": "Frank Jackson",
+    "player_id": "150473",
+    "salary": "82",
+    "url": "https://nba.hupu.com/players/frankjackson-150473.html"
+  },
+  {
+    "name": "DeAndre Liggins",
+    "player_id": "3606",
+    "salary": "59",
+    "url": "https://nba.hupu.com/players/deandreliggins-3606.html"
+  },
+  {
+    "name": "Emeka Okafor",
+    "player_id": "745",
+    "salary": "59",
+    "url": "https://nba.hupu.com/players/emekaokafor-745.html"
+  },
+  {
+    "name": "Charles Cooke",
+    "player_id": "150680",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/charlescooke-150680.html"
+  },
+  {
+    "name": "Jordan Crawford",
+    "player_id": "3475",
+    "salary": "2010",
+    "url": "https://nba.hupu.com/players/jordancrawford-3475.html"
+  },
+  {
+    "name": "LaMarcus Aldridge",
+    "player_id": "1209",
+    "salary": "2146",
+    "url": "https://nba.hupu.com/players/lamarcusaldridge-1209.html"
+  },
+  {
+    "name": "Kawhi Leonard",
+    "player_id": "3568",
+    "salary": "1887",
+    "url": "https://nba.hupu.com/players/kawhileonard-3568.html"
+  },
+  {
+    "name": "Pau Gasol",
+    "player_id": "15",
+    "salary": "1600",
+    "url": "https://nba.hupu.com/players/paugasol-15.html"
+  },
+  {
+    "name": "Tony Parker",
+    "player_id": "700",
+    "salary": "1545",
+    "url": "https://nba.hupu.com/players/tonyparker-700.html"
+  },
+  {
+    "name": "Patty Mills",
+    "player_id": "3353",
+    "salary": "1116",
+    "url": "https://nba.hupu.com/players/pattymills-3353.html"
+  },
+  {
+    "name": "Danny Green",
+    "player_id": "3356",
+    "salary": "1000",
+    "url": "https://nba.hupu.com/players/dannygreen-3356.html"
+  },
+  {
+    "name": "Rudy Gay",
+    "player_id": "1202",
+    "salary": "841",
+    "url": "https://nba.hupu.com/players/rudygay-1202.html"
+  },
+  {
+    "name": "Manu Ginobili",
+    "player_id": "694",
+    "salary": "250",
+    "url": "https://nba.hupu.com/players/manuginobili-694.html"
+  },
+  {
+    "name": "Kyle Anderson",
+    "player_id": "4917",
+    "salary": "215",
+    "url": "https://nba.hupu.com/players/kyleanderson-4917.html"
+  },
+  {
+    "name": "Joffrey Lauvergne",
+    "player_id": "4801",
+    "salary": "152",
+    "url": "https://nba.hupu.com/players/joffreylauvergne-4801.html"
+  },
+  {
+    "name": "Derrick White",
+    "player_id": "150480",
+    "salary": "140",
+    "url": "https://nba.hupu.com/players/derrickwhite-150480.html"
+  },
+  {
+    "name": "Bryn Forbes",
+    "player_id": "150385",
+    "salary": "131",
+    "url": "https://nba.hupu.com/players/brynforbes-150385.html"
+  },
+  {
+    "name": "Dejounte Murray",
+    "player_id": "150181",
+    "salary": "123",
+    "url": "https://nba.hupu.com/players/dejountemurray-150181.html"
+  },
+  {
+    "name": "Davis Bertans",
+    "player_id": "3596",
+    "salary": "91",
+    "url": "https://nba.hupu.com/players/davisbertans-3596.html"
+  },
+  {
+    "name": "Brandon Paul",
+    "player_id": "150360",
+    "salary": "82",
+    "url": "https://nba.hupu.com/players/brandonpaul-150360.html"
+  },
+  {
+    "name": "Darrun Hilliard",
+    "player_id": "150022",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/darrunhilliard-150022.html"
+  },
+  {
+    "name": "Matt Costello",
+    "player_id": "150378",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/mattcostello-150378.html"
+  },
+  {
+    "name": "Harrison Barnes",
+    "player_id": "3644",
+    "salary": "2311",
+    "url": "https://nba.hupu.com/players/harrisonbarnes-3644.html"
+  },
+  {
+    "name": "Wesley Matthews",
+    "player_id": "3408",
+    "salary": "1788",
+    "url": "https://nba.hupu.com/players/wesleymatthews-3408.html"
+  },
+  {
+    "name": "Dirk Nowitzki",
+    "player_id": "940",
+    "salary": "500",
+    "url": "https://nba.hupu.com/players/dirknowitzki-940.html"
+  },
+  {
+    "name": "Nerlens Noel",
+    "player_id": "4818",
+    "salary": "419",
+    "url": "https://nba.hupu.com/players/nerlensnoel-4818.html"
+  },
+  {
+    "name": "J.J. Barea",
+    "player_id": "1318",
+    "salary": "390",
+    "url": "https://nba.hupu.com/players/jjbarea-1318.html"
+  },
+  {
+    "name": "Doug McDermott",
+    "player_id": "4927",
+    "salary": "329",
+    "url": "https://nba.hupu.com/players/dougmcdermott-4927.html"
+  },
+  {
+    "name": "Dennis Smith Jr.",
+    "player_id": "150436",
+    "salary": "322",
+    "url": "https://nba.hupu.com/players/dennissmithjr-150436.html"
+  },
+  {
+    "name": "Seth Curry",
+    "player_id": "4798",
+    "salary": "303",
+    "url": "https://nba.hupu.com/players/sethcurry-4798.html"
+  },
+  {
+    "name": "Salah Mejri",
+    "player_id": "150082",
+    "salary": "147",
+    "url": "https://nba.hupu.com/players/salahmejri-150082.html"
+  },
+  {
+    "name": "Yogi Ferrell",
+    "player_id": "150380",
+    "salary": "131",
+    "url": "https://nba.hupu.com/players/yogiferrell-150380.html"
+  },
+  {
+    "name": "Dorian Finney-Smith",
+    "player_id": "150222",
+    "salary": "91",
+    "url": "https://nba.hupu.com/players/dorianfinneysmith-150222.html"
+  },
+  {
+    "name": "Maxi Kleber",
+    "player_id": "150704",
+    "salary": "82",
+    "url": "https://nba.hupu.com/players/maxikleber-150704.html"
+  },
+  {
+    "name": "Kyle Collinsworth",
+    "player_id": "150358",
+    "salary": "29",
+    "url": "https://nba.hupu.com/players/kylecollinsworth-150358.html"
+  },
+  {
+    "name": "Aaron Harrison",
+    "player_id": "150068",
+    "salary": "8",
+    "url": "https://nba.hupu.com/players/aaronharrison-150068.html"
+  },
+  {
+    "name": "Jalen Jones",
+    "player_id": "150390",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/jalenjones-150390.html"
+  },
+  {
+    "name": "Johnathan Motley",
+    "player_id": "150486",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/johnathanmotley-150486.html"
+  },
+  {
+    "name": "Mike Conley",
+    "player_id": "1411",
+    "salary": "2853",
+    "url": "https://nba.hupu.com/players/mikeconley-1411.html"
+  },
+  {
+    "name": "Chandler Parsons",
+    "player_id": "3584",
+    "salary": "2311",
+    "url": "https://nba.hupu.com/players/chandlerparsons-3584.html"
+  },
+  {
+    "name": "Marc Gasol",
+    "player_id": "1384",
+    "salary": "2264",
+    "url": "https://nba.hupu.com/players/marcgasol-1384.html"
+  },
+  {
+    "name": "JaMychal Green",
+    "player_id": "4869",
+    "salary": "853",
+    "url": "https://nba.hupu.com/players/jamychalgreen-4869.html"
+  },
+  {
+    "name": "Ben McLemore",
+    "player_id": "4826",
+    "salary": "520",
+    "url": "https://nba.hupu.com/players/benmclemore-4826.html"
+  },
+  {
+    "name": "Tyreke Evans",
+    "player_id": "3349",
+    "salary": "329",
+    "url": "https://nba.hupu.com/players/tyrekeevans-3349.html"
+  },
+  {
+    "name": "Mario Chalmers",
+    "player_id": "3040",
+    "salary": "211",
+    "url": "https://nba.hupu.com/players/mariochalmers-3040.html"
+  },
+  {
+    "name": "Jarell Martin",
+    "player_id": "150034",
+    "salary": "134",
+    "url": "https://nba.hupu.com/players/jarellmartin-150034.html"
+  },
+  {
+    "name": "Andrew Harrison",
+    "player_id": "150035",
+    "salary": "131",
+    "url": "https://nba.hupu.com/players/andrewharrison-150035.html"
+  },
+  {
+    "name": "Wayne Selden",
+    "player_id": "150367",
+    "salary": "131",
+    "url": "https://nba.hupu.com/players/wayneselden-150367.html"
+  },
+  {
+    "name": "Deyonta Davis",
+    "player_id": "150173",
+    "salary": "131",
+    "url": "https://nba.hupu.com/players/deyontadavis-150173.html"
+  },
+  {
+    "name": "Ivan Rabb",
+    "player_id": "150507",
+    "salary": "95",
+    "url": "https://nba.hupu.com/players/ivanrabb-150507.html"
+  },
+  {
+    "name": "Dillon Brooks",
+    "player_id": "150497",
+    "salary": "82",
+    "url": "https://nba.hupu.com/players/dillonbrooks-150497.html"
+  },
+  {
+    "name": "MarShon Brooks",
+    "player_id": "3578",
+    "salary": "8",
+    "url": "https://nba.hupu.com/players/marshonbrooks-3578.html"
+  },
+  {
+    "name": "Myke Henry",
+    "player_id": "150901",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/mykehenry-150901.html"
+  },
+  {
+    "name": "Kobi Simmons",
+    "player_id": "150431",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/kobisimmons-150431.html"
+  },
+  {
+    "name": "Stephen Curry",
+    "player_id": "3311",
+    "salary": "3468",
+    "url": "https://nba.hupu.com/players/stephencurry-3311.html"
+  },
+  {
+    "name": "Kevin Durant",
+    "player_id": "1236",
+    "salary": "2500",
+    "url": "https://nba.hupu.com/players/kevindurant-1236.html"
+  },
+  {
+    "name": "Klay Thompson",
+    "player_id": "3564",
+    "salary": "1783",
+    "url": "https://nba.hupu.com/players/klaythompson-3564.html"
+  },
+  {
+    "name": "Draymond Green",
+    "player_id": "3672",
+    "salary": "1640",
+    "url": "https://nba.hupu.com/players/draymondgreen-3672.html"
+  },
+  {
+    "name": "Andre Iguodala",
+    "player_id": "642",
+    "salary": "1481",
+    "url": "https://nba.hupu.com/players/andreiguodala-642.html"
+  },
+  {
+    "name": "Shaun Livingston",
+    "player_id": "623",
+    "salary": "769",
+    "url": "https://nba.hupu.com/players/shaunlivingston-623.html"
+  },
+  {
+    "name": "Nick Young",
+    "player_id": "1352",
+    "salary": "519",
+    "url": "https://nba.hupu.com/players/nickyoung-1352.html"
+  },
+  {
+    "name": "Zaza Pachulia",
+    "player_id": "1103",
+    "salary": "478",
+    "url": "https://nba.hupu.com/players/zazapachulia-1103.html"
+  },
+  {
+    "name": "David West",
+    "player_id": "425",
+    "salary": "233",
+    "url": "https://nba.hupu.com/players/davidwest-425.html"
+  },
+  {
+    "name": "JaVale McGee",
+    "player_id": "3038",
+    "salary": "212",
+    "url": "https://nba.hupu.com/players/javalemcgee-3038.html"
+  },
+  {
+    "name": "Kevon Looney",
+    "player_id": "150023",
+    "salary": "123",
+    "url": "https://nba.hupu.com/players/kevonlooney-150023.html"
+  },
+  {
+    "name": "Damian Jones",
+    "player_id": "150183",
+    "salary": "122",
+    "url": "https://nba.hupu.com/players/damianjones-150183.html"
+  },
+  {
+    "name": "Patrick McCaw",
+    "player_id": "150225",
+    "salary": "91",
+    "url": "https://nba.hupu.com/players/patrickmccaw-150225.html"
+  },
+  {
+    "name": "Jordan Bell",
+    "player_id": "150492",
+    "salary": "82",
+    "url": "https://nba.hupu.com/players/jordanbell-150492.html"
+  },
+  {
+    "name": "Quinn Cook",
+    "player_id": "150149",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/quinncook-150149.html"
+  },
+  {
+    "name": "Chris Boucher",
+    "player_id": "150718",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/chrisboucher-150718.html"
+  },
+  {
+    "name": "DeAndre Jordan",
+    "player_id": "3014",
+    "salary": "2264",
+    "url": "https://nba.hupu.com/players/deandrejordan-3014.html"
+  },
+  {
+    "name": "Danilo Gallinari",
+    "player_id": "3018",
+    "salary": "2056",
+    "url": "https://nba.hupu.com/players/danilogallinari-3018.html"
+  },
+  {
+    "name": "Tobias Harris",
+    "player_id": "3572",
+    "salary": "1600",
+    "url": "https://nba.hupu.com/players/tobiasharris-3572.html"
+  },
+  {
+    "name": "Austin Rivers",
+    "player_id": "3647",
+    "salary": "1167",
+    "url": "https://nba.hupu.com/players/austinrivers-3647.html"
+  },
+  {
+    "name": "Avery Bradley",
+    "player_id": "3467",
+    "salary": "881",
+    "url": "https://nba.hupu.com/players/averybradley-3467.html"
+  },
+  {
+    "name": "Lou Williams",
+    "player_id": "1128",
+    "salary": "730",
+    "url": "https://nba.hupu.com/players/louwilliams-1128.html"
+  },
+  {
+    "name": "Boban Marjanovic",
+    "player_id": "150071",
+    "salary": "700",
+    "url": "https://nba.hupu.com/players/bobanmarjanovic-150071.html"
+  },
+  {
+    "name": "Milos Teodosic",
+    "player_id": "150632",
+    "salary": "600",
+    "url": "https://nba.hupu.com/players/milosteodosic-150632.html"
+  },
+  {
+    "name": "Wesley Johnson",
+    "player_id": "3452",
+    "salary": "588",
+    "url": "https://nba.hupu.com/players/wesleyjohnson-3452.html"
+  },
+  {
+    "name": "Patrick Beverley",
+    "player_id": "3393",
+    "salary": "551",
+    "url": "https://nba.hupu.com/players/patrickbeverley-3393.html"
+  },
+  {
+    "name": "Sam Dekker",
+    "player_id": "150024",
+    "salary": "179",
+    "url": "https://nba.hupu.com/players/samdekker-150024.html"
+  },
+  {
+    "name": "Montrezl Harrell",
+    "player_id": "150025",
+    "salary": "109",
+    "url": "https://nba.hupu.com/players/montrezlharrell-150025.html"
+  },
+  {
+    "name": "Jawun Evans",
+    "player_id": "150479",
+    "salary": "82",
+    "url": "https://nba.hupu.com/players/jawunevans-150479.html"
+  },
+  {
+    "name": "Sindarius Thornwell",
+    "player_id": "150482",
+    "salary": "82",
+    "url": "https://nba.hupu.com/players/sindariusthornwell-150482.html"
+  },
+  {
+    "name": "C.J. Williams",
+    "player_id": "150398",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/cjwilliams-150398.html"
+  },
+  {
+    "name": "Tyrone Wallace",
+    "player_id": "150217",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/tyronewallace-150217.html"
+  },
+  {
+    "name": "Brook Lopez",
+    "player_id": "3013",
+    "salary": "2265",
+    "url": "https://nba.hupu.com/players/brooklopez-3013.html"
+  },
+  {
+    "name": "Kentavious Caldwell-Pope",
+    "player_id": "4790",
+    "salary": "1775",
+    "url": "https://nba.hupu.com/players/kentaviouscaldwellpope-4790.html"
+  },
+  {
+    "name": "Luol Deng",
+    "player_id": "545",
+    "salary": "1719",
+    "url": "https://nba.hupu.com/players/luoldeng-545.html"
+  },
+  {
+    "name": "Channing Frye",
+    "player_id": "1029",
+    "salary": "742",
+    "url": "https://nba.hupu.com/players/channingfrye-1029.html"
+  },
+  {
+    "name": "Lonzo Ball",
+    "player_id": "150429",
+    "salary": "629",
+    "url": "https://nba.hupu.com/players/lonzoball-150429.html"
+  },
+  {
+    "name": "Isaiah Thomas",
+    "player_id": "3613",
+    "salary": "626",
+    "url": "https://nba.hupu.com/players/isaiahthomas-3613.html"
+  },
+  {
+    "name": "Brandon Ingram",
+    "player_id": "150164",
+    "salary": "552",
+    "url": "https://nba.hupu.com/players/brandoningram-150164.html"
+  },
+  {
+    "name": "Julius Randle",
+    "player_id": "4932",
+    "salary": "415",
+    "url": "https://nba.hupu.com/players/juliusrandle-4932.html"
+  },
+  {
+    "name": "Tyler Ennis",
+    "player_id": "4935",
+    "salary": "152",
+    "url": "https://nba.hupu.com/players/tylerennis-4935.html"
+  },
+  {
+    "name": "Kyle Kuzma",
+    "player_id": "150471",
+    "salary": "142",
+    "url": "https://nba.hupu.com/players/kylekuzma-150471.html"
+  },
+  {
+    "name": "Josh Hart",
+    "player_id": "150488",
+    "salary": "139",
+    "url": "https://nba.hupu.com/players/joshhart-150488.html"
+  },
+  {
+    "name": "Ivica Zubac",
+    "player_id": "150201",
+    "salary": "108",
+    "url": "https://nba.hupu.com/players/ivicazubac-150201.html"
+  },
+  {
+    "name": "Thomas Bryant",
+    "player_id": "150489",
+    "salary": "82",
+    "url": "https://nba.hupu.com/players/thomasbryant-150489.html"
+  },
+  {
+    "name": "Gary Payton II",
+    "player_id": "150400",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/garypaytonii-150400.html"
+  },
+  {
+    "name": "Alex Caruso",
+    "player_id": "150418",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/alexcaruso-150418.html"
+  },
+  {
+    "name": "Travis Wear",
+    "player_id": "150893",
+    "salary": "4",
+    "url": "https://nba.hupu.com/players/traviswear-150893.html"
+  },
+  {
+    "name": "Andre Ingram",
+    "player_id": "150928",
+    "salary": "1",
+    "url": "https://nba.hupu.com/players/andreingram-150928.html"
+  },
+  {
+    "name": "Zach Randolph",
+    "player_id": "165",
+    "salary": "1231",
+    "url": "https://nba.hupu.com/players/zachrandolph-165.html"
+  },
+  {
+    "name": "Iman Shumpert",
+    "player_id": "3570",
+    "salary": "1034",
+    "url": "https://nba.hupu.com/players/imanshumpert-3570.html"
+  },
+  {
+    "name": "Bogdan Bogdanovic",
+    "player_id": "150528",
+    "salary": "947",
+    "url": "https://nba.hupu.com/players/bogdanbogdanovic-150528.html"
+  },
+  {
+    "name": "Kosta Koufos",
+    "player_id": "3078",
+    "salary": "839",
+    "url": "https://nba.hupu.com/players/kostakoufos-3078.html"
+  },
+  {
+    "name": "Garrett Temple",
+    "player_id": "3440",
+    "salary": "800",
+    "url": "https://nba.hupu.com/players/garretttemple-3440.html"
+  },
+  {
+    "name": "Vince Carter",
+    "player_id": "936",
+    "salary": "800",
+    "url": "https://nba.hupu.com/players/vincecarter-936.html"
+  },
+  {
+    "name": "De'Aaron Fox",
+    "player_id": "150434",
+    "salary": "461",
+    "url": "https://nba.hupu.com/players/deaaronfox-150434.html"
+  },
+  {
+    "name": "Willie Cauley-Stein",
+    "player_id": "150054",
+    "salary": "370",
+    "url": "https://nba.hupu.com/players/williecauleystein-150054.html"
+  },
+  {
+    "name": "Buddy Hield",
+    "player_id": "150169",
+    "salary": "368",
+    "url": "https://nba.hupu.com/players/buddyhield-150169.html"
+  },
+  {
+    "name": "Bruno Caboclo",
+    "player_id": "4947",
+    "salary": "245",
+    "url": "https://nba.hupu.com/players/brunocaboclo-4947.html"
+  },
+  {
+    "name": "Justin Jackson",
+    "player_id": "150511",
+    "salary": "237",
+    "url": "https://nba.hupu.com/players/justinjackson-150511.html"
+  },
+  {
+    "name": "Harry Giles III",
+    "player_id": "150468",
+    "salary": "186",
+    "url": "https://nba.hupu.com/players/harrygilesiii-150468.html"
+  },
+  {
+    "name": "Skal Labissiere",
+    "player_id": "150172",
+    "salary": "124",
+    "url": "https://nba.hupu.com/players/skallabissiere-150172.html"
+  },
+  {
+    "name": "Frank Mason",
+    "player_id": "150504",
+    "salary": "118",
+    "url": "https://nba.hupu.com/players/frankmason-150504.html"
+  },
+  {
+    "name": "Jack Cooley",
+    "player_id": "4983",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/jackcooley-4983.html"
+  },
+  {
+    "name": "JaKarr Sampson",
+    "player_id": "5029",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/jakarrsampson-5029.html"
+  },
+  {
+    "name": "Brandon Knight",
+    "player_id": "3561",
+    "salary": "1362",
+    "url": "https://nba.hupu.com/players/brandonknight-3561.html"
+  },
+  {
+    "name": "Tyson Chandler",
+    "player_id": "326",
+    "salary": "1300",
+    "url": "https://nba.hupu.com/players/tysonchandler-326.html"
+  },
+  {
+    "name": "Jared Dudley",
+    "player_id": "1395",
+    "salary": "1000",
+    "url": "https://nba.hupu.com/players/jareddudley-1395.html"
+  },
+  {
+    "name": "Alan Williams",
+    "player_id": "150160",
+    "salary": "600",
+    "url": "https://nba.hupu.com/players/alanwilliams-150160.html"
+  },
+  {
+    "name": "Josh Jackson",
+    "player_id": "150432",
+    "salary": "509",
+    "url": "https://nba.hupu.com/players/joshjackson-150432.html"
+  },
+  {
+    "name": "Dragan Bender",
+    "player_id": "150165",
+    "salary": "447",
+    "url": "https://nba.hupu.com/players/draganbender-150165.html"
+  },
+  {
+    "name": "Alex Len",
+    "player_id": "4823",
+    "salary": "419",
+    "url": "https://nba.hupu.com/players/alexlen-4823.html"
+  },
+  {
+    "name": "Troy Daniels",
+    "player_id": "4884",
+    "salary": "333",
+    "url": "https://nba.hupu.com/players/troydaniels-4884.html"
+  },
+  {
+    "name": "Elfrid Payton",
+    "player_id": "4945",
+    "salary": "333",
+    "url": "https://nba.hupu.com/players/elfridpayton-4945.html"
+  },
+  {
+    "name": "TJ Warren",
+    "player_id": "4934",
+    "salary": "315",
+    "url": "https://nba.hupu.com/players/tjwarren-4934.html"
+  },
+  {
+    "name": "Marquese Chriss",
+    "player_id": "150177",
+    "salary": "307",
+    "url": "https://nba.hupu.com/players/marquesechriss-150177.html"
+  },
+  {
+    "name": "Devin Booker",
+    "player_id": "150044",
+    "salary": "232",
+    "url": "https://nba.hupu.com/players/devinbooker-150044.html"
+  },
+  {
+    "name": "Tyler Ulis",
+    "player_id": "150186",
+    "salary": "91",
+    "url": "https://nba.hupu.com/players/tylerulis-150186.html"
+  },
+  {
+    "name": "Davon Reed",
+    "player_id": "150545",
+    "salary": "82",
+    "url": "https://nba.hupu.com/players/davonreed-150545.html"
+  },
+  {
+    "name": "Danuel House",
+    "player_id": "150386",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/danuelhouse-150386.html"
+  },
+  {
+    "name": "Alec Peters",
+    "player_id": "150502",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/alecpeters-150502.html"
+  },
+  {
+    "name": "Damian Lillard",
+    "player_id": "3643",
+    "salary": "2615",
+    "url": "https://nba.hupu.com/players/damianlillard-3643.html"
+  },
+  {
+    "name": "CJ McCollum",
+    "player_id": "4844",
+    "salary": "2396",
+    "url": "https://nba.hupu.com/players/cjmccollum-4844.html"
+  },
+  {
+    "name": "Evan Turner",
+    "player_id": "3450",
+    "salary": "1713",
+    "url": "https://nba.hupu.com/players/evanturner-3450.html"
+  },
+  {
+    "name": "Meyers Leonard",
+    "player_id": "3648",
+    "salary": "990",
+    "url": "https://nba.hupu.com/players/meyersleonard-3648.html"
+  },
+  {
+    "name": "Maurice Harkless",
+    "player_id": "3652",
+    "salary": "966",
+    "url": "https://nba.hupu.com/players/mauriceharkless-3652.html"
+  },
+  {
+    "name": "Al-Farouq Aminu",
+    "player_id": "3456",
+    "salary": "732",
+    "url": "https://nba.hupu.com/players/alfarouqaminu-3456.html"
+  },
+  {
+    "name": "Ed Davis",
+    "player_id": "3461",
+    "salary": "635",
+    "url": "https://nba.hupu.com/players/eddavis-3461.html"
+  },
+  {
+    "name": "Zach Collins",
+    "player_id": "150461",
+    "salary": "306",
+    "url": "https://nba.hupu.com/players/zachcollins-150461.html"
+  },
+  {
+    "name": "Jusuf Nurkic",
+    "player_id": "4941",
+    "salary": "295",
+    "url": "https://nba.hupu.com/players/jusufnurkic-4941.html"
+  },
+  {
+    "name": "Shabazz Napier",
+    "player_id": "4910",
+    "salary": "236",
+    "url": "https://nba.hupu.com/players/shabazznapier-4910.html"
+  },
+  {
+    "name": "Pat Connaughton",
+    "player_id": "150050",
+    "salary": "147",
+    "url": "https://nba.hupu.com/players/patconnaughton-150050.html"
+  },
+  {
+    "name": "Caleb Swanigan",
+    "player_id": "150490",
+    "salary": "147",
+    "url": "https://nba.hupu.com/players/calebswanigan-150490.html"
+  },
+  {
+    "name": "Jake Layman",
+    "player_id": "150213",
+    "salary": "91",
+    "url": "https://nba.hupu.com/players/jakelayman-150213.html"
+  },
+  {
+    "name": "CJ Wilcox",
+    "player_id": "4949",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/cjwilcox-4949.html"
+  },
+  {
+    "name": "Wade Baldwin IV",
+    "player_id": "150187",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/wadebaldwiniv-150187.html"
+  },
+  {
+    "name": "Georgios Papagiannis",
+    "player_id": "150232",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/georgiospapagiannis-150232.html"
+  },
+  {
+    "name": "Russell Westbrook",
+    "player_id": "3016",
+    "salary": "2853",
+    "url": "https://nba.hupu.com/players/russellwestbrook-3016.html"
+  },
+  {
+    "name": "Carmelo Anthony",
+    "player_id": "252",
+    "salary": "2624",
+    "url": "https://nba.hupu.com/players/carmeloanthony-252.html"
+  },
+  {
+    "name": "Steven Adams",
+    "player_id": "4829",
+    "salary": "2247",
+    "url": "https://nba.hupu.com/players/stevenadams-4829.html"
+  },
+  {
+    "name": "Paul George",
+    "player_id": "3458",
+    "salary": "1951",
+    "url": "https://nba.hupu.com/players/paulgeorge-3458.html"
+  },
+  {
+    "name": "Andre Roberson",
+    "player_id": "4830",
+    "salary": "926",
+    "url": "https://nba.hupu.com/players/andreroberson-4830.html"
+  },
+  {
+    "name": "Alex Abrines",
+    "player_id": "4692",
+    "salary": "573",
+    "url": "https://nba.hupu.com/players/alexabrines-4692.html"
+  },
+  {
+    "name": "Patrick Patterson",
+    "player_id": "3462",
+    "salary": "519",
+    "url": "https://nba.hupu.com/players/patrickpatterson-3462.html"
+  },
+  {
+    "name": "Kyle Singler",
+    "player_id": "3587",
+    "salary": "500",
+    "url": "https://nba.hupu.com/players/kylesingler-3587.html"
+  },
+  {
+    "name": "Raymond Felton",
+    "player_id": "1045",
+    "salary": "233",
+    "url": "https://nba.hupu.com/players/raymondfelton-1045.html"
+  },
+  {
+    "name": "Nick Collison",
+    "player_id": "199",
+    "salary": "233",
+    "url": "https://nba.hupu.com/players/nickcollison-199.html"
+  },
+  {
+    "name": "Terrance Ferguson",
+    "player_id": "150506",
+    "salary": "179",
+    "url": "https://nba.hupu.com/players/terranceferguson-150506.html"
+  },
+  {
+    "name": "Josh Huestis",
+    "player_id": "4930",
+    "salary": "124",
+    "url": "https://nba.hupu.com/players/joshhuestis-4930.html"
+  },
+  {
+    "name": "Jerami Grant",
+    "player_id": "4961",
+    "salary": "105",
+    "url": "https://nba.hupu.com/players/jeramigrant-4961.html"
+  },
+  {
+    "name": "Dakari Johnson",
+    "player_id": "150053",
+    "salary": "82",
+    "url": "https://nba.hupu.com/players/dakarijohnson-150053.html"
+  },
+  {
+    "name": "Corey Brewer",
+    "player_id": "1355",
+    "salary": "53",
+    "url": "https://nba.hupu.com/players/coreybrewer-1355.html"
+  },
+  {
+    "name": "Daniel Hamilton",
+    "player_id": "150879",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/danielhamilton-150879.html"
+  },
+  {
+    "name": "PJ Dozier",
+    "player_id": "150645",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/pjdozier-150645.html"
+  },
+  {
+    "name": "Rudy Gobert",
+    "player_id": "4834",
+    "salary": "2122",
+    "url": "https://nba.hupu.com/players/rudygobert-4834.html"
+  },
+  {
+    "name": "Joe Ingles",
+    "player_id": "4998",
+    "salary": "1414",
+    "url": "https://nba.hupu.com/players/joeingles-4998.html"
+  },
+  {
+    "name": "Ricky Rubio",
+    "player_id": "3345",
+    "salary": "1410",
+    "url": "https://nba.hupu.com/players/rickyrubio-3345.html"
+  },
+  {
+    "name": "Derrick Favors",
+    "player_id": "3451",
+    "salary": "1175",
+    "url": "https://nba.hupu.com/players/derrickfavors-3451.html"
+  },
+  {
+    "name": "Alec Burks",
+    "player_id": "3565",
+    "salary": "1085",
+    "url": "https://nba.hupu.com/players/alecburks-3565.html"
+  },
+  {
+    "name": "Jae Crowder",
+    "player_id": "3671",
+    "salary": "680",
+    "url": "https://nba.hupu.com/players/jaecrowder-3671.html"
+  },
+  {
+    "name": "Thabo Sefolosha",
+    "player_id": "1272",
+    "salary": "525",
+    "url": "https://nba.hupu.com/players/thabosefolosha-1272.html"
+  },
+  {
+    "name": "Dante Exum",
+    "player_id": "4938",
+    "salary": "499",
+    "url": "https://nba.hupu.com/players/danteexum-4938.html"
+  },
+  {
+    "name": "Jonas Jerebko",
+    "player_id": "3360",
+    "salary": "400",
+    "url": "https://nba.hupu.com/players/jonasjerebko-3360.html"
+  },
+  {
+    "name": "Ekpe Udoh",
+    "player_id": "3454",
+    "salary": "320",
+    "url": "https://nba.hupu.com/players/ekpeudoh-3454.html"
+  },
+  {
+    "name": "Donovan Mitchell",
+    "player_id": "150510",
+    "salary": "262",
+    "url": "https://nba.hupu.com/players/donovanmitchell-150510.html"
+  },
+  {
+    "name": "Tony Bradley",
+    "player_id": "150491",
+    "salary": "141",
+    "url": "https://nba.hupu.com/players/tonybradley-150491.html"
+  },
+  {
+    "name": "Raul Neto",
+    "player_id": "150063",
+    "salary": "101",
+    "url": "https://nba.hupu.com/players/raulneto-150063.html"
+  },
+  {
+    "name": "Royce O'Neale",
+    "player_id": "150839",
+    "salary": "82",
+    "url": "https://nba.hupu.com/players/royceoneale-150839.html"
+  },
+  {
+    "name": "Georges Niang",
+    "player_id": "150220",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/georgesniang-150220.html"
+  },
+  {
+    "name": "Erik McCree",
+    "player_id": "150762",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/erikmccree-150762.html"
+  },
+  {
+    "name": "Jeff Teague",
+    "player_id": "3309",
+    "salary": "1900",
+    "url": "https://nba.hupu.com/players/jeffteague-3309.html"
+  },
+  {
+    "name": "Jimmy Butler",
+    "player_id": "3583",
+    "salary": "1755",
+    "url": "https://nba.hupu.com/players/jimmybutler-3583.html"
+  },
+  {
+    "name": "Gorgui Dieng",
+    "player_id": "4813",
+    "salary": "1411",
+    "url": "https://nba.hupu.com/players/gorguidieng-4813.html"
+  },
+  {
+    "name": "Taj Gibson",
+    "player_id": "3357",
+    "salary": "1400",
+    "url": "https://nba.hupu.com/players/tajgibson-3357.html"
+  },
+  {
+    "name": "Andrew Wiggins",
+    "player_id": "4956",
+    "salary": "757",
+    "url": "https://nba.hupu.com/players/andrewwiggins-4956.html"
+  },
+  {
+    "name": "Cole Aldrich",
+    "player_id": "3459",
+    "salary": "733",
+    "url": "https://nba.hupu.com/players/colealdrich-3459.html"
+  },
+  {
+    "name": "Karl-Anthony Towns",
+    "player_id": "150037",
+    "salary": "622",
+    "url": "https://nba.hupu.com/players/karlanthonytowns-150037.html"
+  },
+  {
+    "name": "Jamal Crawford",
+    "player_id": "572",
+    "salary": "433",
+    "url": "https://nba.hupu.com/players/jamalcrawford-572.html"
+  },
+  {
+    "name": "Nemanja Bjelica",
+    "player_id": "150066",
+    "salary": "395",
+    "url": "https://nba.hupu.com/players/nemanjabjelica-150066.html"
+  },
+  {
+    "name": "Justin Patton",
+    "player_id": "150478",
+    "salary": "225",
+    "url": "https://nba.hupu.com/players/justinpatton-150478.html"
+  },
+  {
+    "name": "Aaron Brooks",
+    "player_id": "1388",
+    "salary": "212",
+    "url": "https://nba.hupu.com/players/aaronbrooks-1388.html"
+  },
+  {
+    "name": "Tyus Jones",
+    "player_id": "150038",
+    "salary": "140",
+    "url": "https://nba.hupu.com/players/tyusjones-150038.html"
+  },
+  {
+    "name": "Marcus Georges-Hunt",
+    "player_id": "150415",
+    "salary": "131",
+    "url": "https://nba.hupu.com/players/marcusgeorgeshunt-150415.html"
+  },
+  {
+    "name": "Derrick Rose",
+    "player_id": "3010",
+    "salary": "42",
+    "url": "https://nba.hupu.com/players/derrickrose-3010.html"
+  },
+  {
+    "name": "Anthony Brown",
+    "player_id": "150031",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/anthonybrown-150031.html"
+  },
+  {
+    "name": "Amile Jefferson",
+    "player_id": "150776",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/amilejefferson-150776.html"
+  },
+  {
+    "name": "Paul Millsap",
+    "player_id": "1256",
+    "salary": "3127",
+    "url": "https://nba.hupu.com/players/paulmillsap-1256.html"
+  },
+  {
+    "name": "Mason Plumlee",
+    "player_id": "4810",
+    "salary": "1404",
+    "url": "https://nba.hupu.com/players/masonplumlee-4810.html"
+  },
+  {
+    "name": "Kenneth Faried",
+    "player_id": "3575",
+    "salary": "1292",
+    "url": "https://nba.hupu.com/players/kennethfaried-3575.html"
+  },
+  {
+    "name": "Wilson Chandler",
+    "player_id": "1424",
+    "salary": "1202",
+    "url": "https://nba.hupu.com/players/wilsonchandler-1424.html"
+  },
+  {
+    "name": "Darrell Arthur",
+    "player_id": "3024",
+    "salary": "767",
+    "url": "https://nba.hupu.com/players/darrellarthur-3024.html"
+  },
+  {
+    "name": "Devin Harris",
+    "player_id": "480",
+    "salary": "440",
+    "url": "https://nba.hupu.com/players/devinharris-480.html"
+  },
+  {
+    "name": "Will Barton",
+    "player_id": "3677",
+    "salary": "353",
+    "url": "https://nba.hupu.com/players/willbarton-3677.html"
+  },
+  {
+    "name": "Jamal Murray",
+    "player_id": "150167",
+    "salary": "336",
+    "url": "https://nba.hupu.com/players/jamalmurray-150167.html"
+  },
+  {
+    "name": "Gary Harris",
+    "player_id": "4942",
+    "salary": "255",
+    "url": "https://nba.hupu.com/players/garyharris-4942.html"
+  },
+  {
+    "name": "Trey Lyles",
+    "player_id": "150059",
+    "salary": "244",
+    "url": "https://nba.hupu.com/players/treylyles-150059.html"
+  },
+  {
+    "name": "Richard Jefferson",
+    "player_id": "67",
+    "salary": "230",
+    "url": "https://nba.hupu.com/players/richardjefferson-67.html"
+  },
+  {
+    "name": "Juan Hernangomez",
+    "player_id": "150192",
+    "salary": "208",
+    "url": "https://nba.hupu.com/players/juanhernangomez-150192.html"
+  },
+  {
+    "name": "Malik Beasley",
+    "player_id": "150189",
+    "salary": "170",
+    "url": "https://nba.hupu.com/players/malikbeasley-150189.html"
+  },
+  {
+    "name": "Tyler Lydon",
+    "player_id": "150493",
+    "salary": "158",
+    "url": "https://nba.hupu.com/players/tylerlydon-150493.html"
+  },
+  {
+    "name": "Nikola Jokic",
+    "player_id": "4943",
+    "salary": "142",
+    "url": "https://nba.hupu.com/players/nikolajokic-4943.html"
+  },
+  {
+    "name": "Torrey Craig",
+    "player_id": "150706",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/torreycraig-150706.html"
+  },
+  {
+    "name": "Monte Morris",
+    "player_id": "150214",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/montemorris-150214.html"
+  },
+  {
+    "name": "Kyle Lowry",
+    "player_id": "1244",
+    "salary": "2870",
+    "url": "https://nba.hupu.com/players/kylelowry-1244.html"
+  },
+  {
+    "name": "DeMar DeRozan",
+    "player_id": "3314",
+    "salary": "2774",
+    "url": "https://nba.hupu.com/players/demarderozan-3314.html"
+  },
+  {
+    "name": "Serge Ibaka",
+    "player_id": "3055",
+    "salary": "2006",
+    "url": "https://nba.hupu.com/players/sergeibaka-3055.html"
+  },
+  {
+    "name": "Jonas Valanciunas",
+    "player_id": "3558",
+    "salary": "1546",
+    "url": "https://nba.hupu.com/players/jonasvalanciunas-3558.html"
+  },
+  {
+    "name": "CJ Miles",
+    "player_id": "1051",
+    "salary": "794",
+    "url": "https://nba.hupu.com/players/cjmiles-1051.html"
+  },
+  {
+    "name": "Lucas Nogueira",
+    "player_id": "4976",
+    "salary": "295",
+    "url": "https://nba.hupu.com/players/lucasnogueira-4976.html"
+  },
+  {
+    "name": "Jakob Poeltl",
+    "player_id": "150170",
+    "salary": "283",
+    "url": "https://nba.hupu.com/players/jakobpoeltl-150170.html"
+  },
+  {
+    "name": "Delon Wright",
+    "player_id": "150061",
+    "salary": "165",
+    "url": "https://nba.hupu.com/players/delonwright-150061.html"
+  },
+  {
+    "name": "OG Anunoby",
+    "player_id": "150508",
+    "salary": "165",
+    "url": "https://nba.hupu.com/players/oganunoby-150508.html"
+  },
+  {
+    "name": "Malachi Richardson",
+    "player_id": "150226",
+    "salary": "150",
+    "url": "https://nba.hupu.com/players/malachirichardson-150226.html"
+  },
+  {
+    "name": "Norman Powell",
+    "player_id": "150062",
+    "salary": "147",
+    "url": "https://nba.hupu.com/players/normanpowell-150062.html"
+  },
+  {
+    "name": "Fred VanVleet",
+    "player_id": "150388",
+    "salary": "131",
+    "url": "https://nba.hupu.com/players/fredvanvleet-150388.html"
+  },
+  {
+    "name": "Pascal Siakam",
+    "player_id": "150219",
+    "salary": "125",
+    "url": "https://nba.hupu.com/players/pascalsiakam-150219.html"
+  },
+  {
+    "name": "Alfonzo McKinnie",
+    "player_id": "150858",
+    "salary": "82",
+    "url": "https://nba.hupu.com/players/alfonzomckinnie-150858.html"
+  },
+  {
+    "name": "Malcolm Miller",
+    "player_id": "150114",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/malcolmmiller-150114.html"
+  },
+  {
+    "name": "Lorenzo Brown",
+    "player_id": "4815",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/lorenzobrown-4815.html"
+  },
+  {
+    "name": "Gordon Hayward",
+    "player_id": "3457",
+    "salary": "2973",
+    "url": "https://nba.hupu.com/players/gordonhayward-3457.html"
+  },
+  {
+    "name": "Al Horford",
+    "player_id": "1239",
+    "salary": "2773",
+    "url": "https://nba.hupu.com/players/alhorford-1239.html"
+  },
+  {
+    "name": "Kyrie Irving",
+    "player_id": "3554",
+    "salary": "1887",
+    "url": "https://nba.hupu.com/players/kyrieirving-3554.html"
+  },
+  {
+    "name": "Jayson Tatum",
+    "player_id": "150433",
+    "salary": "565",
+    "url": "https://nba.hupu.com/players/jaysontatum-150433.html"
+  },
+  {
+    "name": "Greg Monroe",
+    "player_id": "3455",
+    "salary": "500",
+    "url": "https://nba.hupu.com/players/gregmonroe-3455.html"
+  },
+  {
+    "name": "Marcus Morris",
+    "player_id": "3567",
+    "salary": "500",
+    "url": "https://nba.hupu.com/players/marcusmorris-3567.html"
+  },
+  {
+    "name": "Jaylen Brown",
+    "player_id": "150166",
+    "salary": "496",
+    "url": "https://nba.hupu.com/players/jaylenbrown-150166.html"
+  },
+  {
+    "name": "Marcus Smart",
+    "player_id": "4925",
+    "salary": "454",
+    "url": "https://nba.hupu.com/players/marcussmart-4925.html"
+  },
+  {
+    "name": "Aron Baynes",
+    "player_id": "3761",
+    "salary": "433",
+    "url": "https://nba.hupu.com/players/aronbaynes-3761.html"
+  },
+  {
+    "name": "Guerschon Yabusele",
+    "player_id": "150218",
+    "salary": "225",
+    "url": "https://nba.hupu.com/players/guerschonyabusele-150218.html"
+  },
+  {
+    "name": "Terry Rozier",
+    "player_id": "150005",
+    "salary": "198",
+    "url": "https://nba.hupu.com/players/terryrozier-150005.html"
+  },
+  {
+    "name": "Shane Larkin",
+    "player_id": "4791",
+    "salary": "152",
+    "url": "https://nba.hupu.com/players/shanelarkin-4791.html"
+  },
+  {
+    "name": "Semi Ojeleye",
+    "player_id": "150469",
+    "salary": "129",
+    "url": "https://nba.hupu.com/players/semiojeleye-150469.html"
+  },
+  {
+    "name": "Abdel Nader",
+    "player_id": "150265",
+    "salary": "117",
+    "url": "https://nba.hupu.com/players/abdelnader-150265.html"
+  },
+  {
+    "name": "Daniel Theis",
+    "player_id": "150674",
+    "salary": "82",
+    "url": "https://nba.hupu.com/players/danieltheis-150674.html"
+  },
+  {
+    "name": "Kadeem Allen",
+    "player_id": "150550",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/kadeemallen-150550.html"
+  },
+  {
+    "name": "Jabari Bird",
+    "player_id": "150551",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/jabaribird-150551.html"
+  },
+  {
+    "name": "Xavier Silas",
+    "player_id": "3637",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/xaviersilas-3637.html"
+  },
+  {
+    "name": "Jonathan Gibson",
+    "player_id": "150355",
+    "salary": "4",
+    "url": "https://nba.hupu.com/players/jonathangibson-150355.html"
+  },
+  {
+    "name": "JJ Redick",
+    "player_id": "1213",
+    "salary": "2300",
+    "url": "https://nba.hupu.com/players/jjredick-1213.html"
+  },
+  {
+    "name": "Robert Covington",
+    "player_id": "4851",
+    "salary": "1670",
+    "url": "https://nba.hupu.com/players/robertcovington-4851.html"
+  },
+  {
+    "name": "Amir Johnson",
+    "player_id": "1137",
+    "salary": "1100",
+    "url": "https://nba.hupu.com/players/amirjohnson-1137.html"
+  },
+  {
+    "name": "Jerryd Bayless",
+    "player_id": "3011",
+    "salary": "900",
+    "url": "https://nba.hupu.com/players/jerrydbayless-3011.html"
+  },
+  {
+    "name": "Markelle Fultz",
+    "player_id": "150426",
+    "salary": "703",
+    "url": "https://nba.hupu.com/players/markellefultz-150426.html"
+  },
+  {
+    "name": "Ben Simmons",
+    "player_id": "150163",
+    "salary": "617",
+    "url": "https://nba.hupu.com/players/bensimmons-150163.html"
+  },
+  {
+    "name": "Joel Embiid",
+    "player_id": "4958",
+    "salary": "610",
+    "url": "https://nba.hupu.com/players/joelembiid-4958.html"
+  },
+  {
+    "name": "Dario Saric",
+    "player_id": "4959",
+    "salary": "242",
+    "url": "https://nba.hupu.com/players/dariosaric-4959.html"
+  },
+  {
+    "name": "Justin Anderson",
+    "player_id": "150017",
+    "salary": "158",
+    "url": "https://nba.hupu.com/players/justinanderson-150017.html"
+  },
+  {
+    "name": "Richaun Holmes",
+    "player_id": "150046",
+    "salary": "147",
+    "url": "https://nba.hupu.com/players/richaunholmes-150046.html"
+  },
+  {
+    "name": "T.J. McConnell",
+    "player_id": "150142",
+    "salary": "147",
+    "url": "https://nba.hupu.com/players/tjmcconnell-150142.html"
+  },
+  {
+    "name": "Furkan Korkmaz",
+    "player_id": "150176",
+    "salary": "147",
+    "url": "https://nba.hupu.com/players/furkankorkmaz-150176.html"
+  },
+  {
+    "name": "Timothe Luwawu-Cabarrot",
+    "player_id": "150178",
+    "salary": "139",
+    "url": "https://nba.hupu.com/players/timotheluwawucabarrot-150178.html"
+  },
+  {
+    "name": "Marco Belinelli",
+    "player_id": "1347",
+    "salary": "82",
+    "url": "https://nba.hupu.com/players/marcobelinelli-1347.html"
+  },
+  {
+    "name": "Ersan Ilyasova",
+    "player_id": "1141",
+    "salary": "57",
+    "url": "https://nba.hupu.com/players/ersanilyasova-1141.html"
+  },
+  {
+    "name": "Demetrius Jackson",
+    "player_id": "150180",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/demetriusjackson-150180.html"
+  },
+  {
+    "name": "Enes Kanter",
+    "player_id": "3556",
+    "salary": "1788",
+    "url": "https://nba.hupu.com/players/eneskanter-3556.html"
+  },
+  {
+    "name": "Joakim Noah",
+    "player_id": "1222",
+    "salary": "1777",
+    "url": "https://nba.hupu.com/players/joakimnoah-1222.html"
+  },
+  {
+    "name": "Tim Hardaway Jr.",
+    "player_id": "4814",
+    "salary": "1650",
+    "url": "https://nba.hupu.com/players/timhardawayjr-4814.html"
+  },
+  {
+    "name": "Courtney Lee",
+    "player_id": "3052",
+    "salary": "1175",
+    "url": "https://nba.hupu.com/players/courtneylee-3052.html"
+  },
+  {
+    "name": "Lance Thomas",
+    "player_id": "3619",
+    "salary": "666",
+    "url": "https://nba.hupu.com/players/lancethomas-3619.html"
+  },
+  {
+    "name": "Kristaps Porzingis",
+    "player_id": "150039",
+    "salary": "450",
+    "url": "https://nba.hupu.com/players/kristapsporzingis-150039.html"
+  },
+  {
+    "name": "Ron Baker",
+    "player_id": "150363",
+    "salary": "433",
+    "url": "https://nba.hupu.com/players/ronbaker-150363.html"
+  },
+  {
+    "name": "Kyle O'Quinn",
+    "player_id": "3686",
+    "salary": "409",
+    "url": "https://nba.hupu.com/players/kyleoquinn-3686.html"
+  },
+  {
+    "name": "Frank Ntilikina",
+    "player_id": "150438",
+    "salary": "350",
+    "url": "https://nba.hupu.com/players/frankntilikina-150438.html"
+  },
+  {
+    "name": "Emmanuel Mudiay",
+    "player_id": "150019",
+    "salary": "338",
+    "url": "https://nba.hupu.com/players/emmanuelmudiay-150019.html"
+  },
+  {
+    "name": "Jarrett Jack",
+    "player_id": "1055",
+    "salary": "233",
+    "url": "https://nba.hupu.com/players/jarrettjack-1055.html"
+  },
+  {
+    "name": "Michael Beasley",
+    "player_id": "3003",
+    "salary": "212",
+    "url": "https://nba.hupu.com/players/michaelbeasley-3003.html"
+  },
+  {
+    "name": "Damyean Dotson",
+    "player_id": "150547",
+    "salary": "82",
+    "url": "https://nba.hupu.com/players/damyeandotson-150547.html"
+  },
+  {
+    "name": "Trey Burke",
+    "player_id": "4833",
+    "salary": "78",
+    "url": "https://nba.hupu.com/players/treyburke-4833.html"
+  },
+  {
+    "name": "Luke Kornet",
+    "player_id": "150789",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/lukekornet-150789.html"
+  },
+  {
+    "name": "Troy Williams",
+    "player_id": "150368",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/troywilliams-150368.html"
+  },
+  {
+    "name": "Isaiah Hicks",
+    "player_id": "150513",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/isaiahhicks-150513.html"
+  },
+  {
+    "name": "Allen Crabbe",
+    "player_id": "4845",
+    "salary": "1933",
+    "url": "https://nba.hupu.com/players/allencrabbe-4845.html"
+  },
+  {
+    "name": "Timofey Mozgov",
+    "player_id": "3509",
+    "salary": "1566",
+    "url": "https://nba.hupu.com/players/timofeymozgov-3509.html"
+  },
+  {
+    "name": "DeMarre Carroll",
+    "player_id": "3387",
+    "salary": "1480",
+    "url": "https://nba.hupu.com/players/demarrecarroll-3387.html"
+  },
+  {
+    "name": "Jeremy Lin",
+    "player_id": "3513",
+    "salary": "1200",
+    "url": "https://nba.hupu.com/players/jeremylin-3513.html"
+  },
+  {
+    "name": "D'Angelo Russell",
+    "player_id": "150029",
+    "salary": "556",
+    "url": "https://nba.hupu.com/players/dangelorussell-150029.html"
+  },
+  {
+    "name": "Jahlil Okafor",
+    "player_id": "150045",
+    "salary": "500",
+    "url": "https://nba.hupu.com/players/jahlilokafor-150045.html"
+  },
+  {
+    "name": "Nik Stauskas",
+    "player_id": "4939",
+    "salary": "380",
+    "url": "https://nba.hupu.com/players/nikstauskas-4939.html"
+  },
+  {
+    "name": "Dante Cunningham",
+    "player_id": "3367",
+    "salary": "230",
+    "url": "https://nba.hupu.com/players/dantecunningham-3367.html"
+  },
+  {
+    "name": "Quincy Acy",
+    "player_id": "3674",
+    "salary": "171",
+    "url": "https://nba.hupu.com/players/quincyacy-3674.html"
+  },
+  {
+    "name": "Jarrett Allen",
+    "player_id": "150441",
+    "salary": "171",
+    "url": "https://nba.hupu.com/players/jarrettallen-150441.html"
+  },
+  {
+    "name": "Caris LeVert",
+    "player_id": "150190",
+    "salary": "163",
+    "url": "https://nba.hupu.com/players/carislevert-150190.html"
+  },
+  {
+    "name": "Spencer Dinwiddie",
+    "player_id": "4955",
+    "salary": "152",
+    "url": "https://nba.hupu.com/players/spencerdinwiddie-4955.html"
+  },
+  {
+    "name": "Rondae Hollis-Jefferson",
+    "player_id": "150014",
+    "salary": "124",
+    "url": "https://nba.hupu.com/players/rondaehollisjefferson-150014.html"
+  },
+  {
+    "name": "Isaiah Whitehead",
+    "player_id": "150223",
+    "salary": "112",
+    "url": "https://nba.hupu.com/players/isaiahwhitehead-150223.html"
+  },
+  {
+    "name": "Joe Harris",
+    "player_id": "4957",
+    "salary": "105",
+    "url": "https://nba.hupu.com/players/joeharris-4957.html"
+  },
+  {
+    "name": "Milton Doyle",
+    "player_id": "150643",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/miltondoyle-150643.html"
+  },
+  {
+    "name": "James Webb III",
+    "player_id": "150391",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/jameswebbiii-150391.html"
+  },
+  {
+    "name": "Hassan Whiteside",
+    "player_id": "5010",
+    "salary": "2378",
+    "url": "https://nba.hupu.com/players/hassanwhiteside-5010.html"
+  },
+  {
+    "name": "Goran Dragic",
+    "player_id": "3074",
+    "salary": "1700",
+    "url": "https://nba.hupu.com/players/gorandragic-3074.html"
+  },
+  {
+    "name": "James Johnson",
+    "player_id": "3321",
+    "salary": "1373",
+    "url": "https://nba.hupu.com/players/jamesjohnson-3321.html"
+  },
+  {
+    "name": "Dion Waiters",
+    "player_id": "3641",
+    "salary": "1100",
+    "url": "https://nba.hupu.com/players/dionwaiters-3641.html"
+  },
+  {
+    "name": "Kelly Olynyk",
+    "player_id": "4779",
+    "salary": "1061",
+    "url": "https://nba.hupu.com/players/kellyolynyk-4779.html"
+  },
+  {
+    "name": "Wayne Ellington",
+    "player_id": "3331",
+    "salary": "627",
+    "url": "https://nba.hupu.com/players/wayneellington-3331.html"
+  },
+  {
+    "name": "Tyler Johnson",
+    "player_id": "4978",
+    "salary": "563",
+    "url": "https://nba.hupu.com/players/tylerjohnson-4978.html"
+  },
+  {
+    "name": "Justise Winslow",
+    "player_id": "150032",
+    "salary": "271",
+    "url": "https://nba.hupu.com/players/justisewinslow-150032.html"
+  },
+  {
+    "name": "Bam Adebayo",
+    "player_id": "150509",
+    "salary": "249",
+    "url": "https://nba.hupu.com/players/bamadebayo-150509.html"
+  },
+  {
+    "name": "Dwyane Wade",
+    "player_id": "50",
+    "salary": "233",
+    "url": "https://nba.hupu.com/players/dwyanewade-50.html"
+  },
+  {
+    "name": "Udonis Haslem",
+    "player_id": "54",
+    "salary": "233",
+    "url": "https://nba.hupu.com/players/udonishaslem-54.html"
+  },
+  {
+    "name": "Luke Babbitt",
+    "player_id": "3464",
+    "salary": "197",
+    "url": "https://nba.hupu.com/players/lukebabbitt-3464.html"
+  },
+  {
+    "name": "Josh Richardson",
+    "player_id": "150033",
+    "salary": "147",
+    "url": "https://nba.hupu.com/players/joshrichardson-150033.html"
+  },
+  {
+    "name": "Jordan Mickey",
+    "player_id": "150007",
+    "salary": "147",
+    "url": "https://nba.hupu.com/players/jordanmickey-150007.html"
+  },
+  {
+    "name": "Rodney McGruder",
+    "player_id": "4878",
+    "salary": "54",
+    "url": "https://nba.hupu.com/players/rodneymcgruder-4878.html"
+  },
+  {
+    "name": "Derrick Jones Jr.",
+    "player_id": "150409",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/derrickjonesjr-150409.html"
+  },
+  {
+    "name": "Derrick Walton Jr.",
+    "player_id": "150759",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/derrickwaltonjr-150759.html"
+  },
+  {
+    "name": "Otto Porter Jr.",
+    "player_id": "4838",
+    "salary": "2477",
+    "url": "https://nba.hupu.com/players/ottoporterjr-4838.html"
+  },
+  {
+    "name": "Bradley Beal",
+    "player_id": "3640",
+    "salary": "2378",
+    "url": "https://nba.hupu.com/players/bradleybeal-3640.html"
+  },
+  {
+    "name": "John Wall",
+    "player_id": "3449",
+    "salary": "1806",
+    "url": "https://nba.hupu.com/players/johnwall-3449.html"
+  },
+  {
+    "name": "Ian Mahinmi",
+    "player_id": "1446",
+    "salary": "1666",
+    "url": "https://nba.hupu.com/players/ianmahinmi-1446.html"
+  },
+  {
+    "name": "Markieff Morris",
+    "player_id": "3566",
+    "salary": "800",
+    "url": "https://nba.hupu.com/players/markieffmorris-3566.html"
+  },
+  {
+    "name": "Jason Smith",
+    "player_id": "1342",
+    "salary": "523",
+    "url": "https://nba.hupu.com/players/jasonsmith-1342.html"
+  },
+  {
+    "name": "Jodie Meeks",
+    "player_id": "3369",
+    "salary": "329",
+    "url": "https://nba.hupu.com/players/jodiemeeks-3369.html"
+  },
+  {
+    "name": "Tomas Satoransky",
+    "player_id": "150359",
+    "salary": "300",
+    "url": "https://nba.hupu.com/players/tomassatoransky-150359.html"
+  },
+  {
+    "name": "Kelly Oubre Jr.",
+    "player_id": "150057",
+    "salary": "209",
+    "url": "https://nba.hupu.com/players/kellyoubrejr-150057.html"
+  },
+  {
+    "name": "Tim Frazier",
+    "player_id": "5026",
+    "salary": "209",
+    "url": "https://nba.hupu.com/players/timfrazier-5026.html"
+  },
+  {
+    "name": "Mike Scott",
+    "player_id": "3680",
+    "salary": "171",
+    "url": "https://nba.hupu.com/players/mikescott-3680.html"
+  },
+  {
+    "name": "Chris McCullough",
+    "player_id": "150015",
+    "salary": "147",
+    "url": "https://nba.hupu.com/players/chrismccullough-150015.html"
+  },
+  {
+    "name": "Ramon Sessions",
+    "player_id": "1431",
+    "salary": "13",
+    "url": "https://nba.hupu.com/players/ramonsessions-1431.html"
+  },
+  {
+    "name": "Devin Robinson",
+    "player_id": "150640",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/devinrobinson-150640.html"
+  },
+  {
+    "name": "Ty Lawson",
+    "player_id": "3337",
+    "salary": "2009",
+    "url": "https://nba.hupu.com/players/tylawson-3337.html"
+  },
+  {
+    "name": "Dwight Howard",
+    "player_id": "683",
+    "salary": "2350",
+    "url": "https://nba.hupu.com/players/dwighthoward-683.html"
+  },
+  {
+    "name": "Nicolas Batum",
+    "player_id": "3025",
+    "salary": "2243",
+    "url": "https://nba.hupu.com/players/nicolasbatum-3025.html"
+  },
+  {
+    "name": "Marvin Williams",
+    "player_id": "1054",
+    "salary": "1317",
+    "url": "https://nba.hupu.com/players/marvinwilliams-1054.html"
+  },
+  {
+    "name": "Michael Kidd-Gilchrist",
+    "player_id": "3639",
+    "salary": "1300",
+    "url": "https://nba.hupu.com/players/michaelkiddgilchrist-3639.html"
+  },
+  {
+    "name": "Cody Zeller",
+    "player_id": "4842",
+    "salary": "1258",
+    "url": "https://nba.hupu.com/players/codyzeller-4842.html"
+  },
+  {
+    "name": "Kemba Walker",
+    "player_id": "3562",
+    "salary": "1200",
+    "url": "https://nba.hupu.com/players/kembawalker-3562.html"
+  },
+  {
+    "name": "Jeremy Lamb",
+    "player_id": "3649",
+    "salary": "700",
+    "url": "https://nba.hupu.com/players/jeremylamb-3649.html"
+  },
+  {
+    "name": "Frank Kaminsky",
+    "player_id": "150010",
+    "salary": "285",
+    "url": "https://nba.hupu.com/players/frankkaminsky-150010.html"
+  },
+  {
+    "name": "Michael Carter-Williams",
+    "player_id": "4820",
+    "salary": "270",
+    "url": "https://nba.hupu.com/players/michaelcarterwilliams-4820.html"
+  },
+  {
+    "name": "Willy Hernangomez",
+    "player_id": "150041",
+    "salary": "144",
+    "url": "https://nba.hupu.com/players/willyhernangomez-150041.html"
+  },
+  {
+    "name": "Treveon Graham",
+    "player_id": "150085",
+    "salary": "91",
+    "url": "https://nba.hupu.com/players/treveongraham-150085.html"
+  },
+  {
+    "name": "Dwayne Bacon",
+    "player_id": "150477",
+    "salary": "82",
+    "url": "https://nba.hupu.com/players/dwaynebacon-150477.html"
+  },
+  {
+    "name": "Mangok Mathiang",
+    "player_id": "150651",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/mangokmathiang-150651.html"
+  },
+  {
+    "name": "Marcus Paige",
+    "player_id": "150241",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/marcuspaige-150241.html"
+  },
+  {
+    "name": "Evan Fournier",
+    "player_id": "3657",
+    "salary": "1700",
+    "url": "https://nba.hupu.com/players/evanfournier-3657.html"
+  },
+  {
+    "name": "Bismack Biyombo",
+    "player_id": "3560",
+    "salary": "1700",
+    "url": "https://nba.hupu.com/players/bismackbiyombo-3560.html"
+  },
+  {
+    "name": "Nikola Vucevic",
+    "player_id": "3569",
+    "salary": "1225",
+    "url": "https://nba.hupu.com/players/nikolavucevic-3569.html"
+  },
+  {
+    "name": "Terrence Ross",
+    "player_id": "3645",
+    "salary": "1050",
+    "url": "https://nba.hupu.com/players/terrenceross-3645.html"
+  },
+  {
+    "name": "D.J. Augustin",
+    "player_id": "3021",
+    "salary": "725",
+    "url": "https://nba.hupu.com/players/djaugustin-3021.html"
+  },
+  {
+    "name": "Jonathon Simmons",
+    "player_id": "150073",
+    "salary": "630",
+    "url": "https://nba.hupu.com/players/jonathonsimmons-150073.html"
+  },
+  {
+    "name": "Shelvin Mack",
+    "player_id": "3588",
+    "salary": "600",
+    "url": "https://nba.hupu.com/players/shelvinmack-3588.html"
+  },
+  {
+    "name": "Aaron Gordon",
+    "player_id": "4944",
+    "salary": "550",
+    "url": "https://nba.hupu.com/players/aarongordon-4944.html"
+  },
+  {
+    "name": "Jonathan Isaac",
+    "player_id": "150435",
+    "salary": "417",
+    "url": "https://nba.hupu.com/players/jonathanisaac-150435.html"
+  },
+  {
+    "name": "Mario Hezonja",
+    "player_id": "150042",
+    "salary": "408",
+    "url": "https://nba.hupu.com/players/mariohezonja-150042.html"
+  },
+  {
+    "name": "Arron Afflalo",
+    "player_id": "1360",
+    "salary": "233",
+    "url": "https://nba.hupu.com/players/arronafflalo-1360.html"
+  },
+  {
+    "name": "Marreese Speights",
+    "player_id": "3050",
+    "salary": "212",
+    "url": "https://nba.hupu.com/players/marreesespeights-3050.html"
+  },
+  {
+    "name": "Wes Iwundu",
+    "player_id": "150474",
+    "salary": "105",
+    "url": "https://nba.hupu.com/players/wesiwundu-150474.html"
+  },
+  {
+    "name": "Khem Birch",
+    "player_id": "4993",
+    "salary": "82",
+    "url": "https://nba.hupu.com/players/khembirch-4993.html"
+  },
+  {
+    "name": "Jamel Artis",
+    "player_id": "150792",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/jamelartis-150792.html"
+  },
+  {
+    "name": "Rodney Purvis",
+    "player_id": "150880",
+    "salary": "4",
+    "url": "https://nba.hupu.com/players/rodneypurvis-150880.html"
+  },
+  {
+    "name": "Kent Bazemore",
+    "player_id": "4863",
+    "salary": "1691",
+    "url": "https://nba.hupu.com/players/kentbazemore-4863.html"
+  },
+  {
+    "name": "Dennis Schroder",
+    "player_id": "4776",
+    "salary": "1550",
+    "url": "https://nba.hupu.com/players/dennisschroder-4776.html"
+  },
+  {
+    "name": "Miles Plumlee",
+    "player_id": "3663",
+    "salary": "1250",
+    "url": "https://nba.hupu.com/players/milesplumlee-3663.html"
+  },
+  {
+    "name": "Dewayne Dedmon",
+    "player_id": "4849",
+    "salary": "600",
+    "url": "https://nba.hupu.com/players/dewaynededmon-4849.html"
+  },
+  {
+    "name": "Mike Muscala",
+    "player_id": "4777",
+    "salary": "500",
+    "url": "https://nba.hupu.com/players/mikemuscala-4777.html"
+  },
+  {
+    "name": "Malcolm Delaney",
+    "player_id": "150353",
+    "salary": "250",
+    "url": "https://nba.hupu.com/players/malcolmdelaney-150353.html"
+  },
+  {
+    "name": "Taurean Prince",
+    "player_id": "150188",
+    "salary": "242",
+    "url": "https://nba.hupu.com/players/taureanprince-150188.html"
+  },
+  {
+    "name": "John Collins",
+    "player_id": "150501",
+    "salary": "193",
+    "url": "https://nba.hupu.com/players/johncollins-150501.html"
+  },
+  {
+    "name": "DeAndre' Bembry",
+    "player_id": "150203",
+    "salary": "157",
+    "url": "https://nba.hupu.com/players/deandrebembry-150203.html"
+  },
+  {
+    "name": "Isaiah Taylor",
+    "player_id": "150401",
+    "salary": "131",
+    "url": "https://nba.hupu.com/players/isaiahtaylor-150401.html"
+  },
+  {
+    "name": "Tyler Dorsey",
+    "player_id": "150484",
+    "salary": "82",
+    "url": "https://nba.hupu.com/players/tylerdorsey-150484.html"
+  },
+  {
+    "name": "Tyler Cavanaugh",
+    "player_id": "150660",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/tylercavanaugh-150660.html"
+  },
+  {
+    "name": "Andrew White III",
+    "player_id": "150672",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/andrewwhiteiii-150672.html"
+  },
+  {
+    "name": "Josh Magette",
+    "player_id": "150420",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/joshmagette-150420.html"
+  },
+  {
+    "name": "Jaylen Morris",
+    "player_id": "150910",
+    "salary": "4",
+    "url": "https://nba.hupu.com/players/jaylenmorris-150910.html"
+  },
+  {
+    "name": "Jeremy Evans",
+    "player_id": "3503",
+    "salary": "2010",
+    "url": "https://nba.hupu.com/players/jeremyevans-3503.html"
+  },
+  {
+    "name": "LeBron James",
+    "player_id": "650",
+    "salary": "3329",
+    "url": "https://nba.hupu.com/players/lebronjames-650.html"
+  },
+  {
+    "name": "Kevin Love",
+    "player_id": "3004",
+    "salary": "2264",
+    "url": "https://nba.hupu.com/players/kevinlove-3004.html"
+  },
+  {
+    "name": "George Hill",
+    "player_id": "3180",
+    "salary": "2000",
+    "url": "https://nba.hupu.com/players/georgehill-3180.html"
+  },
+  {
+    "name": "Tristan Thompson",
+    "player_id": "3557",
+    "salary": "1640",
+    "url": "https://nba.hupu.com/players/tristanthompson-3557.html"
+  },
+  {
+    "name": "JR Smith",
+    "player_id": "488",
+    "salary": "1376",
+    "url": "https://nba.hupu.com/players/jrsmith-488.html"
+  },
+  {
+    "name": "Jordan Clarkson",
+    "player_id": "4933",
+    "salary": "1156",
+    "url": "https://nba.hupu.com/players/jordanclarkson-4933.html"
+  },
+  {
+    "name": "Kyle Korver",
+    "player_id": "645",
+    "salary": "700",
+    "url": "https://nba.hupu.com/players/kylekorver-645.html"
+  },
+  {
+    "name": "Cedi Osman",
+    "player_id": "150011",
+    "salary": "263",
+    "url": "https://nba.hupu.com/players/cediosman-150011.html"
+  },
+  {
+    "name": "Rodney Hood",
+    "player_id": "4940",
+    "salary": "239",
+    "url": "https://nba.hupu.com/players/rodneyhood-4940.html"
+  },
+  {
+    "name": "Jeff Green",
+    "player_id": "1349",
+    "salary": "233",
+    "url": "https://nba.hupu.com/players/jeffgreen-1349.html"
+  },
+  {
+    "name": "Jose Calderon",
+    "player_id": "1090",
+    "salary": "230",
+    "url": "https://nba.hupu.com/players/josecalderon-1090.html"
+  },
+  {
+    "name": "Ante Zizic",
+    "player_id": "150194",
+    "salary": "165",
+    "url": "https://nba.hupu.com/players/antezizic-150194.html"
+  },
+  {
+    "name": "Larry Nance Jr.",
+    "player_id": "150030",
+    "salary": "126",
+    "url": "https://nba.hupu.com/players/larrynancejr-150030.html"
+  },
+  {
+    "name": "London Perrantes",
+    "player_id": "150830",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/londonperrantes-150830.html"
+  },
+  {
+    "name": "John Holland",
+    "player_id": "5018",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/johnholland-5018.html"
+  },
+  {
+    "name": "Kendrick Perkins",
+    "player_id": "47",
+    "salary": "2003",
+    "url": "https://nba.hupu.com/players/kendrickperkins-47.html"
+  },
+  {
+    "name": "Victor Oladipo",
+    "player_id": "4819",
+    "salary": "2100",
+    "url": "https://nba.hupu.com/players/victoroladipo-4819.html"
+  },
+  {
+    "name": "Thaddeus Young",
+    "player_id": "1237",
+    "salary": "1292",
+    "url": "https://nba.hupu.com/players/thaddeusyoung-1237.html"
+  },
+  {
+    "name": "Bojan Bogdanovic",
+    "player_id": "4972",
+    "salary": "1050",
+    "url": "https://nba.hupu.com/players/bojanbogdanovic-4972.html"
+  },
+  {
+    "name": "Darren Collison",
+    "player_id": "3384",
+    "salary": "1000",
+    "url": "https://nba.hupu.com/players/darrencollison-3384.html"
+  },
+  {
+    "name": "Al Jefferson",
+    "player_id": "827",
+    "salary": "1000",
+    "url": "https://nba.hupu.com/players/aljefferson-827.html"
+  },
+  {
+    "name": "Cory Joseph",
+    "player_id": "3582",
+    "salary": "763",
+    "url": "https://nba.hupu.com/players/coryjoseph-3582.html"
+  },
+  {
+    "name": "Lance Stephenson",
+    "player_id": "3488",
+    "salary": "400",
+    "url": "https://nba.hupu.com/players/lancestephenson-3488.html"
+  },
+  {
+    "name": "Myles Turner",
+    "player_id": "150026",
+    "salary": "267",
+    "url": "https://nba.hupu.com/players/mylesturner-150026.html"
+  },
+  {
+    "name": "Domantas Sabonis",
+    "player_id": "150175",
+    "salary": "255",
+    "url": "https://nba.hupu.com/players/domantassabonis-150175.html"
+  },
+  {
+    "name": "TJ Leaf",
+    "player_id": "150499",
+    "salary": "203",
+    "url": "https://nba.hupu.com/players/tjleaf-150499.html"
+  },
+  {
+    "name": "Glenn Robinson III",
+    "player_id": "4912",
+    "salary": "152",
+    "url": "https://nba.hupu.com/players/glennrobinsoniii-4912.html"
+  },
+  {
+    "name": "Joe Young",
+    "player_id": "150027",
+    "salary": "147",
+    "url": "https://nba.hupu.com/players/joeyoung-150027.html"
+  },
+  {
+    "name": "Ike Anigbogu",
+    "player_id": "150503",
+    "salary": "95",
+    "url": "https://nba.hupu.com/players/ikeanigbogu-150503.html"
+  },
+  {
+    "name": "Trevor Booker",
+    "player_id": "3471",
+    "salary": "45",
+    "url": "https://nba.hupu.com/players/trevorbooker-3471.html"
+  },
+  {
+    "name": "Alex Poythress",
+    "player_id": "150371",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/alexpoythress-150371.html"
+  },
+  {
+    "name": "Ben Moore",
+    "player_id": "150647",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/benmoore-150647.html"
+  },
+  {
+    "name": "Edmond Sumner",
+    "player_id": "150467",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/edmondsumner-150467.html"
+  },
+  {
+    "name": "Giannis Antetokounmpo",
+    "player_id": "4802",
+    "salary": "2247",
+    "url": "https://nba.hupu.com/players/giannisantetokounmpo-4802.html"
+  },
+  {
+    "name": "Eric Bledsoe",
+    "player_id": "3466",
+    "salary": "1450",
+    "url": "https://nba.hupu.com/players/ericbledsoe-3466.html"
+  },
+  {
+    "name": "Khris Middleton",
+    "player_id": "3676",
+    "salary": "1410",
+    "url": "https://nba.hupu.com/players/khrismiddleton-3676.html"
+  },
+  {
+    "name": "John Henson",
+    "player_id": "3651",
+    "salary": "1142",
+    "url": "https://nba.hupu.com/players/johnhenson-3651.html"
+  },
+  {
+    "name": "Tony Snell",
+    "player_id": "4784",
+    "salary": "982",
+    "url": "https://nba.hupu.com/players/tonysnell-4784.html"
+  },
+  {
+    "name": "Matthew Dellavedova",
+    "player_id": "4789",
+    "salary": "960",
+    "url": "https://nba.hupu.com/players/matthewdellavedova-4789.html"
+  },
+  {
+    "name": "Jabari Parker",
+    "player_id": "4914",
+    "salary": "678",
+    "url": "https://nba.hupu.com/players/jabariparker-4914.html"
+  },
+  {
+    "name": "Thon Maker",
+    "player_id": "150231",
+    "salary": "268",
+    "url": "https://nba.hupu.com/players/thonmaker-150231.html"
+  },
+  {
+    "name": "Jason Terry",
+    "player_id": "567",
+    "salary": "233",
+    "url": "https://nba.hupu.com/players/jasonterry-567.html"
+  },
+  {
+    "name": "D.J. Wilson",
+    "player_id": "150466",
+    "salary": "214",
+    "url": "https://nba.hupu.com/players/djwilson-150466.html"
+  },
+  {
+    "name": "Sterling Brown",
+    "player_id": "150548",
+    "salary": "138",
+    "url": "https://nba.hupu.com/players/sterlingbrown-150548.html"
+  },
+  {
+    "name": "Malcolm Brogdon",
+    "player_id": "150206",
+    "salary": "131",
+    "url": "https://nba.hupu.com/players/malcolmbrogdon-150206.html"
+  },
+  {
+    "name": "Shabazz Muhammad",
+    "player_id": "4812",
+    "salary": "35",
+    "url": "https://nba.hupu.com/players/shabazzmuhammad-4812.html"
+  },
+  {
+    "name": "Brandon Jennings",
+    "player_id": "3307",
+    "salary": "12",
+    "url": "https://nba.hupu.com/players/brandonjennings-3307.html"
+  },
+  {
+    "name": "Marshall Plumlee",
+    "player_id": "150346",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/marshallplumlee-150346.html"
+  },
+  {
+    "name": "Xavier Munford",
+    "player_id": "150161",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/xaviermunford-150161.html"
+  },
+  {
+    "name": "Blake Griffin",
+    "player_id": "3344",
+    "salary": "2951",
+    "url": "https://nba.hupu.com/players/blakegriffin-3344.html"
+  },
+  {
+    "name": "Andre Drummond",
+    "player_id": "3646",
+    "salary": "2378",
+    "url": "https://nba.hupu.com/players/andredrummond-3646.html"
+  },
+  {
+    "name": "Reggie Jackson",
+    "player_id": "3577",
+    "salary": "1600",
+    "url": "https://nba.hupu.com/players/reggiejackson-3577.html"
+  },
+  {
+    "name": "Jon Leuer",
+    "player_id": "3592",
+    "salary": "1050",
+    "url": "https://nba.hupu.com/players/jonleuer-3592.html"
+  },
+  {
+    "name": "Langston Galloway",
+    "player_id": "4990",
+    "salary": "667",
+    "url": "https://nba.hupu.com/players/langstongalloway-4990.html"
+  },
+  {
+    "name": "Ish Smith",
+    "player_id": "3516",
+    "salary": "600",
+    "url": "https://nba.hupu.com/players/ishsmith-3516.html"
+  },
+  {
+    "name": "Anthony Tolliver",
+    "player_id": "3193",
+    "salary": "330",
+    "url": "https://nba.hupu.com/players/anthonytolliver-3193.html"
+  },
+  {
+    "name": "Stanley Johnson",
+    "player_id": "150021",
+    "salary": "310",
+    "url": "https://nba.hupu.com/players/stanleyjohnson-150021.html"
+  },
+  {
+    "name": "James Ennis III",
+    "player_id": "4804",
+    "salary": "303",
+    "url": "https://nba.hupu.com/players/jamesennisiii-4804.html"
+  },
+  {
+    "name": "Luke Kennard",
+    "player_id": "150505",
+    "salary": "276",
+    "url": "https://nba.hupu.com/players/lukekennard-150505.html"
+  },
+  {
+    "name": "Reggie Bullock",
+    "player_id": "4806",
+    "salary": "250",
+    "url": "https://nba.hupu.com/players/reggiebullock-4806.html"
+  },
+  {
+    "name": "Jameer Nelson",
+    "player_id": "686",
+    "salary": "226",
+    "url": "https://nba.hupu.com/players/jameernelson-686.html"
+  },
+  {
+    "name": "Henry Ellenson",
+    "player_id": "150171",
+    "salary": "178",
+    "url": "https://nba.hupu.com/players/henryellenson-150171.html"
+  },
+  {
+    "name": "Eric Moreland",
+    "player_id": "4974",
+    "salary": "174",
+    "url": "https://nba.hupu.com/players/ericmoreland-4974.html"
+  },
+  {
+    "name": "Dwight Buycks",
+    "player_id": "3685",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/dwightbuycks-3685.html"
+  },
+  {
+    "name": "Reggie Hearn",
+    "player_id": "150885",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/reggiehearn-150885.html"
+  },
+  {
+    "name": "Kay Felder",
+    "player_id": "150224",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/kayfelder-150224.html"
+  },
+  {
+    "name": "Robin Lopez",
+    "player_id": "3036",
+    "salary": "1379",
+    "url": "https://nba.hupu.com/players/robinlopez-3036.html"
+  },
+  {
+    "name": "Omer Asik",
+    "player_id": "3068",
+    "salary": "1060",
+    "url": "https://nba.hupu.com/players/omerasik-3068.html"
+  },
+  {
+    "name": "Cristiano Felicio",
+    "player_id": "150065",
+    "salary": "784",
+    "url": "https://nba.hupu.com/players/cristianofelicio-150065.html"
+  },
+  {
+    "name": "Justin Holiday",
+    "player_id": "3741",
+    "salary": "462",
+    "url": "https://nba.hupu.com/players/justinholiday-3741.html"
+  },
+  {
+    "name": "Kris Dunn",
+    "player_id": "150168",
+    "salary": "405",
+    "url": "https://nba.hupu.com/players/krisdunn-150168.html"
+  },
+  {
+    "name": "Lauri Markkanen",
+    "player_id": "150439",
+    "salary": "382",
+    "url": "https://nba.hupu.com/players/laurimarkkanen-150439.html"
+  },
+  {
+    "name": "Noah Vonleh",
+    "player_id": "4965",
+    "salary": "351",
+    "url": "https://nba.hupu.com/players/noahvonleh-4965.html"
+  },
+  {
+    "name": "Zach LaVine",
+    "player_id": "4911",
+    "salary": "320",
+    "url": "https://nba.hupu.com/players/zachlavine-4911.html"
+  },
+  {
+    "name": "Cameron Payne",
+    "player_id": "150052",
+    "salary": "220",
+    "url": "https://nba.hupu.com/players/cameronpayne-150052.html"
+  },
+  {
+    "name": "Denzel Valentine",
+    "player_id": "150174",
+    "salary": "219",
+    "url": "https://nba.hupu.com/players/denzelvalentine-150174.html"
+  },
+  {
+    "name": "Sean Kilpatrick",
+    "player_id": "5045",
+    "salary": "210",
+    "url": "https://nba.hupu.com/players/seankilpatrick-5045.html"
+  },
+  {
+    "name": "Jerian Grant",
+    "player_id": "150040",
+    "salary": "171",
+    "url": "https://nba.hupu.com/players/jeriangrant-150040.html"
+  },
+  {
+    "name": "Bobby Portis",
+    "player_id": "150009",
+    "salary": "152",
+    "url": "https://nba.hupu.com/players/bobbyportis-150009.html"
+  },
+  {
+    "name": "David Nwaba",
+    "player_id": "150427",
+    "salary": "131",
+    "url": "https://nba.hupu.com/players/davidnwaba-150427.html"
+  },
+  {
+    "name": "Paul Zipser",
+    "player_id": "150210",
+    "salary": "131",
+    "url": "https://nba.hupu.com/players/paulzipser-150210.html"
+  },
+  {
+    "name": "Antonio Blakeney",
+    "player_id": "150634",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/antonioblakeney-150634.html"
+  },
+  {
+    "name": "Ryan Arcidiacono",
+    "player_id": "150266",
+    "salary": "7",
+    "url": "https://nba.hupu.com/players/ryanarcidiacono-150266.html"
+  },
+  {
+    "player_id": "4967",
+    "name": "Dwight Powell",
+    "salary": "894",
+    "url": "https://nba.hupu.com/players/dwightpowell-4967.html"
+  },
+  {
+    "player_id": "1447",
+    "name": "Marcin Gortat",
+    "salary": "1278",
+    "url": "https://nba.hupu.com/players/marcingortat-1447.html"
+  },
+  {
+    "player_id": "3654",
+    "name": "Tyler Zeller",
+    "salary": "171",
+    "url": "https://nba.hupu.com/players/tylerzeller-3654.html"
+  }
+]
