@@ -7,6 +7,7 @@
 """
 
 # 测试 requests 抓取 json 包
+# 结论：可以拿到json数据
 
 import json
 from scrapy.selector import Selector
@@ -20,8 +21,8 @@ header = {'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/53
 
 try:
     response = requests.get(url=url,headers=header,timeout=10)
-    # print(response.json())
-    print(response.text)
+    print(response.json())
+    # print(response.text)
 except Exception as e:
     print(e)
 
