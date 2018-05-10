@@ -1636,21 +1636,6 @@
   },
   {
     "team_id": 1610612739,
-    "player_id": 2570,
-    "name": "Kendrick Perkins",
-    "cloth_num": "21",
-    "pos": "C",
-    "height": 2.08,
-    "weight": 122,
-    "country": "USA",
-    "birthday": "1984-11-10",
-    "draft": "2003 Rnd 1 Pick 27",
-    "salary": 2003,
-    "armspan": 0.0,
-    "reach_height": 0.0
-  },
-  {
-    "team_id": 1610612739,
     "player_id": 1626204,
     "name": "Larry Nance Jr.",
     "cloth_num": "22",
@@ -2566,21 +2551,6 @@
   },
   {
     "team_id": 1610612737,
-    "player_id": 202379,
-    "name": "Jeremy Evans",
-    "cloth_num": "6",
-    "pos": "F",
-    "height": 2.05,
-    "weight": 90,
-    "country": "USA",
-    "birthday": "1987-10-24",
-    "draft": "2010 Rnd 2 Pick 55",
-    "salary": 2010,
-    "armspan": 2.18,
-    "reach_height": 2.77
-  },
-  {
-    "team_id": 1610612737,
     "player_id": 203705,
     "name": "Josh Magette",
     "cloth_num": "11",
@@ -3493,21 +3463,6 @@
     "salary": 2378,
     "armspan": 2.03,
     "reach_height": 2.54
-  },
-  {
-    "team_id": 1610612764,
-    "player_id": 201951,
-    "name": "Ty Lawson",
-    "cloth_num": "4",
-    "pos": "G",
-    "height": 1.8,
-    "weight": 88,
-    "country": "USA",
-    "birthday": "1987-11-03",
-    "draft": "2009 Rnd 1 Pick 18",
-    "salary": 2009,
-    "armspan": 1.85,
-    "reach_height": 2.4
   },
   {
     "team_id": 1610612764,
@@ -7003,21 +6958,6 @@
     "salary": 2378,
     "armspan": 2.27,
     "reach_height": 2.74
-  },
-  {
-    "team_id": 1610612740,
-    "player_id": 202348,
-    "name": "Jordan Crawford",
-    "cloth_num": "27",
-    "pos": "G",
-    "height": 1.95,
-    "weight": 88,
-    "country": "USA",
-    "birthday": "1988-10-23",
-    "draft": "2010 Rnd 1 Pick 27",
-    "salary": 2010,
-    "armspan": 0.0,
-    "reach_height": 0.0
   },
   {
     "team_id": 1610612740,

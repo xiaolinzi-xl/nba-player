@@ -68,10 +68,12 @@ def save_data(data,file_name):
         print(e)
 
 if __name__ == '__main__':
-    hupu_data = get_data('hupu/hupu_player_2.json')
+    hupu_data = get_data('hupu/hupu_player_4.json')
     nba_data = get_data('player_all.json')
 
+    print(len(hupu_data)) # 489
+    print(len(nba_data)) # 505
     data = get_common(nba_data=nba_data,hupu_data=hupu_data)
-    print(len(data)) # 490
+    print(len(data)) # 490 486
     # print(data)
     print(save_data(data,'player_filter.json'))
