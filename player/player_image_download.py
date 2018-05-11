@@ -33,7 +33,7 @@ def get_download_req(data):
 
         url = base_url.format(team_id=team_id,player_id=player_id)
         # dirname = os.path.join(os.path.dirname(__file__),'player_image',player_id)
-        dirname = os.path.join(os.path.dirname(__file__),'player_avatar')
+        dirname = os.path.join(os.path.dirname(__file__),'player_avatar_2')
         file_path = os.path.join(dirname,'{}.png'.format(player_id))
 
         req_list.append((url,dirname,file_path))
@@ -63,18 +63,18 @@ def download_image(req):
         print(e)
 
 
-def multi_process_image(req_list,processes=10):
+def multi_process_image(req_list,processes=4):
     start_time = time.time()
 
-    pool = Pool(processes=processes)
+    # pool = Pool(processes=processes)
 
     for req in req_list:
         # 201577,203898,201935
-        pool.apply_async(download_image,(req,))
-        # download_image(req)
+        # pool.apply_async(download_image,(req,))
+        download_image(req)
 
-    pool.close()
-    pool.join()
+    # pool.close()
+    # pool.join()
     end_time = time.time()
     print('下载完毕,用时:%s秒' % (end_time - start_time))
 
